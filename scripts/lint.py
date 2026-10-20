@@ -59,10 +59,11 @@ for root, _, fs in os.walk(R):
                         if bad in slug: issues.append(f"FOLDER  {rel}: looks like a band, not a player")
                 if folder == "labels" and not re.search(r"records|label|beat", txt[:400].lower()):
                     issues.append(f"FOLDER  {rel}: check this is really a record label")
-            # non-English heuristic (only for page bodies, skip log/index)
+            # non-English heuristic (only for page bodies, skip log/index) — WARNING only:
+            # flags legitimate cases too ("à la", foreign names like "van der Wal", quoted foreign press)
             if nonword.search(txt) and f not in ("README.md",):
                 hits = ", ".join(sorted({w.lower() for w in nonword.findall(txt)})[:5])
-                issues.append(f"LANG?   {rel}: possible non-English words: {hits}")
+                print(f"warn LANG? {rel}: possible non-English words: {hits}")
         # orphan + inbound
         for l in set(links):
             pass
