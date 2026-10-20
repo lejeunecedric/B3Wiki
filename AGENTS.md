@@ -88,8 +88,19 @@ Fix what you find. Log the lint run (`## [date] lint | N issues`).
 - A scheduled agent (Hermes cronjob `b3wiki-self-update`, Mondays 09:00 UTC) does: orient → ingest 1–2 sources → cross-reference → weblinks → lint → commit → push. If you are that agent, the same rules apply; your final report states sources ingested, pages created/updated, lint findings, and the push hash.
 - Pending/known threads are tracked in `log.md` and in the "Open threads" section of `queries/b3-beyond-jimmy-smith.md` — check them before choosing what to work on.
 
-## 7. House style
+## 7. Non-negotiable rules
 
-- English pages, factual, scannable; one page = one entity/concept/lesson.
-- Fun is allowed in the README, not in entity pages.
-- When sources contradict folklore (dates, spellings, "everyone knows" stories), the sources win — and the correction gets logged.
+1. **Always English.** All wiki pages, index, log entries and commit messages are written in English — even when the source is French, Dutch, German…
+2. **Always verify your sources.** Never trust a single unverified claim: cross-check dates, spellings and discographies against at least the source's own references or a second source before writing them as fact. Unverifiable claims stay out, or go in with `confidence: low` and the doubt stated. Sources beat folklore.
+3. **Entity folders are strict — the folder must match the subject:**
+   - `entities/players/` = **organists only** (people who actually play the Hammond on stage/records)
+   - `entities/bands/` = organ-led bands & groups
+   - `entities/manufacturers/` = companies building organs/gear
+   - `entities/labels/` = record labels
+   - `entities/people/` = non-player humans (inventors, engineers, producers…)
+   - `entities/albums/` = landmark albums and recordings
+   If a page doesn't fit its folder's definition, move it or split it — don't leave mismatches.
+
+## 8. Proactive page creation
+
+When an ingested source or a page you're writing **cites a new entity**, don't leave it as plain prose: create a page for it if it meets the Page Thresholds (SCHEMA) — new **players, bands, labels, albums, manufacturers, people** all deserve a fiche. At minimum, mark it for the next run in `log.md` ("candidate: [[slug]]"). A wiki that mentions entities it doesn't document is accumulating debt; create as you go, cross-link both ways, and keep `index.md` in sync.

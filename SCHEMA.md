@@ -47,6 +47,7 @@ sha256: <hex digest of the body below the frontmatter>
 - `music` — genres, playing styles, notable recordings
 - `modern` — clonewheels, digital emulations, current products
 - `label` — record labels dedicated to organ music
+- `album` — landmark albums and recordings
 - `comparison` — side-by-side analyses
 - `query` — filed query results
 - `source` — note about an ingested source
@@ -61,11 +62,12 @@ sha256: <hex digest of the body below the frontmatter>
 ## Entity Pages
 Entities live in `entities/` **subfolders by kind**:
 - `entities/instruments/` — organs, speakers, clonewheels (Korg CX-3, Roland VK series, Nord C2D…)
-- `entities/players/` — musicians
+- `entities/players/` — **organists only** (people who play the Hammond on stage/records)
 - `entities/manufacturers/` — companies (Hammond, Suzuki, Korg, Roland, Clavia…)
-- `entities/bands/` — organ-led bands (JTQ, The Link Quartet…)
+- `entities/bands/` — organ-led bands (JTQ, The Link Quartet, Parlor Greens…)
+- `entities/albums/` — landmark albums and recordings
 - `entities/labels/` — record labels dedicated to organ music (Hammondbeat, Scufflin'…)
-- `entities/people/` — inventors, engineers, non-player figures
+- `entities/people/` — non-player humans: inventors, engineers, producers
 
 One page per notable entity (person, company, instrument model, product line). Overview, key facts/dates, relationships via `[[wikilinks]]`, sources.
 
