@@ -95,3 +95,19 @@
 - Files updated: entities/labels/hammondbeat.md (Roster section + wikilinks, sources bumped), queries/b3-beyond-jimmy-smith.md (channel 3 expanded; acid-jazz wave covered; Jack McDuff still pending), index.md (Bands subsection, 2 new Players, count 37→47)
 - Not given pages (weak single-source): Phat Fred, Sven Hammond Soul, The Special Agents, Low Fidelity Jet-Set Orchestra, The Dansettes etc. — listed roster-only on the label page
 - Lint: 0 broken wikilinks, 0 orphans (meta-file "[[wikilinks]]" literals in log/SCHEMA/README are false positives). Page count 37→47 (wiki .md excl raw).
+
+## [2026-10-20] ingest | modern organ scene sources (5)
+- raw/articles/wikipedia-delvon-lamarr-organ-trio.md (sha256 8d50b28a3b9c…)
+- raw/articles/wikipedia-cookin-on-3-burners.md (sha256 e61253dd7b18…)
+- raw/articles/flophouse-the-pulitzers-honk-honk.md (sha256 63aa33545207…)
+- raw/articles/bandcampdaily-parlor-greens-emeralds.md (sha256 5641a7739b59…)
+- raw/articles/sfjazz-cory-henry-funk-apostles.md (sha256 c3c1b6830ad7…)
+
+## [2026-10-20] create | The modern organ scene (7 pages)
+- entities/bands/delvon-lamarr-organ-trio.md, entities/players/delvon-lamarr.md
+- entities/bands/parlor-greens.md, entities/players/jimmy-james.md — user's "Jimmy James new trio" confirmed: Parlor Greens (Colemine, 2025, Emeralds)
+- entities/bands/the-pulitzers.md — VERIFIED but corrected: Dutch (not French) Hammond funk quartet, Frank Montis, Honk Honk (Zip Records, 2023)
+- entities/players/cory-henry.md (Cory Henry & The Funk Apostles, Divine Time 2025)
+- entities/bands/cookin-on-3-burners.md ("This Girl"/Kungs; Cookin' the Books 2025)
+- queries/modern-organ-scene.md — synthesis: labels (Colemine/Karma Chief, Zip, Soul Messin'), streaming/KEXP discovery, 60s-trio differences
+- index.md: 7 new entries; page count 47 -> 54

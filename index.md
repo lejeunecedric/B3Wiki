@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-20 | Total pages: 47
+> Last updated: 2026-10-20 | Total pages: 54
 
 ## Entities
 
@@ -29,6 +29,9 @@
 - [[players/booker-t-jones|Booker T. Jones]] — Stax organist (b. 1944); "Green Onions" and the bridge from church/R&B organ to rock.
 - [[players/eddy-louiss|Eddy Louiss]] — French jazz organist (1941–2015); Nougaro's accompanist, Stan Getz quartet 1971, France's beloved Hammond voice.
 - [[players/paolo-negri|Paolo 'Apollo' Negri]] — Italian organist (b. 1979) of The Link Quartet; Hammondbeat's most prolific solo artist.
+- [[players/delvon-lamarr|Delvon Lamarr]] — Self-taught Seattle organist; leader of DLO3, drummer-turned-organist with perfect pitch.
+- [[players/jimmy-james|Jimmy James]] — Seattle guitarist of DLO3 (2015–2022), True Loves, and now Parlor Greens.
+- [[players/cory-henry|Cory Henry]] — Brooklyn gospel-to-funk keyboardist (ex-Snarky Puppy); leads The Funk Apostles.
 
 ### Bands
 <!-- Organ-led bands (acid-jazz/revival scene and beyond). -->
@@ -37,6 +40,10 @@
 - [[bands/link-quartet|The Link Quartet]] — Piacenza, Italy quartet (1993–); Hammondbeat's flagship act, JTQ-influenced funk/rock/soul.
 - [[bands/men-from-spectre|The Men From S.P.E.C.T.R.E.]] — Winterthur, Switzerland; spy-soundtrack Hammond organ rock (The Living Eye, 2006).
 - [[bands/leslie-overdrive|Leslie Overdrive]] — Danish organ-funk quartet (2005–); ...With the Hammond, In the Beauty (2007).
+- [[bands/delvon-lamarr-organ-trio|Delvon Lamarr Organ Trio]] — Seattle soul-jazz trio (2015–); Colemine's Billboard-charting flagship of the modern revival.
+- [[bands/parlor-greens|Parlor Greens]] — Jimmy James's 2025 organ trio with Adam Scone and Tim Carman (Colemine); Emeralds.
+- [[bands/the-pulitzers|The Pulitzers]] — Dutch Hammond funk quartet (Frank Montis); Honk Honk (Zip Records, 2023).
+- [[bands/cookin-on-3-burners|Cookin' on 3 Burners]] — Melbourne Hammond trio (1997–); "This Girl", the Kungs 2016 #1.
 
 ### Labels
 
@@ -79,4 +86,5 @@
 
 - [[queries/b3-beyond-jimmy-smith|Who carried the B-3 beyond Jimmy Smith?]] - Four channels of spread: soul-jazz legion, British rock, revival labels, gospel/modern trio mainstream.
 - [[queries/hammond-landmark-albums|Landmark Hammond albums]] - Great organ albums: Deep Purple (Lord), ELP (Emerson), Mother Earth (US; Naftalin), Santana (Rolie) — and what the Hammond does in each idiom.
+- [[queries/modern-organ-scene|The modern organ scene]] - Who carries the B-3 now: DLO3, Parlor Greens, The Pulitzers, Cookin' on 3 Burners, Cory Henry; labels, discovery, lineage.
 
