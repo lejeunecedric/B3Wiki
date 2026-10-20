@@ -1,12 +1,36 @@
-# B3Wiki weekly newsletter — week of 2026-10-19
+# THE B3WIKI DISPATCH
 
-_Generated 2026-10-20 from wiki frontmatter by `scripts/newsletter.py`._
+*Vol. 43 — week of 2026-10-19 to 2026-10-25, printed 2026-10-20 by `scripts/newsletter.py`*
 
-## This week's anniversaries
+## New releases this week
 
-_No birthdays or release anniversaries fall in this week's window. Pages only become eligible when frontmatter carries full dates (`born: YYYY-MM-DD`, `released: YYYY-MM-DD`) — year-only dates can't be celebrated._
+No anniversary pressings fall inside this week's window — the crates only yield a story when an album page carries a full `released: YYYY-MM-DD` in its frontmatter.
 
-## Recently updated pages
+**Coming up on the calendar** (dates from the wiki):
+
+- **Brain Salad Surgery** (1973) — the needle drops in 48 days (2026-12-07), [[brain-salad-surgery]]
+- **I Told You So** (2021) — the needle drops in 101 days (2027-01-29), [[i-told-you-so]]
+- **Machine Head** (1972) — the needle drops in 161 days (2027-03-30), [[machine-head]]
+
+## Special
+
+**This issue's special: Stax Records** (label)
+
+**Stax Records** is the Memphis soul label founded by **Jim Stewart** in **1957** as Satellite Records, renamed **Stax** in September 1961; with its sister label Volt it defined the Southern soul sound out of a converted movie theater on McLemore Avenue. Stax's house band, **Booker T. & the M.G.'s**, was one of the first racially integrated groups of session musicians in the South, and its keyboard chair — Booker T. Jones on the Hammond B-3 and piano — turned the church-organ voice into the engine of hit instrumental R&B. "Green Onions" (1962) is the single most famous Hammond-led hit of the 1960s and a textbook of restraint: drawbar-set groove, Leslie speed swells, and space.
+
+Dig deeper in [[stax-records]].
+
+## Anniversaries
+
+No birthdays inside this week's window, so the cards go out early:
+
+### Keith Emerson (1944)
+
+The candles come out in 13 days — turning **83**. **Keith Noel Emerson** (2 November 1944, Todmorden, Yorkshire – 11 March 2016, Santa Monica, California), English keyboardist and composer, co-founder of The Nice and of Emerson, Lake & Palmer (ELP). One of the first rock keyboardists to treat the Hammond organ as a full lead instrument — flipped, abused and pyrotechnic — alongside the Moog synthesizer.
+
+## Back pages
+
+### Recent edits
 
 - 2026-10-20 — [[living-with-the-animals]] — Living with the Animals
 - 2026-10-20 — [[brain-salad-surgery]] — Brain Salad Surgery
@@ -18,30 +42,24 @@ _No birthdays or release anniversaries fall in this week's window. Pages only be
 - 2026-10-20 — [[clavia]] — Clavia
 - 2026-10-20 — [[korg]] — Korg
 - 2026-10-20 — [[suzuki-musical-instrument]] — Suzuki Musical Instrument Corporation
-- 2026-10-20 — [[hammond-organ-company]] — Hammond Organ Company
-- 2026-10-20 — [[roland-corporation]] — Roland Corporation
+- _…and 70 more_
 
-## Newly ingested references
+### New in the reference room
 
-- 2026-10-20 — [wikipedia-rocky-mount-instruments](https://en.wikipedia.org/wiki/Rocky_Mount_Instruments)
-- 2026-10-20 — [men-from-spectre-allmusic-discogs](https://discogs.com/artist/275292-The-Men-From-SPECTRE)
-- 2026-10-20 — [wikipedia-mother-earth-american-band](https://en.wikipedia.org/wiki/Mother_Earth_(American_band))
-- 2026-10-20 — [wikipedia-groove-merchant](https://en.wikipedia.org/wiki/Groove_Merchant)
-- 2026-10-20 — [wikipedia-james-taylor-quartet](https://en.wikipedia.org/wiki/James_Taylor_Quartet)
-- 2026-10-20 — [wikipedia-leslie-speaker](https://en.wikipedia.org/wiki/Leslie_speaker)
-- 2026-10-20 — [wikipedia-abraxas-album](https://en.wikipedia.org/wiki/Abraxas_(album))
-- 2026-10-20 — [wikipedia-marshall-amplification](https://en.wikipedia.org/wiki/Marshall_Amplification)
-- 2026-10-20 — [wikipedia-john-medeski](https://en.wikipedia.org/wiki/John_Medeski)
-- 2026-10-20 — [wikipedia-cookin-on-3-burners](https://en.wikipedia.org/wiki/Cookin%27_on_3_Burners)
-- 2026-10-20 — [wikipedia-gregg-rolie](https://en.wikipedia.org/wiki/Gregg_Rolie)
-- 2026-10-20 — [colemine-records-about-us](https://coleminerecords.com/pages/about-us)
-- 2026-10-20 — [wikipedia-blue-note-records](https://en.wikipedia.org/wiki/Blue_Note_Records)
-- 2026-10-20 — [hammondorganco-hammond-story](https://hammondorganco.com/the-hammond-story)
-- 2026-10-20 — [wikipedia-joey-defrancesco](https://en.wikipedia.org/wiki/Joey_DeFrancesco)
+- [wikipedia-rocky-mount-instruments](https://en.wikipedia.org/wiki/Rocky_Mount_Instruments)
+- [men-from-spectre-allmusic-discogs](https://discogs.com/artist/275292-The-Men-From-SPECTRE)
+- [wikipedia-mother-earth-american-band](https://en.wikipedia.org/wiki/Mother_Earth_(American_band))
+- [wikipedia-groove-merchant](https://en.wikipedia.org/wiki/Groove_Merchant)
+- [wikipedia-james-taylor-quartet](https://en.wikipedia.org/wiki/James_Taylor_Quartet)
+- [wikipedia-leslie-speaker](https://en.wikipedia.org/wiki/Leslie_speaker)
+- [wikipedia-abraxas-album](https://en.wikipedia.org/wiki/Abraxas_(album))
+- [wikipedia-marshall-amplification](https://en.wikipedia.org/wiki/Marshall_Amplification)
+- [wikipedia-john-medeski](https://en.wikipedia.org/wiki/John_Medeski)
+- [wikipedia-cookin-on-3-burners](https://en.wikipedia.org/wiki/Cookin%27_on_3_Burners)
 
-_…and 35 more ingested this week (see `raw/`)._
+_…and 42 more (see `raw/`)._
 
-## Queries on file
+### Queries on file
 
 - [[modern-organ-scene]] — The Modern Organ Scene _(updated 2026-10-20)_
 - [[b3-beyond-jimmy-smith]] — Who carried the B-3 beyond Jimmy Smith? _(updated 2026-10-20)_
