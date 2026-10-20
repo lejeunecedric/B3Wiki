@@ -3,8 +3,10 @@ title: Jon Lord
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 2012-07-16
+born: 1941-06-09
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-jon-lord.md]
+sources: [raw/articles/wikipedia-jon-lord.md, https://en.wikipedia.org/wiki/Jon_Lord]
 confidence: high
 ---
 

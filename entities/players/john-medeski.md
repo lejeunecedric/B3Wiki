@@ -3,8 +3,9 @@ title: John Medeski
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+born: 1965-06-28
 tags: [person, music, modern]
-sources: [raw/articles/wikipedia-john-medeski.md]
+sources: [raw/articles/wikipedia-john-medeski.md, https://en.wikipedia.org/wiki/John_Medeski]
 confidence: medium
 ---
 

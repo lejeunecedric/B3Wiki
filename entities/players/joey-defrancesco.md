@@ -3,8 +3,10 @@ title: Joey DeFrancesco
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 2022-08-25
+born: 1971-04-10
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-joey-defrancesco.md]
+sources: [raw/articles/wikipedia-joey-defrancesco.md, https://en.wikipedia.org/wiki/Joey_DeFrancesco]
 confidence: medium
 ---
 

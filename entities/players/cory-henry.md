@@ -3,8 +3,9 @@ title: Cory Henry
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+born: 1987-02-27
 tags: [person, music, modern]
-sources: [raw/articles/sfjazz-cory-henry-funk-apostles.md]
+sources: [raw/articles/sfjazz-cory-henry-funk-apostles.md, https://en.wikipedia.org/wiki/Cory_Henry]
 confidence: high
 ---
 

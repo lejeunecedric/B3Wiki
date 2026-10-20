@@ -3,8 +3,10 @@ title: "Brother" Jack McDuff
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 2001-01-23
+born: 1926-09-17
 tags: [person, music]
-sources: [raw/articles/wikipedia-hammond-organ.md, raw/articles/wikipedia-jimmy-smith.md, raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md, raw/articles/hammondorganco-hammond-story.md, raw/articles/wikipedia-keith-emerson.md, raw/articles/wikipedia-leslie-speaker.md]
+sources: [raw/articles/wikipedia-hammond-organ.md, raw/articles/wikipedia-jimmy-smith.md, raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md, raw/articles/hammondorganco-hammond-story.md, raw/articles/wikipedia-keith-emerson.md, raw/articles/wikipedia-leslie-speaker.md, https://en.wikipedia.org/wiki/Jack_McDuff]
 confidence: high
 ---
 

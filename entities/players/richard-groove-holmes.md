@@ -3,8 +3,10 @@ title: Richard "Groove" Holmes
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 1991-06-29
+born: 1931-05-02
 tags: [person, music]
-sources: [raw/articles/wikipedia-jimmy-smith.md, raw/articles/wikipedia-jimmy-mcgriff.md, raw/articles/hammondorganco-hammond-story.md, raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md, raw/articles/wikipedia-groove-merchant.md]
+sources: [raw/articles/wikipedia-jimmy-smith.md, raw/articles/wikipedia-jimmy-mcgriff.md, raw/articles/hammondorganco-hammond-story.md, raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md, raw/articles/wikipedia-groove-merchant.md, https://en.wikipedia.org/wiki/Richard_Holmes_(organist)]
 confidence: high
 ---
 

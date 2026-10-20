@@ -3,8 +3,9 @@ title: Barbara Dennerlein
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+born: 1964-09-25
 tags: [person, music, technology]
-sources: [raw/articles/wikipedia-barbara-dennerlein.md]
+sources: [raw/articles/wikipedia-barbara-dennerlein.md, https://en.wikipedia.org/wiki/Barbara_Dennerlein]
 confidence: medium
 ---
 

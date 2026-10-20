@@ -3,8 +3,10 @@ title: Wild Bill Davis
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 1995-08-17
+born: 1918-11-24
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-jimmy-smith.md, raw/articles/hammondorganco-hammond-story.md]
+sources: [raw/articles/wikipedia-jimmy-smith.md, raw/articles/hammondorganco-hammond-story.md, https://en.wikipedia.org/wiki/Wild_Bill_Davis]
 confidence: medium
 ---
 

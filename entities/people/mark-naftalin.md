@@ -3,8 +3,9 @@ title: Mark Naftalin
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+born: 1944-08-02
 tags: [person, music]
-sources: [raw/articles/wikipedia-mother-earth-american-band.md, raw/articles/rockasteria-mother-earth-living-with-animals.md]
+sources: [raw/articles/wikipedia-mother-earth-american-band.md, raw/articles/rockasteria-mother-earth-living-with-animals.md, https://en.wikipedia.org/wiki/Mark_Naftalin]
 confidence: medium
 ---
 

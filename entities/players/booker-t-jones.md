@@ -3,8 +3,9 @@ title: Booker T. Jones
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+born: 1944-11-12
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-booker-t-jones.md]
+sources: [raw/articles/wikipedia-booker-t-jones.md, https://en.wikipedia.org/wiki/Booker_T._Jones]
 confidence: medium
 ---
 

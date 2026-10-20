@@ -3,8 +3,9 @@ title: Brian Auger
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+born: 1939-07-18
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-brian-auger.md, raw/articles/doctormix-rarest-hammond.md]
+sources: [raw/articles/wikipedia-brian-auger.md, raw/articles/doctormix-rarest-hammond.md, https://en.wikipedia.org/wiki/Brian_Auger]
 confidence: medium
 ---
 

@@ -3,8 +3,9 @@ title: Jimmy Smith
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 2005-02-08
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-hammond-organ.md, raw/articles/wikipedia-jimmy-smith.md, raw/articles/hammondorganco-hammond-story.md]
+sources: [raw/articles/wikipedia-hammond-organ.md, raw/articles/wikipedia-jimmy-smith.md, raw/articles/hammondorganco-hammond-story.md, https://en.wikipedia.org/wiki/Jimmy_Smith_(musician)]
 confidence: high
 ---
 

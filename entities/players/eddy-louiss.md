@@ -3,8 +3,10 @@ title: Eddy Louiss
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 2015-06-30
+born: 1941-05-02
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-eddy-louiss.md]
+sources: [raw/articles/wikipedia-eddy-louiss.md, https://fr.wikipedia.org/wiki/Eddy_Louiss]
 confidence: medium
 ---
 

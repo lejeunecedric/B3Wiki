@@ -3,8 +3,10 @@ title: Laurens Hammond
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 1973-07-03
+born: 1895-01-11
 tags: [person, history, technology]
-sources: [raw/articles/wikipedia-hammond-organ.md, raw/articles/hammondorganco-hammond-story.md]
+sources: [raw/articles/wikipedia-hammond-organ.md, raw/articles/hammondorganco-hammond-story.md, https://en.wikipedia.org/wiki/Laurens_Hammond]
 confidence: high
 ---
 

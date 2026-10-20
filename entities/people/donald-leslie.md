@@ -3,8 +3,10 @@ title: Donald J. Leslie
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 2004-09-02
+born: 1911-04-13
 tags: [person, history, technology]
-sources: [raw/articles/wikipedia-leslie-speaker.md, raw/articles/hammondorganco-hammond-story.md]
+sources: [raw/articles/wikipedia-leslie-speaker.md, raw/articles/hammondorganco-hammond-story.md, https://en.wikipedia.org/wiki/Donald_Leslie]
 confidence: high
 ---
 

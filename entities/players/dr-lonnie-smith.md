@@ -3,8 +3,10 @@ title: Dr. Lonnie Smith
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 2021-09-28
+born: 1942-07-03
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-dr-lonnie-smith.md]
+sources: [raw/articles/wikipedia-dr-lonnie-smith.md, https://en.wikipedia.org/wiki/Dr._Lonnie_Smith]
 confidence: high
 ---
 

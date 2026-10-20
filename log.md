@@ -163,3 +163,9 @@
 ## [2026-10-20] newsletter | 70s-press rewrite
 - Rewrote `scripts/newsletter.py` as a music-magazine dispatch: NEW RELEASES (week-of album anniversaries + nearest-upcoming preview), SPECIAL (rotating concept/label/manufacturer/query feature with prose pulled from the page), ANNIVERSARIES (birthdays/deaths + early-card fallback), BACK PAGES (recent edits, reference room, queries)
 - Regenerated `content/newsletters/261020-B3Wiki-newsletter.md`
+
+## [2026-10-20] dates | frontmatter date enrichment from Wikidata
+- Added `scripts/enrich-dates.py` (batched Wikipedia->Wikidata resolver, prose cross-check, --plan/--apply)
+- 15 player/people pages got `born:` (+ `died:`) from Wikidata, cross-checked against page prose; Wikipedia URL added to sources
+- Skipped (flagged or unresolved): jimmy-smith born (contested 1925/1928), back-at-the-chicken-shack released (WD says 1960 vs prose 1963), living-with-the-animals (no Wikidata item), jimmy-james (identity mismatch - Seattle guitarist, not UK artist), delvon-lamarr, paolo-negri, renato-lombardi (no Wikidata item)
+- Regenerated newsletter

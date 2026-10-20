@@ -3,8 +3,10 @@ title: Jimmy McGriff
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 2008-05-24
+born: 1936-04-03
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-jimmy-mcgriff.md]
+sources: [raw/articles/wikipedia-jimmy-mcgriff.md, https://en.wikipedia.org/wiki/Jimmy_McGriff]
 confidence: high
 ---
 

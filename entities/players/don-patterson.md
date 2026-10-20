@@ -3,8 +3,10 @@ title: Don Patterson
 created: 2026-10-20
 updated: 2026-10-20
 type: entity
+died: 1988-02-10
+born: 1936-07-22
 tags: [person, music]
-sources: [raw/articles/wikipedia-jimmy-smith.md, raw/articles/hammondorganco-hammond-story.md, raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md, raw/articles/organissimo-bft66-hammond-b3.md]
+sources: [raw/articles/wikipedia-jimmy-smith.md, raw/articles/hammondorganco-hammond-story.md, raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md, raw/articles/organissimo-bft66-hammond-b3.md, https://en.wikipedia.org/wiki/Don_Patterson_(organist)]
 confidence: high
 ---
 
