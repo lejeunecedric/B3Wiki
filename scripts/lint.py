@@ -23,14 +23,14 @@ slugs, meta = set(), {}
 for sub in ["entities", "concepts", "comparisons", "queries"]:
     for root, _, fs in os.walk(os.path.join(R, sub)):
         for f in fs:
-            if f.endswith(".md") and f != "index.md" and f != "SCHEMA.md":
+            if f.endswith(".md") and f != "index.md" and f != "SCHEMA.md" and f != "_index.md":
                 slugs.add(f[:-3])
 
 nonword = re.compile(r"\b(le|la|les|des|une|un|et|der|die|das|und|het|een)\b", re.I)
 for root, _, fs in os.walk(R):
     if ".git" in root: continue
     for f in fs:
-        if not f.endswith(".md"): continue
+        if not f.endswith(".md") or f == "_index.md": continue
         p = os.path.join(root, f); rel = os.path.relpath(p, R)
         txt = open(p, encoding="utf-8", errors="replace").read()
         links = [l.split("/")[-1] for l in re.findall(r"\[\[([^\]|#]+)", txt)]
@@ -71,7 +71,7 @@ inbound = {s: 0 for s in slugs}
 for root, _, fs in os.walk(R):
     if ".git" in root: continue
     for f in fs:
-        if f.endswith(".md") and f not in ("SCHEMA.md", "log.md"):
+        if f.endswith(".md") and f != "_index.md" and f not in ("SCHEMA.md", "log.md"):
             txt = open(os.path.join(root, f), encoding="utf-8", errors="replace").read()
             for l in re.findall(r"\[\[([^\]|#]+)", txt):
                 l = l.split("/")[-1]

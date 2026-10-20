@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-20 | Total pages: 54
+> Last updated: 2026-10-20 | Total pages: 66
 
 ## Entities
 
@@ -48,6 +48,12 @@
 ### Labels
 
 - [[labels/hammondbeat|Hammondbeat Records]] — Organ-sound record label (2002), grown from the JTQgroove acid-jazz fan site.
+- [[labels/blue-note-records|Blue Note Records]] — Jazz label (1939); codified the soul-jazz organ with Jimmy Smith and Dr. Lonnie Smith.
+- [[labels/stax-records|Stax Records]] — Memphis soul label (1957); Booker T. Jones's B-3 turned church organ into hit R&B.
+- [[labels/verve-records|Verve Records]] — Norman Granz's jazz label (1956); carried Jimmy Smith to mass popularity after Blue Note.
+- [[labels/colemine-records|Colemine Records]] — Ohio soul/funk indie (2007, incl. Karma Chief); flagship label of the modern organ-trio revival.
+- [[labels/groove-merchant|Groove Merchant]] — Sonny Lester's 1970s soul-jazz label; second act for McGriff and Lonnie Smith.
+- [[labels/zip-records|Zip Records]] — San Francisco/Amsterdam indie (1997); home of The Pulitzers' Hammond funk.
 - [[players/wild-bill-davis|Wild Bill Davis]] - Bridge figure in the gospel-to-jazz-organ lineage; the catalyst for Jimmy Smith's switch to organ.
 
 ### Manufacturers
@@ -58,6 +64,19 @@
 - [[manufacturers/korg|Korg]] - Maker of the 1980 CX-3 / BX-3 analog clonewheels.
 - [[manufacturers/roland-corporation|Roland Corporation]] - Maker of the VK-1, VK-7, VK-8 lineage of clonewheels (1978 onward).
 - [[manufacturers/clavia|Clavia]] - Swedish maker of the Nord line of stage keyboards and combo organs.
+- [[manufacturers/farfisa|Farfisa]] - Italian maker of cheap transistor combo organs (Compact, 1964); the B-3's portability/price rival.
+- [[manufacturers/vox|Vox]] - British amp maker (1957); its 1962 Continental drawbar combo organ is the classic transistor rival.
+- [[manufacturers/rmi|RMI (Rocky Mount Instruments)]] - Allen Organ subsidiary (1966-1982) making the Electra-pianos in Jon Lord's and Brian Auger's rigs.
+- [[manufacturers/marshall-amplification|Marshall Amplification]] - British amp maker (1962); the overdriven stacks Jon Lord used to make the Hammond heavy.
+
+### Albums
+<!-- Landmark albums and recordings. -->
+
+- [[albums/machine-head|Machine Head]] - Deep Purple (1972); Jon Lord's Marshall-driven Hammond as hard rock's second lead instrument.
+- [[albums/abraxas|Abraxas]] - Santana (1970); Gregg Rolie's B-3 in call-and-response with Carlos Santana's guitar.
+- [[albums/brain-salad-surgery|Brain Salad Surgery]] - ELP (1973); Emerson's Hammond and Moog as equal leads in "Karn Evil 9".
+- [[albums/back-at-the-chicken-shack|Back at the Chicken Shack]] - Jimmy Smith (rec. 1960, rel. 1963, Blue Note); the blues side of the Smith canon.
+- [[albums/i-told-you-so|I Told You So]] - Delvon Lamarr Organ Trio (2021, Colemine); the organ trio charting in the streaming era.
 
 ### People
 <!-- Inventors, engineers, non-player figures. -->

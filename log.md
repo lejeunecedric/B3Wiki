@@ -115,3 +115,21 @@
 ## [2026-10-20] restructure | players folder audit
 - Intruder removed: entities/players/jimmy-james.md → entities/people/jimmy-james.md (guitarist, not an organist; note added in page + rule clarified in AGENTS.md §7)
 - All other 14 player pages verified: organists only
+
+## [2026-10-20] ingest | labels, manufacturers, landmark albums (13 new sources)
+- raw/articles/wikipedia-{blue-note-records, stax-records, verve-records, groove-merchant, farfisa, vox, rocky-mount-instruments, marshall-amplification, brain-salad-surgery, back-at-the-chicken-shack}.md
+- raw/articles/colemine-records-about-us.md + grammy-colemine-15-years.md (no Wikipedia article for Colemine)
+- raw/articles/ziprecords-nl-about.md (no Wikipedia article for Zip Records)
+
+## [2026-10-20] create | entity gap-fill: 6 labels, 4 manufacturers, 5 landmark albums
+- labels/: blue-note-records, stax-records, verve-records, colemine-records (Karma Chief covered inside), groove-merchant, zip-records — all with 2+ wiki citations except stax (1, but Booker T. page central) and marshall (per task brief)
+- Pilgrimage NOT created: only 1 wiki citation (dr-lonnie-smith) — below threshold
+- manufacturers/: farfisa, vox, rmi (Wikipedia title is "Rocky Mount Instruments"), marshall-amplification
+- albums/ (new): machine-head, abraxas, brain-salad-surgery, back-at-the-chicken-shack (chosen over The Sermon! — has its own Wikipedia article), i-told-you-so
+- frontmatter dates per AGENTS.md §9: founded: on labels/manufacturers, released: on albums (Machine Head 1972-03-30, Abraxas 1970-09-23, BSS 1973-12-07, Chicken Shack 1963 year-only, I Told You So 2021-01-29)
+- _index.md files created for all 7 entity subfolders; labels/manufacturers/albums fully populated
+- index.md: Labels/Manufacturers entries + new Albums section; count 54 -> 66
+
+## [2026-10-20] lint | 0 issues (66 wiki pages)
+- lint.py: _index.md files now treated as meta-files (excluded from slugs/FRONT/orphan checks)
+- 4 LANG warnings are false positives ("die" in book title, French/Dutch names) — allowed
