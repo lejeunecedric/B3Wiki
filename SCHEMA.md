@@ -47,6 +47,7 @@ sha256: <hex digest of the body below the frontmatter>
 - `music` — genres, playing styles, notable recordings
 - `modern` — clonewheels, digital emulations, current products
 - `label` — record labels dedicated to organ music
+- `band` — organ-led bands & groups
 - `album` — landmark albums and recordings
 - `comparison` — side-by-side analyses
 - `query` — filed query results
