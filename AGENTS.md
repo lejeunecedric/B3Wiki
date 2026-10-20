@@ -85,7 +85,7 @@ Fix what you find. Log the lint run (`## [date] lint | N issues`).
 
 ## 6. Automation context
 
-- A scheduled agent (Hermes cronjob `b3wiki-self-update`, Mondays 09:00 UTC) does: orient → ingest 1–2 sources → cross-reference → weblinks → lint → commit → push. If you are that agent, the same rules apply; your final report states sources ingested, pages created/updated, lint findings, and the push hash.
+- The repo was previously maintained by a scheduled agent (Hermes cronjob `b3wiki-self-update`, Mondays 09:00 UTC — **since removed**; its cycle was: orient → ingest 1–2 sources → cross-reference → weblinks → lint → commit → push). If you are a scheduled agent taking over, apply the same cycle and rules; your final report states sources ingested, pages created/updated, lint findings, and the push hash.
 - Pending/known threads are tracked in `log.md` and in the "Open threads" section of `queries/b3-beyond-jimmy-smith.md` — check them before choosing what to work on.
 
 ## 7. Non-negotiable rules
