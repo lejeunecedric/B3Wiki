@@ -148,3 +148,10 @@
 ## [2026-10-20] newsletter | first weekly newsletter + scripts/newsletter.py
 - Added `scripts/newsletter.py` (weekly generator: anniversaries from born/died/released frontmatter, recently updated pages, new raw references, queries on file)
 - Created `content/newsletters/261020-B3Wiki-newsletter.md`
+
+## [2026-10-20] create | Musik-Bertram + raw hash audit
+- Ingested 2 sources: raw/articles/theatreorgans-europe-shops.md (Hammond FAQ Europe shops — Musik-Bertram, Freiburg, Dec 1994), raw/articles/hammondjazznight-bertram-umbau.md ("Bertram-Umbau" — site parked, text from indexed snippet, flagged).
+- Created manufacturers/musik-bertram.md (confidence: medium); concepts/portable-hammonds.md Bertram entry updated, confidence low -> medium.
+- index.md: +1 entry (total 79 -> 80).
+- Hash audit: repo convention is sha256(body.lstrip()) — 42/47 raw files verified under it. True drift (match NO variant, stored sha != stored body): colemine-records-about-us.md, grammy-colemine-15-years.md, wikipedia-clonewheel-organ.md, wikipedia-jimmy-smith.md, ziprecords-nl-about.md. Missing sha256 field entirely: leslie-overdrive-blog-allmusic.md, linkquartet-lastfm-apollonegri.md, men-from-spectre-allmusic-discogs.md, wikipedia-eddy-louiss.md, wikipedia-james-taylor-quartet.md. To fix next session.
+- Note: lint.py does not verify raw hashes; ProgWiki README's check snippet uses sha256(body as-is), which mismatches this repo's lstrip convention.

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-20 | Total pages: 79
+> Last updated: 2026-10-20 | Total pages: 80
 
 ## Entities
 
@@ -65,6 +65,7 @@
 ### Manufacturers
 <!-- Companies building organs/clone organs (Hammond, Suzuki, Korg, Roland, Clavia...). -->
 
+- [[manufacturers/musik-bertram|Musik-Bertram]] - Freiburg Hammond dealer/chop-shop (from the 1960s): ~100 kg transportable "Bertram-Umbau" re-casings, 220 V/50 Hz chops, MIDI bass-pedal kit.
 - [[manufacturers/hammond-organ-company|Hammond Organ Company]] - Chicago company (1928-1985) that built ~2 million organs; brand now owned by Suzuki.
 - [[manufacturers/suzuki-musical-instrument|Suzuki Musical Instrument Corporation]] - Japanese conglomerate that now owns and produces the Hammond + Leslie lines.
 - [[manufacturers/korg|Korg]] - Maker of the 1980 CX-3 / BX-3 analog clonewheels.
