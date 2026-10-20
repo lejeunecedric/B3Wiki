@@ -52,3 +52,8 @@
 - comparisons/b3-vs-combo-organs.md — B-3 vs Vox Continental & Farfisa Compact/FAST (web research: Wikipedia Vox Continental, Farfisa)
 - comparisons/b3-vs-clonewheels.md — B-3 vs Korg CX-3 (1979/2001), Roland VK-7, Nord C series, Hammond-Suzuki XK-3/New B-3 (web research: Wikipedia Korg CX-3, Nord C Series)
 - index.md: added the two missing comparison entries; page count 22 -> 24
+
+## [2026-10-20] create | 5 entity pages + 1 query page
+- Files created: entities/players/jimmy-mcgriff.md, entities/players/dr-lonnie-smith.md, entities/players/jon-lord.md, entities/players/brian-auger.md, entities/labels/hammondbeat.md (new labels/ subfolder), queries/b3-beyond-jimmy-smith.md
+- Sources used: wikipedia-jimmy-mcgriff, wikipedia-dr-lonnie-smith, wikipedia-jon-lord, wikipedia-brian-auger, wikipedia-hammondbeat; query page synthesizes NPR Blog Supreme, vinyldiscovery, organissimo BFT-66 with provenance markers
+- index.md updated (Players, new Labels section, Queries)

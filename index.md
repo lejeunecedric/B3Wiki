@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-20 | Total pages: 22
+> Last updated: 2026-10-20 | Total pages: 30
 
 ## Entities
 
@@ -18,7 +18,15 @@
 
 ### Players
 
-- [[players/jimmy-smith|Jimmy Smith]] - 1928-2005; jazz organist who defined the modern B-3 style and the organ trio format.
+- [[players/jimmy-smith|Jimmy Smith]] — Jazz organist who defined the modern B-3 style and the organ trio format.
+- [[players/jimmy-mcgriff|Jimmy McGriff]] — Philadelphia soul-jazz organist (1936–2008); blues/"fatback groove" counterpoint to Smith's bebop.
+- [[players/dr-lonnie-smith|Dr. Lonnie Smith]] — B-3 organist (1942–2021) spanning soul-jazz, funk and a late-career Blue Note return.
+- [[players/jon-lord|Jon Lord]] — Deep Purple co-founder whose classical-grounded Hammond playing drove hard rock and proto-metal.
+- [[players/brian-auger|Brian Auger]] — British jazz-rock Hammond specialist; Steampacket, Trinity, Oblivion Express.
+
+### Labels
+
+- [[labels/hammondbeat|Hammondbeat Records]] — Organ-sound record label (2002), grown from the JTQgroove acid-jazz fan site.
 - [[players/wild-bill-davis|Wild Bill Davis]] - Bridge figure in the gospel-to-jazz-organ lineage; the catalyst for Jimmy Smith's switch to organ.
 
 ### Manufacturers
@@ -52,4 +60,6 @@
 - [[comparisons/b3-vs-clonewheels|B-3 vs Clonewheels]] - Vintage B-3 vs CX-3/VK-7/Nord C/XK-3 digital emulations: what modeling caught up on, and what it can't (key feel, leakage, real Leslie).
 
 ## Queries
+
+- [[queries/b3-beyond-jimmy-smith|Who carried the B-3 beyond Jimmy Smith?]] - Four channels of spread: soul-jazz legion, British rock, revival labels, gospel/modern trio mainstream.
 
