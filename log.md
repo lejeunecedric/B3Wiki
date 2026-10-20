@@ -159,3 +159,7 @@
 - raw/articles/: recomputed all frontmatter sha256 under the repo convention sha256(body.lstrip()) — 5 drifted files corrected (colemine-records-about-us, grammy-colemine-15-years, wikipedia-clonewheel-organ, wikipedia-jimmy-smith, ziprecords-nl-about), 5 truncated 12-hex sha256 fields completed to full 64-hex (leslie-overdrive-blog-allmusic, linkquartet-lastfm-apollonegri, men-from-spectre-allmusic-discogs, wikipedia-eddy-louiss — whose full hash confirmed the truncated prefix —, wikipedia-james-taylor-quartet). Source bodies untouched; raw integrity now 100%.
 - entities/references/blogs.md: added TheatreOrgans.com Hammond FAQ and hammondjazznight.de (Bertram-Umbau) as documented ingestion sources.
 - ProgWiki audited separately: 68/68 raw files consistent under its own sha256(body as-is) convention — no fix needed.
+
+## [2026-10-20] newsletter | 70s-press rewrite
+- Rewrote `scripts/newsletter.py` as a music-magazine dispatch: NEW RELEASES (week-of album anniversaries + nearest-upcoming preview), SPECIAL (rotating concept/label/manufacturer/query feature with prose pulled from the page), ANNIVERSARIES (birthdays/deaths + early-card fallback), BACK PAGES (recent edits, reference room, queries)
+- Regenerated `content/newsletters/261020-B3Wiki-newsletter.md`
