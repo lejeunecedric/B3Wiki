@@ -76,4 +76,4 @@ All ingested sources are credited per-file in `raw/` frontmatter (`source_url`) 
 
 ---
 
-*MIT licensed · 37 pages and counting · built by an agent, curated by a human, powered by spinning metal.* 🎹
+*Content licensed [CC BY-SA 4.0](LICENSE) · © 2026 Cedric Lejeune · 37 pages and counting · built by an agent, curated by a human, powered by spinning metal.* 🎹
