@@ -4,13 +4,31 @@
 
 ## New releases this week
 
-Nothing in the crates this week — no album in the collection saw the light of shops during this week of history. The long-players, like the seasons, will come round again.
+Fresh finds in the record crates — long-players that joined the collection this week:
 
-**Coming up on the calendar**:
+### Living with the Animals
 
-- **Brain Salad Surgery** (1973) — in 48 days (2026-12-07)
-- **I Told You So** (2021) — in 101 days (2027-01-29)
-- **Machine Head** (1972) — in 161 days (2027-03-30)
+_Living with the Animals_ (1968, Mercury Records) — the debut album of the American blues-rock band Mother Earth, fronted by Tracy Nelson. A landmark of the blues-rock **Hammond-in-support** idiom: organ as pads, fills and groove behind a powerful blues voice rather than as a lead instrument.
+
+### Brain Salad Surgery
+
+**Brain Salad Surgery** is the fourth studio album by **Emerson, Lake & Palmer**, **released 7 December 1973** on their own Manticore Records label, distributed by Atlantic. 'Keith Emerson''s keyboard arsenal on the album pairs the Moog synthesizer with his abused Hammond: the three-movement sci-fi suite **"Karn Evil 9"** makes the Hammond and Moog equal lead voices, and the record also carries his adaptation of Ginastera's 1st Piano Concerto (the notorious "Toccata").
+
+### I Told You So
+
+**I Told You So** is the second studio album by the Delvon Lamarr Organ Trio, **released January 29, 2021** on Colemine Records. Delvon Lamarr's self-taught B-3 playing — punchy one-chord soul-jazz grooves in the Jimmy Smith/McGriff lineage, played with a streaming-era warmth — made the album a Billboard-charting breakthrough for the modern organ-trio revival documented in The modern organ scene.
+
+### Back at the Chicken Shack
+
+**Back at the Chicken Shack** is a Jimmy Smith album **recorded in 1960** and **released in 1963** on the **Blue Note** label, from the same sessions as *Midnight Special*; it was later cited in the book *1001 Albums You Must Hear Before You Die*.
+
+### Machine Head
+
+**Machine Head** is the sixth studio album by **Deep Purple** (Mark II), **released 30 March 1972**. It is the band's best-selling record and one of hard rock's foundational albums.
+
+### Abraxas
+
+**Abraxas** is the second studio album by **Santana**, **released 23 September 1970**; a fusion of Latin rock, blues and jazz that topped the Billboard chart. Founding keyboardist/vocalist **Gregg Rolie** plays the Hammond B-3 as the band's harmonic glue: organ pads and answer phrases under Carlos Santana's lead guitar on "Black Magic Woman" and "Oye Cómo Va", with the organ-vs-guitar call-and-response forming the album's core texture.
 
 ## Special
 
@@ -21,40 +39,3 @@ Nothing in the crates this week — no album in the collection saw the light of 
 ## Anniversaries
 
 _No birthdays or memorial dates fall inside this week's window — the cards stay in the drawer until someone earns one._
-
-## Back pages
-
-### Recent edits
-
-- 2026-10-20 — Living with the Animals
-- 2026-10-20 — Brain Salad Surgery
-- 2026-10-20 — I Told You So
-- 2026-10-20 — Back at the Chicken Shack
-- 2026-10-20 — Machine Head
-- 2026-10-20 — Abraxas
-- 2026-10-20 — RMI (Rocky Mount Instruments)
-- 2026-10-20 — Clavia
-- 2026-10-20 — Korg
-- 2026-10-20 — Suzuki Musical Instrument Corporation
-- _…and 70 more_
-
-### New in the reference room
-
-- [Rocky mount instruments](https://en.wikipedia.org/wiki/Rocky_Mount_Instruments)
-- [Men from spectre allmusic discogs](https://discogs.com/artist/275292-The-Men-From-SPECTRE)
-- [Mother earth american band](https://en.wikipedia.org/wiki/Mother_Earth_(American_band))
-- [Groove merchant](https://en.wikipedia.org/wiki/Groove_Merchant)
-- [James taylor quartet](https://en.wikipedia.org/wiki/James_Taylor_Quartet)
-- [Leslie speaker](https://en.wikipedia.org/wiki/Leslie_speaker)
-- [Abraxas album](https://en.wikipedia.org/wiki/Abraxas_(album))
-- [Marshall amplification](https://en.wikipedia.org/wiki/Marshall_Amplification)
-- [John medeski](https://en.wikipedia.org/wiki/John_Medeski)
-- [Cookin on 3 burners](https://en.wikipedia.org/wiki/Cookin%27_on_3_Burners)
-
-_…and 42 more._
-
-### Queries on file
-
-- The Modern Organ Scene _(updated 2026-10-20)_
-- Who carried the B-3 beyond Jimmy Smith? _(updated 2026-10-20)_
-- Landmark albums with great Hammond organ — Deep Purple, ELP, Mother Earth, Santana _(updated 2026-10-20)_
