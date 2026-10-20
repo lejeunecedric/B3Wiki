@@ -169,3 +169,8 @@
 - 15 player/people pages got `born:` (+ `died:`) from Wikidata, cross-checked against page prose; Wikipedia URL added to sources
 - Skipped (flagged or unresolved): jimmy-smith born (contested 1925/1928), back-at-the-chicken-shack released (WD says 1960 vs prose 1963), living-with-the-animals (no Wikidata item), jimmy-james (identity mismatch - Seattle guitarist, not UK artist), delvon-lamarr, paolo-negri, renato-lombardi (no Wikidata item)
 - Regenerated newsletter
+
+## [2026-10-20] newsletter | external-audience rules
+- No [[wikilinks]], no wiki-internal references (raw/, scripts, frontmatter); reference names prettified with external links
+- Anniversaries now strictly current-week (removed early-card fallback)
+- Regenerated 261020 issue
