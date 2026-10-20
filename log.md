@@ -155,3 +155,7 @@
 - index.md: +1 entry (total 79 -> 80).
 - Hash audit: repo convention is sha256(body.lstrip()) — 42/47 raw files verified under it. True drift (match NO variant, stored sha != stored body): colemine-records-about-us.md, grammy-colemine-15-years.md, wikipedia-clonewheel-organ.md, wikipedia-jimmy-smith.md, ziprecords-nl-about.md. Missing sha256 field entirely: leslie-overdrive-blog-allmusic.md, linkquartet-lastfm-apollonegri.md, men-from-spectre-allmusic-discogs.md, wikipedia-eddy-louiss.md, wikipedia-james-taylor-quartet.md. To fix next session.
 - Note: lint.py does not verify raw hashes; ProgWiki README's check snippet uses sha256(body as-is), which mismatches this repo's lstrip convention.
+## [2026-10-20] maintenance | raw sha256 normalization + references update
+- raw/articles/: recomputed all frontmatter sha256 under the repo convention sha256(body.lstrip()) — 5 drifted files corrected (colemine-records-about-us, grammy-colemine-15-years, wikipedia-clonewheel-organ, wikipedia-jimmy-smith, ziprecords-nl-about), 5 missing sha256 fields added (leslie-overdrive-blog-allmusic, linkquartet-lastfm-apollonegri, men-from-spectre-allmusic-discogs, wikipedia-eddy-louiss, wikipedia-james-taylor-quartet). Source bodies untouched; raw integrity now 100%.
+- entities/references/blogs.md: added TheatreOrgans.com Hammond FAQ and hammondjazznight.de (Bertram-Umbau) as documented ingestion sources.
+- ProgWiki audited separately: 68/68 raw files consistent under its own sha256(body as-is) convention — no fix needed.

@@ -1,7 +1,7 @@
 ---
 source_url: http://ziprecords.nl/new-page
 ingested: 2026-10-20
-sha256: 8b592f5acb4ec4f507a3ec5b1d5ec3a163d318464b954d36ce5db399736f5bab
+sha256: 2459162dd571086b200697df946c8bb7caeafeb3ee0636e7f03610cbb5bf300c
 ---
 
 About — Zip Records 

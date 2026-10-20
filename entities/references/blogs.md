@@ -33,6 +33,13 @@ Forum threads and blog interviews support pages such as [[jimmy-mcgriff]],
 [[dr-lonnie-smith]] and [[korg-cx-3]], and document the [[tonewheel-generator]] technology.
 Ingest verbatim into `raw/articles/` (or `raw/forums/`) with provenance frontmatter.
 
+- **TheatreOrgans.com Hammond FAQ** — the vintage-Hammond community's service-shop directory
+  (Europe/Americas): dealer and technician entries, from the 1990s onward. Primary source for
+  chop-shops and regional organ service history. https://theatreorgans.com/hammond/faq/
+- **hammondjazznight.de** — Freiburg (Germany) event site documenting a "Bertram-Umbau"
+  RT-3 with 22H Leslie (site parked at time of writing; text recovered from an indexed snippet).
+  http://www.hammondjazznight.de/styled-3/index.html
+
 ## External links
 
 - https://www.organissimo.org/forum

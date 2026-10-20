@@ -1,7 +1,7 @@
 ---
 source_url: https://en.wikipedia.org/wiki/Jimmy_Smith_(musician)
 ingested: 2026-10-20
-sha256: ad95f5e902a74eb589851cc35c0c3435eb92258b25b3d8bd7eb54904fc4fc045
+sha256: 51a22385a6b1174839513a978992f644f51d1e92f973f03066d12dbf62537d0a
 ---
 
 American jazz organist (1928–2005)

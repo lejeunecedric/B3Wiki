@@ -1,7 +1,7 @@
 ---
 source_url: https://coleminerecords.com/pages/about-us
 ingested: 2026-10-20
-sha256: f3b0c9c8a57d7d80c548f797db74cc1a87482983cd4918435cc4a42df3457406
+sha256: 4da7f3699a53e61f3d7a5ea8065d511b05de4fc06f98e9509b231371005af928
 ---
 
 About us – Colemine Records

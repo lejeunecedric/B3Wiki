@@ -1,7 +1,7 @@
 ---
 source_url: https://grammy.com/news/colemine-records-essentials-15-year-anniversary-durand-jones-and-the-indications-monophonics-delvon-lamarr-organ-trio
 ingested: 2026-10-20
-sha256: ae1b22b849569f201154e19fb6bfc9db3db06d7e2a7e286e151f7c97e99bb430
+sha256: 2a1ee6b7ee86437ef9abcbf64aa68d12ffe8912b6e485c112eae6379534b2da2
 ---
 
 Get To Know Colemine Records, Ohio’s Funk And Soul Heartbeat | Grammy 
