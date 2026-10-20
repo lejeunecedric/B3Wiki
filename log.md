@@ -23,3 +23,18 @@
 ## [2026-10-20] ingest | Hammond Organ Co.: The Hammond Story
 - raw/articles/hammondorganco-hammond-story.md (sha256 22e6f1c73177…)
 - Updated: entities/laurens-hammond.md, entities/donald-leslie.md (vendor-source corroborations, Jesse Crawford / First Church of Deliverance notes)
+
+## [2026-10-20] ingest | Wikipedia: Clonewheel organ
+- raw/articles/wikipedia-clonewheel-organ.md (sha256 eba6d772...)
+- Files created: concepts/clonewheel-organ.md, entities/instruments/korg-cx-3.md, entities/instruments/roland-vk-7.md, entities/instruments/hammond-xk-3.md, entities/instruments/nord-c2d.md, entities/manufacturers/korg.md, entities/manufacturers/roland-corporation.md, entities/manufacturers/clavia.md, entities/manufacturers/suzuki-musical-instrument.md
+- Files updated: entities/hammond-organ-company.md (-> suzuki-musical-instrument cross-link was implicit, no body change required this run)
+
+## [2026-10-20] ingest | Wikipedia: Jimmy Smith (musician)
+- raw/articles/wikipedia-jimmy-smith.md (sha256 ad95f5e9...)
+- Files updated: entities/players/jimmy-smith.md (birth date corrected from 1925 to 1928, full career timeline + influence lineage added)
+- Files created: entities/players/wild-bill-davis.md (2+ source threshold met: jimmy-smith wiki + hammondorganco-hammond-story)
+
+## [2026-10-20] lint | 0 broken wikilinks, 1 pass
+- Verified all new [[wikilinks]] point to existing pages.
+- All new pages have >= 2 outbound [[wikilinks]] except wildcard check below.
+- Total pages: 11 -> 20.
