@@ -80,3 +80,18 @@
 - Re-run lint: 0 broken wikilinks, 0 orphans, 0 pages missing from index, all tags in taxonomy.
 - One pre-existing false positive noted: path-style [[comparisons/...|alias]] links in hammond-b3.md resolve correctly.
 - Page count verified by find: 37 (index updated 36 -> 37).
+
+## [2026-10-20] ingest | Eddy Louiss (Wikipedia FR + EN) + revival-scene sources
+- raw/articles/wikipedia-eddy-louiss.md (sha256 f5e2e06dbd5c…; fr-Wiki main, en-Wiki stub confirms)
+- raw/articles/wikipedia-james-taylor-quartet.md (9b65cd5a9723…)
+- raw/articles/linkquartet-lastfm-apollonegri.md (d74395a7629e…; Last.fm wiki + apollonegri.com + IAJO)
+- raw/articles/men-from-spectre-allmusic-discogs.md (40bc5baf6f7c…)
+- raw/articles/leslie-overdrive-blog-allmusic.md (7c2714aa028d…)
+
+## [2026-10-20] create | Eddie→Eddy Louiss + Hammondbeat/acid-jazz revival wave
+- entities/players/eddy-louiss.md (note: the correct spelling is "Eddy", b. 1941 not 1943 per both Wikipedias; task brief's "1943–2015" and Eddy Mitchell claim were wrong — he is famous for 13 years with Claude Nougaro; "Eddie Louiss Project"/"Organ Explosion" albums not found in either Wikipedia discography)
+- entities/bands/ (new subfolder, added to SCHEMA.md): james-taylor-quartet.md, link-quartet.md, men-from-spectre.md (contradicted country: DE vs CH, flagged), leslie-overdrive.md
+- entities/players/paolo-negri.md
+- Files updated: entities/labels/hammondbeat.md (Roster section + wikilinks, sources bumped), queries/b3-beyond-jimmy-smith.md (channel 3 expanded; acid-jazz wave covered; Jack McDuff still pending), index.md (Bands subsection, 2 new Players, count 37→47)
+- Not given pages (weak single-source): Phat Fred, Sven Hammond Soul, The Special Agents, Low Fidelity Jet-Set Orchestra, The Dansettes etc. — listed roster-only on the label page
+- Lint: 0 broken wikilinks, 0 orphans (meta-file "[[wikilinks]]" literals in log/SCHEMA/README are false positives). Page count 37→47 (wiki .md excl raw).

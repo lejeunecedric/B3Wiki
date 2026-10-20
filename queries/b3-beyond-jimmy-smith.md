@@ -18,7 +18,7 @@ confidence: medium
 
 **2. Rock (British wing, late 1960s).** [[jon-lord|Jon Lord]] absorbed the same American R&B-organ records (Wild Bill Davis, Smith, McGriff's "All About My Girl", McDuff's "Rock Candy") through the B-3/C-3 + [[leslie-speaker|Leslie]] rig and pushed it into hard rock and proto-heavy-metal with Deep Purple, while fusing it with his classical training.^[raw/articles/wikipedia-jon-lord.md] [[brian-auger|Brian Auger]] took the same instrument into jazz-rock, soul-rock and fusion.^[raw/articles/wikipedia-brian-auger.md]
 
-**3. The revival infrastructure (1990s–2000s).** The acid-jazz scene that treats Smith as its "father" produced dedicated institutions like [[hammondbeat|Hammondbeat Records]] (2002), a label organized not by genre but by the organ sound itself, spanning dozens of next-generation organ bands.^[raw/articles/wikipedia-hammondbeat.md]
+**3. The revival infrastructure (1990s–2000s).** The acid-jazz scene that treats Smith as its "father" produced dedicated institutions like [[hammondbeat|Hammondbeat Records]] (2002), a label organized not by genre but by the organ sound itself, spanning dozens of next-generation organ bands — [[james-taylor-quartet|the James Taylor Quartet]] (whose fan site became the label), Italy's [[link-quartet|Link Quartet]] with [[paolo-negri|Paolo 'Apollo' Negri]], and roster acts across Europe (see the label page's roster section).^[raw/articles/wikipedia-hammondbeat.md] In France, the same lineage runs through [[eddy-louiss|Eddy Louiss]] (1941–2015), the country's beloved jazz organist.
 
 **4. Today's working tradition (gospel + modern jazz trio).** Organist Larry Goldings, touring the standard organ-trio format (Peter Bernstein/Bill Stewart), frames the current landscape: B-3 playing remains rooted in gospel (he recommends listening to gospel organ above almost anything), drawbars function "like the first synthesizer," and the 888000000-plus-[[harmonic-percussion|percussion]] formula is still the reference sound. He also notes the practical limits — the instrument weighs ~425 lbs and is usually rented via the venue rider — which is exactly the gap clonewheel instruments and retro labels now fill.^[raw/articles/npr-blogsupreme-hammond-b3.md]
 
@@ -28,6 +28,7 @@ The B-3's spread beyond Smith ran along four channels, all traceable to his temp
 ## Open threads
 - [[dr-lonnie-smith]] and Charles Earland deserve dedicated source passes (Earland has no page yet).
 - Wiki pages referenced but not yet created: Jack McDuff (no page; a strong candidate for entities/players/). [[wild-bill-davis]] and [[joey-defrancesco|Joey DeFrancesco]] now exist.
+- The acid-jazz/revival wave (channel 3) is now covered: [[james-taylor-quartet]], [[link-quartet]], [[paolo-negri]], [[men-from-spectre]], [[leslie-overdrive]] — see the [[hammondbeat]] roster section for acts still page-less (Phat Fred, Sven Hammond Soul, The Dansettes…).
 - The gospel lineage and the clonewheel transition each warrant their own query page.
 
 ## Related

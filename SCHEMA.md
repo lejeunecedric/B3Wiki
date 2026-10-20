@@ -63,6 +63,7 @@ Entities live in `entities/` **subfolders by kind**:
 - `entities/instruments/` — organs, speakers, clonewheels (Korg CX-3, Roland VK series, Nord C2D…)
 - `entities/players/` — musicians
 - `entities/manufacturers/` — companies (Hammond, Suzuki, Korg, Roland, Clavia…)
+- `entities/bands/` — organ-led bands (JTQ, The Link Quartet…)
 - `entities/labels/` — record labels dedicated to organ music (Hammondbeat, Scufflin'…)
 - `entities/people/` — inventors, engineers, non-player figures
 

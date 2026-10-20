@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-20 | Total pages: 37
+> Last updated: 2026-10-20 | Total pages: 47
 
 ## Entities
 
@@ -27,6 +27,16 @@
 - [[players/joey-defrancesco|Joey DeFrancesco]] — Jazz organist (1971–2022) who revived the B-3 in mainstream jazz; later acquired Jon Lord's modified Hammond.
 - [[players/barbara-dennerlein|Barbara Dennerlein]] — German "Organ Tornado" (b. 1964); bass-pedal virtuoso with MIDI/sampler-modified Hammond.
 - [[players/booker-t-jones|Booker T. Jones]] — Stax organist (b. 1944); "Green Onions" and the bridge from church/R&B organ to rock.
+- [[players/eddy-louiss|Eddy Louiss]] — French jazz organist (1941–2015); Nougaro's accompanist, Stan Getz quartet 1971, France's beloved Hammond voice.
+- [[players/paolo-negri|Paolo 'Apollo' Negri]] — Italian organist (b. 1979) of The Link Quartet; Hammondbeat's most prolific solo artist.
+
+### Bands
+<!-- Organ-led bands (acid-jazz/revival scene and beyond). -->
+
+- [[bands/james-taylor-quartet|The James Taylor Quartet]] — British acid-jazz band (1985–) around Hammond player James Taylor; the template for the modern organ revival.
+- [[bands/link-quartet|The Link Quartet]] — Piacenza, Italy quartet (1993–); Hammondbeat's flagship act, JTQ-influenced funk/rock/soul.
+- [[bands/men-from-spectre|The Men From S.P.E.C.T.R.E.]] — Winterthur, Switzerland; spy-soundtrack Hammond organ rock (The Living Eye, 2006).
+- [[bands/leslie-overdrive|Leslie Overdrive]] — Danish organ-funk quartet (2005–); ...With the Hammond, In the Beauty (2007).
 
 ### Labels
 
