@@ -58,6 +58,12 @@ sha256: <hex digest of the body below the frontmatter>
 - **Archive** superseded pages to `_archive/` and remove from index
 
 ## Entity Pages
+Entities live in `entities/` **subfolders by kind**:
+- `entities/instruments/` — organs, speakers, clonewheels (Korg CX-3, Roland VK series, Nord C2D…)
+- `entities/players/` — musicians
+- `entities/manufacturers/` — companies (Hammond, Suzuki, Korg, Roland, Clavia…)
+- `entities/people/` — inventors, engineers, non-player figures
+
 One page per notable entity (person, company, instrument model, product line). Overview, key facts/dates, relationships via `[[wikilinks]]`, sources.
 
 ## Concept Pages

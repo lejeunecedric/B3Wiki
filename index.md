@@ -6,12 +6,26 @@
 
 ## Entities
 
-- [[entities/laurens-hammond|Laurens Hammond]] — Mechanical engineer/inventor (clocks, 3D glasses) who created the tonewheel organ in 1935.
-- [[entities/donald-leslie|Donald J. Leslie]] — Engineer who invented the rotating Leslie speaker; Hammond rejected it, history adopted it.
-- [[entities/hammond-organ-company|Hammond Organ Company]] — Chicago company (1928–1985) that built ~2 million organs; brand now owned by Suzuki.
-- [[entities/hammond-b3|Hammond B-3]] — The iconic 1954–1975 console with harmonic percussion; the definitive jazz organ.
-- [[entities/leslie-speaker|Leslie Speaker]] — Rotating-horn/drum speaker creating the classic Doppler shimmer; models 122 & 147.
-- [[entities/jimmy-smith|Jimmy Smith]] — Jazz organist who defined the modern B-3 style and the organ trio format.
+### Instruments
+<!-- Hammond and third-party organs, speakers, gear-as-instrument. Clonewheels (Korg CX-3, Roland VK series…) also go here. -->
+
+- [[instruments/hammond-b3|Hammond B-3]] — The iconic 1954–1975 console with harmonic percussion; the definitive jazz organ.
+- [[instruments/leslie-speaker|Leslie Speaker]] — Rotating-horn/drum speaker creating the classic Doppler shimmer; models 122 & 147.
+
+### Players
+
+- [[players/jimmy-smith|Jimmy Smith]] — Jazz organist who defined the modern B-3 style and the organ trio format.
+
+### Manufacturers
+<!-- Companies building organs/clone organs (Hammond, Suzuki, Korg, Roland, Clavia…). -->
+
+- [[manufacturers/hammond-organ-company|Hammond Organ Company]] — Chicago company (1928–1985) that built ~2 million organs; brand now owned by Suzuki.
+
+### People
+<!-- Inventors, engineers, non-player figures. -->
+
+- [[people/laurens-hammond|Laurens Hammond]] — Mechanical engineer/inventor (clocks, 3D glasses) who created the tonewheel organ in 1935.
+- [[people/donald-leslie|Donald J. Leslie]] — Engineer who invented the rotating Leslie speaker; Hammond rejected it, history adopted it.
 
 ## Concepts
 
