@@ -30,7 +30,7 @@
 - [[players/eddy-louiss|Eddy Louiss]] — French jazz organist (1941–2015); Nougaro's accompanist, Stan Getz quartet 1971, France's beloved Hammond voice.
 - [[players/paolo-negri|Paolo 'Apollo' Negri]] — Italian organist (b. 1979) of The Link Quartet; Hammondbeat's most prolific solo artist.
 - [[players/delvon-lamarr|Delvon Lamarr]] — Self-taught Seattle organist; leader of DLO3, drummer-turned-organist with perfect pitch.
-- [[players/jimmy-james|Jimmy James]] — Seattle guitarist of DLO3 (2015–2022), True Loves, and now Parlor Greens.
+- [[people/jimmy-james|Jimmy James]] — Seattle **guitarist** (not an organist) of DLO3 (2015–2022), True Loves, and now Parlor Greens.
 - [[players/cory-henry|Cory Henry]] — Brooklyn gospel-to-funk keyboardist (ex-Snarky Puppy); leads The Funk Apostles.
 
 ### Bands

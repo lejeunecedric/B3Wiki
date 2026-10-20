@@ -111,3 +111,7 @@
 - entities/bands/cookin-on-3-burners.md ("This Girl"/Kungs; Cookin' the Books 2025)
 - queries/modern-organ-scene.md — synthesis: labels (Colemine/Karma Chief, Zip, Soul Messin'), streaming/KEXP discovery, 60s-trio differences
 - index.md: 7 new entries; page count 47 -> 54
+
+## [2026-10-20] restructure | players folder audit
+- Intruder removed: entities/players/jimmy-james.md → entities/people/jimmy-james.md (guitarist, not an organist; note added in page + rule clarified in AGENTS.md §7)
+- All other 14 player pages verified: organists only

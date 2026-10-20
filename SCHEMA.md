@@ -70,6 +70,12 @@ Entities live in `entities/` **subfolders by kind**:
 - `entities/labels/` — record labels dedicated to organ music (Hammondbeat, Scufflin'…)
 - `entities/people/` — non-player humans: inventors, engineers, producers
 
+### Optional date fields (anniversary tracking)
+- people/players frontmatter: `born: YYYY-MM-DD`, `died: YYYY-MM-DD`
+- albums/instruments frontmatter: `released: YYYY-MM-DD` (year-only allowed: `released: 1971`)
+- bands frontmatter: `founded: YYYY`
+- Add only when source-supported; also mention the date in prose.
+
 One page per notable entity (person, company, instrument model, product line). Overview, key facts/dates, relationships via `[[wikilinks]]`, sources.
 
 ## Concept Pages

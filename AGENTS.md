@@ -93,7 +93,7 @@ Fix what you find. Log the lint run (`## [date] lint | N issues`).
 1. **Always English.** All wiki pages, index, log entries and commit messages are written in English — even when the source is French, Dutch, German…
 2. **Always verify your sources.** Never trust a single unverified claim: cross-check dates, spellings and discographies against at least the source's own references or a second source before writing them as fact. Unverifiable claims stay out, or go in with `confidence: low` and the doubt stated. Sources beat folklore.
 3. **Entity folders are strict — the folder must match the subject:**
-   - `entities/players/` = **organists only** (people who actually play the Hammond on stage/records)
+   - `entities/players/` — **organists only** (people who actually play the Hammond on stage/records). Non-organist musicians central to the organ story (e.g. guitarist Jimmy James) go in `people/` with a note.
    - `entities/bands/` = organ-led bands & groups
    - `entities/manufacturers/` = companies building organs/gear
    - `entities/labels/` = record labels
@@ -104,3 +104,14 @@ Fix what you find. Log the lint run (`## [date] lint | N issues`).
 ## 8. Proactive page creation
 
 When an ingested source or a page you're writing **cites a new entity**, don't leave it as plain prose: create a page for it if it meets the Page Thresholds (SCHEMA) — new **players, bands, labels, albums, manufacturers, people** all deserve a fiche. At minimum, mark it for the next run in `log.md` ("candidate: [[slug]]"). A wiki that mentions entities it doesn't document is accumulating debt; create as you go, cross-link both ways, and keep `index.md` in sync.
+
+## 9. Dates (for anniversary tracking)
+
+Always record dates **twice**: in prose *and* in machine-readable frontmatter:
+
+- people/players: `born: YYYY-MM-DD` (and `died: YYYY-MM-DD` when applicable)
+- albums & instruments: `released: YYYY-MM-DD` (year-only if the exact day is unknown — `released: 1971`)
+- bands: `founded: YYYY` (city in prose)
+- Only add a field when a source supports it; never guess a day.
+
+A scheduled job can then scan frontmatter and celebrate births/releases on the right day.
