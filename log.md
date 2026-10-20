@@ -37,7 +37,7 @@
 ## [2026-10-20] lint | 0 broken wikilinks, 1 pass
 - Verified all new [[wikilinks]] point to existing pages.
 - All new pages have >= 2 outbound [[wikilinks]] except wildcard check below.
-- Total pages: 11 -> 20.
+- Total pages: 11 -> 19.
 
 
 ## [2026-10-20] lint | orphan + index-completeness fix
@@ -45,3 +45,10 @@
 - Added ## Comparisons section to index.md with one-line summaries.
 - Appended inbound [[wikilinks]] from entities/instruments/hammond-b3.md.
 - Re-run lint: 0 broken wikilinks, 0 orphans, 0 thin pages, all tags in taxonomy. Page count: 22.
+
+## [2026-10-20] create | Comparison pages: Hammond models and rivals
+- comparisons/b3-vs-c3.md — same generator, different cabinet; covers B-2/C-2 and RT-3 lineage
+- comparisons/b3-vs-a100.md — self-contained B-3 with internal amp/speakers
+- comparisons/b3-vs-combo-organs.md — B-3 vs Vox Continental & Farfisa Compact/FAST (web research: Wikipedia Vox Continental, Farfisa)
+- comparisons/b3-vs-clonewheels.md — B-3 vs Korg CX-3 (1979/2001), Roland VK-7, Nord C series, Hammond-Suzuki XK-3/New B-3 (web research: Wikipedia Korg CX-3, Nord C Series)
+- index.md: added the two missing comparison entries; page count 22 -> 24

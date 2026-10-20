@@ -46,6 +46,7 @@ sha256: <hex digest of the body below the frontmatter>
 - `history` — dates, timelines, market/industry events
 - `music` — genres, playing styles, notable recordings
 - `modern` — clonewheels, digital emulations, current products
+- `label` — record labels dedicated to organ music
 - `comparison` — side-by-side analyses
 - `query` — filed query results
 - `source` — note about an ingested source
@@ -62,6 +63,7 @@ Entities live in `entities/` **subfolders by kind**:
 - `entities/instruments/` — organs, speakers, clonewheels (Korg CX-3, Roland VK series, Nord C2D…)
 - `entities/players/` — musicians
 - `entities/manufacturers/` — companies (Hammond, Suzuki, Korg, Roland, Clavia…)
+- `entities/labels/` — record labels dedicated to organ music (Hammondbeat, Scufflin'…)
 - `entities/people/` — inventors, engineers, non-player figures
 
 One page per notable entity (person, company, instrument model, product line). Overview, key facts/dates, relationships via `[[wikilinks]]`, sources.

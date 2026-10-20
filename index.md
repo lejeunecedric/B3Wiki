@@ -48,6 +48,8 @@
 
 - [[comparisons/b3-vs-a100|B-3 vs A-100]] - The 1959 self-contained B-3 with built-in amp and speakers — identical organ engine, simpler rig.
 - [[comparisons/b3-vs-c3|B-3 vs C-3]] - Same tonewheel generator, different cabinet: B-3 open "showbiz" vs C-3 church-style with modesty panel.
+- [[comparisons/b3-vs-combo-organs|B-3 vs Combo Organs]] - Tonewheel heavyweight vs transistor combo rivals (Vox Continental, Farfisa): portability and price vs depth of tone.
+- [[comparisons/b3-vs-clonewheels|B-3 vs Clonewheels]] - Vintage B-3 vs CX-3/VK-7/Nord C/XK-3 digital emulations: what modeling caught up on, and what it can't (key feel, leakage, real Leslie).
 
 ## Queries
 
