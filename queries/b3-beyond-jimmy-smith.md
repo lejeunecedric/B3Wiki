@@ -27,7 +27,7 @@ The B-3's spread beyond Smith ran along four channels, all traceable to his temp
 
 ## Open threads
 - [[dr-lonnie-smith]] and Charles Earland deserve dedicated source passes (Earland has no page yet).
-- Wiki pages referenced but not yet created: [[wild-bill-davis]], Jack McDuff, Joey DeFrancesco (candidates for entities/players/).
+- Wiki pages referenced but not yet created: Jack McDuff (no page; a strong candidate for entities/players/). [[wild-bill-davis]] and [[joey-defrancesco|Joey DeFrancesco]] now exist.
 - The gospel lineage and the clonewheel transition each warrant their own query page.
 
 ## Related

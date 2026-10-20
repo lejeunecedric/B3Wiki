@@ -77,3 +77,6 @@
 - entities/players/jon-lord.md: added Discography highlights line linking the query.
 - index.md: Queries entry added; page count fixed to actual (38 .md pages).
 - Lint: 0 broken wikilinks; query page has 3+ inbound links. Pre-existing orphans (booker-t-jones, barbara-dennerlein, b3-vs-combo-organs) left for the in-flight agent owning them.
+- Re-run lint: 0 broken wikilinks, 0 orphans, 0 pages missing from index, all tags in taxonomy.
+- One pre-existing false positive noted: path-style [[comparisons/...|alias]] links in hammond-b3.md resolve correctly.
+- Page count verified by find: 37 (index updated 36 -> 37).
