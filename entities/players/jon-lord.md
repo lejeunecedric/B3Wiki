@@ -20,6 +20,7 @@ confidence: high
 - Early 1960s: London sessions (keyboard credit — disputed — on the Kinks' "You Really Got Me"), the Artwoods (organ-led blues-R&B), Santa Barbara Machine Head.^[raw/articles/wikipedia-jon-lord.md]
 - 1968: co-founded Deep Purple; with drummer Ian Paice, the only continuous member 1968–1976 and 1984 until his retirement in February 2002.^[raw/articles/wikipedia-jon-lord.md]
 - _Concerto for Group and Orchestra_ (1969) — the classical/rock fusion that first dented the UK charts for the band; key rhythm parts freed Ritchie Blackmore live and on record. Organ solos on "Highway Star", "Pictures of Home", "Lazy"; rhythmic underpinning on "Smoke on the Water" and "Space Truckin'".^[raw/articles/wikipedia-jon-lord.md]
+- Discography highlights: _Deep Purple in Rock_ (1970), _Fireball_ (1971), _Machine Head_ (1972), _Burn_ (1974) — see [[queries/hammond-landmark-albums|landmark Hammond albums query]].
 - Gear: his 1973 replacement [[hammond-b3|Hammond C-3]] (bought from Christine McVie of Fleetwood Mac) was combined with an RMI Electra-Piano by technician Mike Phillips; he kept that C-3 until 2002, then passed it to successor Don Airey.^[raw/articles/wikipedia-jon-lord.md]
 - After Deep Purple: Whitesnake, Paice Ashton Lord; later a composer of orchestral works (_Durham Concerto_, a reworked _Concerto for Group and Orchestra_, a Hammond organ concerto).^[raw/articles/wikipedia-jon-lord.md]
 

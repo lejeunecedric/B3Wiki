@@ -57,3 +57,23 @@
 - Files created: entities/players/jimmy-mcgriff.md, entities/players/dr-lonnie-smith.md, entities/players/jon-lord.md, entities/players/brian-auger.md, entities/labels/hammondbeat.md (new labels/ subfolder), queries/b3-beyond-jimmy-smith.md
 - Sources used: wikipedia-jimmy-mcgriff, wikipedia-dr-lonnie-smith, wikipedia-jon-lord, wikipedia-brian-auger, wikipedia-hammondbeat; query page synthesizes NPR Blog Supreme, vinyldiscovery, organissimo BFT-66 with provenance markers
 - index.md updated (Players, new Labels section, Queries)
+
+## [2026-10-20] ingest | Doctor Mix + 4 Wikipedia player articles
+- raw/articles/doctormix-rarest-hammond.md (sha256 a3e7e265...) — Brian Auger's stealth C3, Keyboard Specialties, Lombardi, 50/60 Hz
+- raw/articles/wikipedia-john-medeski.md, wikipedia-joey-defrancesco.md, wikipedia-barbara-dennerlein.md, wikipedia-booker-t-jones.md
+
+## [2026-10-20] create | 6 pages: portables concept, Lombardi, 4 modern players
+- concepts/portable-hammonds.md — factory portables (Hammond Portable B-3mk2, 2019 Porta-B, per NAMM 2019 demos/b3guys) vs chops (Keyboard Specialties stealth organ, Bertram music Germany [confidence: low, classified-listing evidence only], Oakland Chop tradition); the 50/60 Hz cycle problem; ~425 lb weight
+- entities/people/renato-lombardi.md — Italian engineer: resistor fix (~¼ output level), free PA stacks ("I already sold this three times"), built Auger's amp, fitted replacement power unit after the 220V socket accident
+- entities/players/john-medeski.md, joey-defrancesco.md (incl. acquisition of Jon Lord's modified Hammond per Wikipedia Hammond organ article citing Vail 2002), barbara-dennerlein.md, booker-t-jones.md
+- Updated: entities/players/brian-auger.md (new "The Italian sound" section), queries/b3-beyond-jimmy-smith.md (open threads: wild-bill-davis and joey-defrancesco now exist; Jack McDuff still pending), index.md (Players/People/Concepts sections)
+- Total pages: 30 -> 36
+
+## [2026-10-20] lint | wikilink + index check
+
+## [2026-10-20] create | Landmark Hammond albums query
+- queries/hammond-landmark-albums.md — Deep Purple (Lord: In Rock/Fireball/Machine Head/Burn, Marshall-driven C-3), ELP (Emerson: debut/Tarkus/Trilogy/Brain Salad Surgery, L-100 + Moog), Mother Earth (disambiguated: US Tracy Nelson band, organist Mark Naftalin, confidence low-medium; British band = 1990s acid jazz, Bryn Barklam), Santana (Rolie: 1969/Abraxas/III).
+- Raw ingested: 10 files in raw/articles/ (9 wikipedia-*, rockasteria-mother-earth-living-with-animals) with source_url/ingested/sha256 frontmatter.
+- entities/players/jon-lord.md: added Discography highlights line linking the query.
+- index.md: Queries entry added; page count fixed to actual (38 .md pages).
+- Lint: 0 broken wikilinks; query page has 3+ inbound links. Pre-existing orphans (booker-t-jones, barbara-dennerlein, b3-vs-combo-organs) left for the in-flight agent owning them.

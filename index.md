@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-20 | Total pages: 30
+> Last updated: 2026-10-20 | Total pages: 38
 
 ## Entities
 
@@ -23,6 +23,10 @@
 - [[players/dr-lonnie-smith|Dr. Lonnie Smith]] — B-3 organist (1942–2021) spanning soul-jazz, funk and a late-career Blue Note return.
 - [[players/jon-lord|Jon Lord]] — Deep Purple co-founder whose classical-grounded Hammond playing drove hard rock and proto-metal.
 - [[players/brian-auger|Brian Auger]] — British jazz-rock Hammond specialist; Steampacket, Trinity, Oblivion Express.
+- [[players/john-medeski|John Medeski]] — MMW keyboardist (b. 1965); the B-3 anchor voice of the 1990s jam/acid-jazz scene.
+- [[players/joey-defrancesco|Joey DeFrancesco]] — Jazz organist (1971–2022) who revived the B-3 in mainstream jazz; later acquired Jon Lord's modified Hammond.
+- [[players/barbara-dennerlein|Barbara Dennerlein]] — German "Organ Tornado" (b. 1964); bass-pedal virtuoso with MIDI/sampler-modified Hammond.
+- [[players/booker-t-jones|Booker T. Jones]] — Stax organist (b. 1944); "Green Onions" and the bridge from church/R&B organ to rock.
 
 ### Labels
 
@@ -43,6 +47,7 @@
 
 - [[people/laurens-hammond|Laurens Hammond]] - Mechanical engineer/inventor (clocks, 3D glasses) who created the tonewheel organ in 1935.
 - [[people/donald-leslie|Donald J. Leslie]] - Engineer who invented the rotating Leslie speaker; Hammond rejected it, history adopted it.
+- [[people/renato-lombardi|Renato Lombardi]] - Italian amp/sound engineer behind Brian Auger's signature sound (resistor fix, free PA stacks).
 
 ## Concepts
 
@@ -51,6 +56,7 @@
 - [[concepts/harmonic-percussion|Harmonic Percussion]] - B-3's decaying 2nd/3rd-harmonic "click" on the upper manual; the soul of the jazz sound.
 - [[concepts/vibrato-chorus|Vibrato/Chorus Scanner]] - Delay-line scanner giving the Hammond its signature shimmer (C-3/V/CV models onward).
 - [[concepts/clonewheel-organ|Clonewheel Organ]] - Electronic instruments that emulate the tonewheel-organ sound without actual spinning wheels.
+- [[concepts/portable-hammonds|Portable Hammonds]] - Factory portables (B-3mk2, Porta-B) vs chops (Keyboard Specialties, Bertram music); the 50/60 Hz problem.
 
 ## Comparisons
 
@@ -62,4 +68,5 @@
 ## Queries
 
 - [[queries/b3-beyond-jimmy-smith|Who carried the B-3 beyond Jimmy Smith?]] - Four channels of spread: soul-jazz legion, British rock, revival labels, gospel/modern trio mainstream.
+- [[queries/hammond-landmark-albums|Landmark Hammond albums]] - Great organ albums: Deep Purple (Lord), ELP (Emerson), Mother Earth (US; Naftalin), Santana (Rolie) — and what the Hammond does in each idiom.
 
