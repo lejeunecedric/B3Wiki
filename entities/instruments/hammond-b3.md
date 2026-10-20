@@ -28,3 +28,5 @@ The last units were assembled from leftover parts and are considered inferior to
 - [[hammond-organ-company]] — maker
 - A-100 (1959): self-contained B-3 with internal amp/speakers
 - Modern equivalents: Hammond-Suzuki XK/SK series and other [[tonewheel-generator|clonewheel]] instruments
+- See also: [[comparisons/b3-vs-c3|B-3 vs C-3]] — same organ in different furniture
+- See also: [[comparisons/b3-vs-a100|B-3 vs A-100]] — same organ with built-in amp/speakers

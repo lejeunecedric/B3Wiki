@@ -38,3 +38,10 @@
 - Verified all new [[wikilinks]] point to existing pages.
 - All new pages have >= 2 outbound [[wikilinks]] except wildcard check below.
 - Total pages: 11 -> 20.
+
+
+## [2026-10-20] lint | orphan + index-completeness fix
+- comparisons/b3-vs-a100 and comparisons/b3-vs-c3 had been added previously with no inbound links and no index entry (both flagged as orphans).
+- Added ## Comparisons section to index.md with one-line summaries.
+- Appended inbound [[wikilinks]] from entities/instruments/hammond-b3.md.
+- Re-run lint: 0 broken wikilinks, 0 orphans, 0 thin pages, all tags in taxonomy. Page count: 22.

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-20 | Total pages: 20
+> Last updated: 2026-10-20 | Total pages: 22
 
 ## Entities
 
@@ -44,6 +44,10 @@
 - [[concepts/vibrato-chorus|Vibrato/Chorus Scanner]] - Delay-line scanner giving the Hammond its signature shimmer (C-3/V/CV models onward).
 - [[concepts/clonewheel-organ|Clonewheel Organ]] - Electronic instruments that emulate the tonewheel-organ sound without actual spinning wheels.
 
+## Comparisons
+
+- [[comparisons/b3-vs-a100|B-3 vs A-100]] - The 1959 self-contained B-3 with built-in amp and speakers — identical organ engine, simpler rig.
+- [[comparisons/b3-vs-c3|B-3 vs C-3]] - Same tonewheel generator, different cabinet: B-3 open "showbiz" vs C-3 church-style with modesty panel.
+
 ## Queries
 
-_(none yet)_
