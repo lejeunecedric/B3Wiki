@@ -14,7 +14,7 @@ confidence: high
 
 ## Background
 - Classical piano from age five; Bach and Edward Elgar were constant reference points in his improvisation and arranging.^[raw/articles/wikipedia-jon-lord.md]
-- Equally shaped by American jazz-blues organists — [[wild-bill-davis|Wild Bill Davis]], [[jimmy-smith|Jimmy Smith]], [[jimmy-mcgriff|Jimmy McGriff]] ("All About My Girl"), Jack McDuff ("Rock Candy") — and by the classic [[hammond-b3|B-3/C-3]] + [[leslie-speaker|Leslie]] combination of 1950s–60s R&B organists. Also mentored early on by British organ pioneer Graham Bond, and impressed by Vanilla Fudge in 1967.^[raw/articles/wikipedia-jon-lord.md]
+- Equally shaped by American jazz-blues organists — [[wild-bill-davis|Wild Bill Davis]], [[jimmy-smith|Jimmy Smith]], [[jimmy-mcgriff|Jimmy McGriff]] ("All About My Girl"), and [[jack-mcduff|Jack McDuff]] ("Rock Candy") — and by the classic [[hammond-b3|B-3/C-3]] + [[leslie-speaker|Leslie]] combination of 1950s–60s R&B organists. Also mentored early on by British organ pioneer Graham Bond, and impressed by Vanilla Fudge in 1967.^[raw/articles/wikipedia-jon-lord.md]
 
 ## Career milestones
 - Early 1960s: London sessions (keyboard credit — disputed — on the Kinks' "You Really Got Me"), the Artwoods (organ-led blues-R&B), Santa Barbara Machine Head.^[raw/articles/wikipedia-jon-lord.md]

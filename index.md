@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-20 | Total pages: 70
+> Last updated: 2026-10-20 | Total pages: 79
 
 ## Entities
 
@@ -32,6 +32,11 @@
 - [[players/delvon-lamarr|Delvon Lamarr]] — Self-taught Seattle organist; leader of DLO3, drummer-turned-organist with perfect pitch.
 - [[people/jimmy-james|Jimmy James]] — Seattle **guitarist** (not an organist) of DLO3 (2015–2022), True Loves, and now Parlor Greens.
 - [[players/cory-henry|Cory Henry]] — Brooklyn gospel-to-funk keyboardist (ex-Snarky Puppy); leads The Funk Apostles.
+- [[players/keith-emerson|Keith Emerson]] — The Nice/ELP keyboardist (1944–2016) who made the abused Hammond a rock lead instrument; born of Jack McDuff's "Rock Candy".
+- [[players/gregg-rolie|Gregg Rolie]] — Santana founder-vocalist (b. 1947); B-3 in call-and-response with Carlos Santana's guitar, later Journey.
+- [[players/jack-mcduff|"Brother" Jack McDuff]] — Soul-jazz organist who switched from piano to Hammond in the 1950s; turned Keith Emerson onto the B-3.
+- [[players/don-patterson|Don Patterson]] — Post-Smith Prestige-label soul-jazz organist; Don Patterson Trio, Satisfaction! (1965).
+- [[players/richard-groove-holmes|Richard "Groove" Holmes]] — Soul-jazz organist who converted Jimmy McGriff to the organ; Groove Merchant veteran.
 
 ### Bands
 <!-- Organ-led bands (acid-jazz/revival scene and beyond). -->
@@ -44,6 +49,7 @@
 - [[bands/parlor-greens|Parlor Greens]] — Jimmy James's 2025 organ trio with Adam Scone and Tim Carman (Colemine); Emeralds.
 - [[bands/the-pulitzers|The Pulitzers]] — Dutch Hammond funk quartet (Frank Montis); Honk Honk (Zip Records, 2023).
 - [[bands/cookin-on-3-burners|Cookin' on 3 Burners]] — Melbourne Hammond trio (1997–); "This Girl", the Kungs 2016 #1.
+- [[bands/mother-earth|Mother Earth (US)]] — San Francisco blues-rock band (1967); Living with the Animals (1968), organ chair Naftalin/Goldberg.
 
 ### Labels
 
@@ -68,6 +74,7 @@
 - [[manufacturers/vox|Vox]] - British amp maker (1957); its 1962 Continental drawbar combo organ is the classic transistor rival.
 - [[manufacturers/rmi|RMI (Rocky Mount Instruments)]] - Allen Organ subsidiary (1966-1982) making the Electra-pianos in Jon Lord's and Brian Auger's rigs.
 - [[manufacturers/marshall-amplification|Marshall Amplification]] - British amp maker (1962); the overdriven stacks Jon Lord used to make the Hammond heavy.
+- [[manufacturers/crumar|Crumar]] - Italian maker (1969) of the Organizer first-wave Hammond emulators and later clonewheel-era boards.
 
 ### Albums
 <!-- Landmark albums and recordings. -->
@@ -77,6 +84,7 @@
 - [[albums/brain-salad-surgery|Brain Salad Surgery]] - ELP (1973); Emerson's Hammond and Moog as equal leads in "Karn Evil 9".
 - [[albums/back-at-the-chicken-shack|Back at the Chicken Shack]] - Jimmy Smith (rec. 1960, rel. 1963, Blue Note); the blues side of the Smith canon.
 - [[albums/i-told-you-so|I Told You So]] - Delvon Lamarr Organ Trio (2021, Colemine); the organ trio charting in the streaming era.
+- [[albums/living-with-the-animals|Living with the Animals]] - Mother Earth (US) (1968, Mercury); blues-rock organ-in-support behind Tracy Nelson.
 
 ### People
 <!-- Inventors, engineers, non-player figures. -->
@@ -84,6 +92,7 @@
 - [[people/laurens-hammond|Laurens Hammond]] - Mechanical engineer/inventor (clocks, 3D glasses) who created the tonewheel organ in 1935.
 - [[people/donald-leslie|Donald J. Leslie]] - Engineer who invented the rotating Leslie speaker; Hammond rejected it, history adopted it.
 - [[people/renato-lombardi|Renato Lombardi]] - Italian amp/sound engineer behind Brian Auger's signature sound (resistor fix, free PA stacks).
+- [[people/mark-naftalin|Mark Naftalin]] - Keyboardist (piano/organ/keyboards, ex-Paul Butterfield Blues Band) on Mother Earth's Living with the Animals.
 
 ### References
 <!-- Magazines, blogs, radio stations and YouTube channels used as ingestion sources. -->

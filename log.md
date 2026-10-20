@@ -136,3 +136,11 @@
 ## [2026-10-20] entities/references | 4 new reference pages
 - Added entities/references/: magazines, blogs, radio-stations, youtube-channels (Hammond/organ sources for ingestion)
 - index.md updated (References section; total 66 -> 70)
+
+## [2026-10-20] create | entity-extraction pass (9 pages)
+- Scanned all 50 raw/articles sources + existing entity pages for entities cited without pages.
+- Created: players/keith-emerson, players/gregg-rolie, players/jack-mcduff, players/don-patterson, players/richard-groove-holmes, bands/mother-earth, people/mark-naftalin, manufacturers/crumar, albums/living-with-the-animals — all 2+ source citations (McDuff: 6+ sources).
+- Note: keith-emerson's first organ was an L-100 (single-source) — candidate: hammond-l-100 if a second source turns up. McDuff/Patterson/Holmes birth-death dates left out of frontmatter (unverified from ingested sources, per AGENTS.md §9).
+- Jack McDuff dedup: resolves the long-pending "Jack McDuff still pending" thread from the Eddy Louiss session log.
+- Files updated: entities/players/jon-lord.md (McDuff wikilink), queries/hammond-landmark-albums.md (Mother Earth/Naftalin/Rolie wikilinks), index.md (9 entries, count 70 -> 79).
+- Below-threshold (roster-mention only, no page): Charles Earland (2), Shirley Scott, Big John Patton, Tony Monaco, Larry Goldings, British Mother Earth, Bryn Barklam, Reuben Wilson, Sonny Phillips, Freddie Roach, Wayne Talbert, Barry Goldberg, Andy McMahon, Tracy Nelson, Boz Scaggs.
