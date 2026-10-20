@@ -133,3 +133,6 @@
 ## [2026-10-20] lint | 0 issues (66 wiki pages)
 - lint.py: _index.md files now treated as meta-files (excluded from slugs/FRONT/orphan checks)
 - 4 LANG warnings are false positives ("die" in book title, French/Dutch names) — allowed
+## [2026-10-20] entities/references | 4 new reference pages
+- Added entities/references/: magazines, blogs, radio-stations, youtube-channels (Hammond/organ sources for ingestion)
+- index.md updated (References section; total 66 -> 70)
