@@ -144,3 +144,7 @@
 - Jack McDuff dedup: resolves the long-pending "Jack McDuff still pending" thread from the Eddy Louiss session log.
 - Files updated: entities/players/jon-lord.md (McDuff wikilink), queries/hammond-landmark-albums.md (Mother Earth/Naftalin/Rolie wikilinks), index.md (9 entries, count 70 -> 79).
 - Below-threshold (roster-mention only, no page): Charles Earland (2), Shirley Scott, Big John Patton, Tony Monaco, Larry Goldings, British Mother Earth, Bryn Barklam, Reuben Wilson, Sonny Phillips, Freddie Roach, Wayne Talbert, Barry Goldberg, Andy McMahon, Tracy Nelson, Boz Scaggs.
+
+## [2026-10-20] newsletter | first weekly newsletter + scripts/newsletter.py
+- Added `scripts/newsletter.py` (weekly generator: anniversaries from born/died/released frontmatter, recently updated pages, new raw references, queries on file)
+- Created `content/newsletters/261020-B3Wiki-newsletter.md`
