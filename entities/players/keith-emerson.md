@@ -1,10 +1,10 @@
 ---
 title: Keith Emerson
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-26
 type: entity
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-keith-emerson.md, raw/articles/doctormix-rarest-hammond.md, raw/articles/hammondorganco-hammond-story.md]
+sources: [raw/articles/wikipedia-keith-emerson.md, raw/articles/doctormix-rarest-hammond.md, raw/articles/hammondorganco-hammond-story.md, raw/articles/musicradar-emerson-rig.md]
 confidence: high
 born: 1944-11-02
 died: 2016-03-11
@@ -16,13 +16,14 @@ died: 2016-03-11
 
 ## The Hammond story
 - Converted to the organ after hearing jazz organist [[jack-mcduff|Jack McDuff]] perform "Rock Candy"; the Hammond became his instrument of choice from the late 1960s.^[raw/articles/wikipedia-keith-emerson.md]
-- His first Hammond was an **L-100** model, bought at age 15–16 on hire purchase plus a loan from his grandmother — an instrument he famously abused on stage (knives in the keys, feedback, dragging).^[raw/articles/wikipedia-keith-emerson.md]
+- His first Hammond was an **[[hammond-l-100|L-100]]** model, bought at age 15–16 on hire purchase plus a loan from his father — an instrument he famously abused on stage (knives in the keys, feedback, dragging), with the modded "wailing" switch trick and a burned-out survivor now at EMEAPP.^[raw/articles/wikipedia-keith-emerson.md]^[raw/articles/musicradar-emerson-rig.md]
 - In his Hammond playing he partly recreated the sound of jazz-blues organists; the classic [[hammond-b3|Hammond]] + [[leslie-speaker|Leslie]] pairing sat at the center of The Nice's and ELP's sound, with the L-100/C-3 played hard through overdriven amps.^[raw/articles/wikipedia-keith-emerson.md]^[raw/articles/hammondorganco-hammond-story.md]
 
 ## Career milestones
 - The Nice (1967–1970): R&B/classical hybrid built on the Hammond; "Rondo" and "America" as organ-led showpieces.
 - Emerson, Lake & Palmer (1970–1979, reunions 1991–1998): _Brain Salad Surgery_ (1973) is the landmark [[hammond-b3|Hammond]]-and-Moog record — see [[albums/brain-salad-surgery]].
 - Both Emerson and Greg Lake died in 2016, leaving Carl Palmer as ELP's only surviving member.^[raw/articles/wikipedia-keith-emerson.md]
+- His full Hammond rig (Tarkus C-3, L-100s, twin Leslie 122s) is preserved at EMEAPP; organ tech Al Goff documented the mods.^[raw/articles/musicradar-emerson-rig.md]
 
 ## Related
 - [[jack-mcduff]] — the jazz organist who turned him on to the Hammond

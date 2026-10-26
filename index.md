@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-20 | Total pages: 80
+> Last updated: 2026-10-26 | Total pages: 82
 
 ## Entities
 
@@ -15,6 +15,7 @@
 - [[instruments/roland-vk-7|Roland VK-7]] - 1997 dual-manual virtual-modeling clonewheel in a wooden case.
 - [[instruments/hammond-xk-3|Hammond-Suzuki XK-3]] - 2004 prosumer DSP clonewheel; third-generation virtual B-3.
 - [[instruments/nord-c2d|Clavia Nord C2D]] - 2012 dual-manual combo organ with LED-button drawbars.
+- [[instruments/hammond-l-100|Hammond L-100]] - Economy spinet line (with M-100); Keith Emerson's first Hammond and knife-scarred stunt organ — the "wailing" switch trick, a burned Boston survivor at EMEAPP.
 
 ### Players
 
@@ -37,6 +38,7 @@
 - [[players/jack-mcduff|"Brother" Jack McDuff]] — Soul-jazz organist who switched from piano to Hammond in the 1950s; turned Keith Emerson onto the B-3.
 - [[players/don-patterson|Don Patterson]] — Post-Smith Prestige-label soul-jazz organist; Don Patterson Trio, Satisfaction! (1965).
 - [[players/richard-groove-holmes|Richard "Groove" Holmes]] — Soul-jazz organist who converted Jimmy McGriff to the organ; Groove Merchant veteran.
+- [[players/charles-earland|Charles Earland]] — Philadelphia soul-jazz organist (1941–1999), "The Mighty Burner"; saxophonist-turned-organist from McGriff's combo, Prestige run and 1978 disco hit.
 
 ### Bands
 <!-- Organ-led bands (acid-jazz/revival scene and beyond). -->

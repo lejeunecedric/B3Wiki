@@ -1,7 +1,7 @@
 ---
 title: Jimmy McGriff
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-26
 type: entity
 died: 2008-05-24
 born: 1936-04-03
@@ -24,7 +24,7 @@ confidence: high
 - 1962–65: series of Sue albums ending with _Blues for Mister Jimmy_.^[raw/articles/wikipedia-jimmy-mcgriff.md]
 - 1966 onward: star attraction of producer Sonny Lester's Solid State label — big band (_The Big Band_, 1966), organ-and-blues-band albums (_Honey_, _A Thing to Come By_), funk (_Electric Funk_, 1970), pop covers, and singles like "The Worm" and "Step One".^[raw/articles/wikipedia-jimmy-mcgriff.md]
 - Settled in Newark, NJ; ran his own supper club, The Golden Slipper (recorded _Black Pearl_ and _Chicken Fried Soul_ there). Performed regularly with Buddy Rich's band from 1969.^[raw/articles/wikipedia-jimmy-mcgriff.md]
-- His Philadelphia combo featured tenor saxophonist Charles Earland, who soon switched to organ and became a renowned organist in his own right.^[raw/articles/wikipedia-jimmy-mcgriff.md]
+- His Philadelphia combo featured tenor saxophonist [[charles-earland|Charles Earland]], who soon switched to organ and became a renowned organist in his own right.^[raw/articles/wikipedia-jimmy-mcgriff.md]
 - Later labels: Groove Merchant, Milestone, Telarc; active until 2007.^[raw/articles/wikipedia-jimmy-mcgriff.md]
 
 ## Related

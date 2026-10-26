@@ -188,3 +188,12 @@
 ## [2026-10-21] newsletter | this week, long ago
 - Section renamed to "This week, long ago"; now includes album release anniversaries (full dates in frontmatter, current week, last 60 years)
 - No verified in-window album this week; near-misses noted (Head Hunters 26 Oct 1973, Shaft chart entry 16 Oct 1971, Caravanserai 11 Oct 1972)
+
+## [2026-10-26] ingest | Charles Earland + Emerson's L-100 rig (2 new sources)
+- raw/articles/wikipedia-charles-earland.md (sha256 63428e013a748775…)
+- raw/articles/musicradar-emerson-rig.md (sha256 10414112339fa287…; Geary Yelton's MusicRadar/EMEAPP feature with Al Goff interview)
+
+## [2026-10-26] create | Charles Earland + Hammond L-100
+- entities/players/charles-earland.md — resolves the long-standing open thread ("Earland has no page yet"); born 1941-05-24, died 1999-12-11; McGriff combo, Lou Donaldson, Prestige run, "Let The Music Play".
+- entities/instruments/hammond-l-100.md — resolves the candidate mark from the entity-extraction pass (2nd source found); economy spinet with M-100, no verified launch year in sources so no released: field; Emerson's stunt organ, wailing switch mod, burned Boston survivor at EMEAPP.
+- Files updated: entities/players/keith-emerson.md (L-100 wikilink + EMEAPP line + source; loaner corrected grandmother→father per sources), entities/players/jimmy-mcgriff.md (Earland wikilink), queries/b3-beyond-jimmy-smith.md (open threads updated: Earland done, McDuff stale note cleared), index.md (2 entries, count 80 → 82).
