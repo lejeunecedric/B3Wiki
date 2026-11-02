@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-26 | Total pages: 82
+> Last updated: 2026-11-02 | Total pages: 83
 
 ## Entities
 
@@ -126,4 +126,5 @@
 - [[queries/b3-beyond-jimmy-smith|Who carried the B-3 beyond Jimmy Smith?]] - Four channels of spread: soul-jazz legion, British rock, revival labels, gospel/modern trio mainstream.
 - [[queries/hammond-landmark-albums|Landmark Hammond albums]] - Great organ albums: Deep Purple (Lord), ELP (Emerson), Mother Earth (US; Naftalin), Santana (Rolie) — and what the Hammond does in each idiom.
 - [[queries/modern-organ-scene|The modern organ scene]] - Who carries the B-3 now: DLO3, Parlor Greens, The Pulitzers, Cookin' on 3 Burners, Cory Henry; labels, discovery, lineage.
+- [[queries/hammond-gospel-lineage|The gospel lineage of the Hammond organ]] - Chicago 1939 (First Church of Deliverance) to gospel's golden age, the church-to-jazz pipeline, and the retreat of the Sunday-morning Hammond.
 

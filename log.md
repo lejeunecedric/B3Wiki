@@ -197,3 +197,13 @@
 - entities/players/charles-earland.md — resolves the long-standing open thread ("Earland has no page yet"); born 1941-05-24, died 1999-12-11; McGriff combo, Lou Donaldson, Prestige run, "Let The Music Play".
 - entities/instruments/hammond-l-100.md — resolves the candidate mark from the entity-extraction pass (2nd source found); economy spinet with M-100, no verified launch year in sources so no released: field; Emerson's stunt organ, wailing switch mod, burned Boston survivor at EMEAPP.
 - Files updated: entities/players/keith-emerson.md (L-100 wikilink + EMEAPP line + source; loaner corrected grandmother→father per sources), entities/players/jimmy-mcgriff.md (Earland wikilink), queries/b3-beyond-jimmy-smith.md (open threads updated: Earland done, McDuff stale note cleared), index.md (2 entries, count 80 → 82).
+
+## [2026-11-02] ingest | gospel lineage + Dr. Lonnie Smith source pass (2 new sources)
+- raw/articles/npr-hammond-gospel-hit-train.md (sha256 f71a85d016193a72…; NPR Weekend Edition, Anne Ford, Jan 2016 — First Church of Deliverance, Clarence Cobbs 1939, Jerry Welch parts inventory)
+- raw/articles/nprillinois-dr-lonnie-smith-obituary.md (sha256 ff9ca85bbda455cd…; NPR, Sept 29 2021 — obituary, Blue Note run, A Tribe Called Quest sampling)
+
+## [2026-11-02] create | queries/hammond-gospel-lineage.md
+- Resolves the "gospel lineage warrants its own query page" open thread. Chicago 1939 entry point via radio pastor Clarence Cobbs; church→jazz pipeline (Wild Bill Davis, Jimmy Smith); modern continuation (Cory Henry); retreat + Jerry Welch parts-story. confidence: medium (journalistic sources, no scholarly backup yet).
+- entities/players/dr-lonnie-smith.md updated: Legacy section (death, hip-hop sampling), obituary source, External links added; updated date bumped. Resolves the "Dr. Lonnie Smith source pass" thread.
+- queries/b3-beyond-jimmy-smith.md: open threads updated (Lonnie done, gospel done; clonewheel-transition query still open). index.md +1 entry, count 82 → 83.
+- Note: attempted hammondorganco.com Hall of Fame page for Lonnie Smith — URL 404, skipped.

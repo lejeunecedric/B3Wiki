@@ -1,12 +1,12 @@
 ---
 title: Dr. Lonnie Smith
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-11-02
 type: entity
 died: 2021-09-28
 born: 1942-07-03
 tags: [person, music, history]
-sources: [raw/articles/wikipedia-dr-lonnie-smith.md, https://en.wikipedia.org/wiki/Dr._Lonnie_Smith]
+sources: [raw/articles/wikipedia-dr-lonnie-smith.md, https://en.wikipedia.org/wiki/Dr._Lonnie_Smith, raw/articles/nprillinois-dr-lonnie-smith-obituary.md]
 confidence: high
 ---
 
@@ -26,7 +26,19 @@ confidence: high
 - Over 30 albums under his own name; sidemen ranged from Lee Morgan and King Curtis to Joey DeFrancesco and Joe Lovano.^[raw/articles/wikipedia-dr-lonnie-smith.md]
 - 2015: rejoined Blue Note after 45 years — _Evolution_ (2016), _All in My Mind_ (2018), and _Breathe_ (2021) with guest vocals from Iggy Pop.^[raw/articles/wikipedia-dr-lonnie-smith.md]
 
+## Legacy
+
+- Died September 28, 2021, aged 79.^[raw/articles/nprillinois-dr-lonnie-smith-obituary.md]
+- Hip-hop adopted his grooves: A Tribe Called Quest sampled his music ("Can I Kick It?") — Smith only learned when the royalty checks arrived, and noticed "people from my era and people from the young era at the same concert."^[raw/articles/nprillinois-dr-lonnie-smith-obituary.md]
+- His gospel-church upbringing (organs "in the churches, you know, and things like that") is the classic lineage — see [[hammond-gospel-lineage]].
+
 ## Related
 - [[jimmy-smith]] — the tradition he extended into funk-oriented soul jazz
 - [[hammond-b3]] — his instrument from a gift B-3 onward
 - [[jimmy-mcgriff]] — fellow Sonny Lester/Groove Merchant organ star
+
+## External links
+
+- [Dr. Lonnie Smith (Wikipedia)](https://en.wikipedia.org/wiki/Dr._Lonnie_Smith)
+- [NPR obituary, September 2021](https://www.nprillinois.org/2021-09-29/influential-organ-player-dr-lonnie-smith-has-died-at-age-79)
+- [NEA Jazz Master podcast (2017)](https://www.arts.gov/stories/podcast/dr-lonnie-smith)
