@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-11-02 | Total pages: 83
+> Last updated: 2026-11-09 | Total pages: 85
 
 ## Entities
 
@@ -14,6 +14,7 @@
 - [[instruments/korg-cx-3|Korg CX-3]] - 1980 single-manual analog clonewheel; the first clone to "approach a vintage Hammond."
 - [[instruments/roland-vk-7|Roland VK-7]] - 1997 dual-manual virtual-modeling clonewheel in a wooden case.
 - [[instruments/hammond-xk-3|Hammond-Suzuki XK-3]] - 2004 prosumer DSP clonewheel; third-generation virtual B-3.
+- [[instruments/hammond-xk-5|Hammond XK-5]] - 2016 flagship portable clonewheel; MTW I engine, in-house keybed emulating the nine-busbar contact feel.
 - [[instruments/nord-c2d|Clavia Nord C2D]] - 2012 dual-manual combo organ with LED-button drawbars.
 - [[instruments/hammond-l-100|Hammond L-100]] - Economy spinet line (with M-100); Keith Emerson's first Hammond and knife-scarred stunt organ — the "wailing" switch trick, a burned Boston survivor at EMEAPP.
 
@@ -127,4 +128,5 @@
 - [[queries/hammond-landmark-albums|Landmark Hammond albums]] - Great organ albums: Deep Purple (Lord), ELP (Emerson), Mother Earth (US; Naftalin), Santana (Rolie) — and what the Hammond does in each idiom.
 - [[queries/modern-organ-scene|The modern organ scene]] - Who carries the B-3 now: DLO3, Parlor Greens, The Pulitzers, Cookin' on 3 Burners, Cory Henry; labels, discovery, lineage.
 - [[queries/hammond-gospel-lineage|The gospel lineage of the Hammond organ]] - Chicago 1939 (First Church of Deliverance) to gospel's golden age, the church-to-jazz pipeline, and the retreat of the Sunday-morning Hammond.
+- [[queries/clonewheel-transition|The clonewheel transition]] - How digital organs displaced the tonewheel: analog clones (1979), DSP modeling (2001), and the touch/key-feel race (2002–2016).
 

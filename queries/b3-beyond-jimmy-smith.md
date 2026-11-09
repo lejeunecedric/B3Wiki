@@ -29,7 +29,7 @@ The B-3's spread beyond Smith ran along four channels, all traceable to his temp
 - [[dr-lonnie-smith]] has now had a dedicated source pass (2026-11-02: NPR obituary, legacy section). [[charles-earland]] has a page (2026-10-26).
 - Wiki pages referenced but not yet created: none outstanding — Jack McDuff ([[jack-mcduff]]), [[wild-bill-davis]] and [[joey-defrancesco|Joey DeFrancesco]] all exist.
 - The acid-jazz/revival wave (channel 3) is now covered: [[james-taylor-quartet]], [[link-quartet]], [[paolo-negri]], [[men-from-spectre]], [[leslie-overdrive]] — see the [[hammondbeat]] roster section for acts still page-less (Phat Fred, Sven Hammond Soul, The Dansettes…).
-- The gospel lineage now has its own query page: [[hammond-gospel-lineage]] (2026-11-02). The clonewheel transition still warrants its own query page.
+- The gospel lineage now has its own query page: [[hammond-gospel-lineage]] (2026-11-02). The clonewheel transition now has its own query page too: [[clonewheel-transition]] (2026-11-09).
 
 ## Related
 - [[jimmy-smith]] — the starting point of every channel above

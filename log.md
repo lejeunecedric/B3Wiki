@@ -207,3 +207,17 @@
 - entities/players/dr-lonnie-smith.md updated: Legacy section (death, hip-hop sampling), obituary source, External links added; updated date bumped. Resolves the "Dr. Lonnie Smith source pass" thread.
 - queries/b3-beyond-jimmy-smith.md: open threads updated (Lonnie done, gospel done; clonewheel-transition query still open). index.md +1 entry, count 82 → 83.
 - Note: attempted hammondorganco.com Hall of Fame page for Lonnie Smith — URL 404, skipped.
+
+## [2026-11-09] ingest | clonewheel transition (2 new sources)
+- raw/articles/sos-korg-cx3-2001.md (sha256 a56a7c3cec37a845…; Gordon Reid's Sound on Sound review, Jan 2001)
+- raw/articles/sos-hammond-xk-5-2018.md (sha256 cbe8649c99946ffd…; Hugh Robjohns' Sound on Sound review, Jan 2018)
+
+## [2026-11-09] create | queries/clonewheel-transition.md + Hammond XK-5
+- queries/clonewheel-transition.md — resolves the last open thread from b3-beyond-jimmy-smith: three-wave transition story (analog clones 1979 → DSP modeling 2001 → touch/key-feel race 2002–2016). confidence: medium (two journalistic reviews + Wikipedia background).
+- entities/instruments/hammond-xk-5.md — new page (released: 2016, year-only; MTW I engine, bespoke keybed/3-contact system, full drawbars, Heritage system, FW 3.0 April 2018).
+- entities/instruments/korg-cx-3.md updated: New CX-3 2001 physical-modeling section from the SoS review; source + updated date bumped.
+- entities/instruments/hammond-xk-3.md updated: XK-3C year flagged (SoS says 2007 vs Wikipedia-derived 2008, ±1 uncertainty noted); successor wikilink; External links section added.
+- queries/b3-beyond-jimmy-smith.md: clonewheel-transition thread marked done. index.md +2 entries, count 83 → 85.
+
+## [2026-11-09] lint | 0 issues
+- scripts/lint.py: clean; 85 pages. Pre-existing LANG false-positives only (die/le/les/un/la/der inside English prose).
