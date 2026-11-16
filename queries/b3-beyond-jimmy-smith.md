@@ -1,7 +1,7 @@
 ---
 title: Who carried the B-3 beyond Jimmy Smith?
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-11-16
 type: query
 tags: [query, music, history, modern]
 sources: [raw/articles/npr-blogsupreme-hammond-b3.md, raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md, raw/forums/organissimo-bft66-hammond-b3.md, raw/articles/wikipedia-jon-lord.md, raw/articles/wikipedia-hammondbeat.md]
@@ -14,7 +14,7 @@ confidence: medium
 
 ## Answer
 
-**1. The soul-jazz legion (jazz's mainstream, 1960s–70s).** Smith's impact was compared to Charlie Christian on guitar or Charlie Parker on sax: a legion of younger players — Charles Earland, Richard "Groove" Holmes, Jack McDuff, Don Patterson, "Big" John Patton, Sonny Phillips, Freddie Roach, Shirley Scott, Johnny "Hammond" Smith, Lonnie Smith, Reuben Wilson, [[jimmy-mcgriff|Jimmy McGriff]] — created a golden age of soul jazz, hard bop seasoned with blues, gospel and R&B.^[raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md]^[raw/articles/wikipedia-dr-lonnie-smith.md] Collector and forum discussion (organissimo BFT-66 blindfold test, see raw/forums/organissimo-bft66-hammond-b3.md) stresses the deep bench beyond the famous names — e.g. Charles Kynard's Pacific Jazz dates, and modern organ-trio players like Craig Kastelnik deliberately avoiding soul-jazz clichés.^[raw/forums/organissimo-bft66-hammond-b3.md]
+**1. The soul-jazz legion (jazz's mainstream, 1960s–70s).** Smith's impact was compared to Charlie Christian on guitar or Charlie Parker on sax: a legion of younger players — Charles Earland, Richard "Groove" Holmes, Jack McDuff, Don Patterson, "Big" John Patton, Sonny Phillips, Freddie Roach, Shirley Scott, Johnny "Hammond" Smith, Lonnie Smith, Reuben Wilson, [[larry-young|Larry Young]], [[jimmy-mcgriff|Jimmy McGriff]] — created a golden age of soul jazz, hard bop seasoned with blues, gospel and R&B.^[raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md]^[raw/articles/wikipedia-dr-lonnie-smith.md] Collector and forum discussion (organissimo BFT-66 blindfold test, see raw/forums/organissimo-bft66-hammond-b3.md) stresses the deep bench beyond the famous names — e.g. Charles Kynard's Pacific Jazz dates, and modern organ-trio players like Craig Kastelnik deliberately avoiding soul-jazz clichés.^[raw/forums/organissimo-bft66-hammond-b3.md]
 
 **2. Rock (British wing, late 1960s).** [[jon-lord|Jon Lord]] absorbed the same American R&B-organ records (Wild Bill Davis, Smith, McGriff's "All About My Girl", McDuff's "Rock Candy") through the B-3/C-3 + [[leslie-speaker|Leslie]] rig and pushed it into hard rock and proto-heavy-metal with Deep Purple, while fusing it with his classical training.^[raw/articles/wikipedia-jon-lord.md] [[brian-auger|Brian Auger]] took the same instrument into jazz-rock, soul-rock and fusion.^[raw/articles/wikipedia-brian-auger.md]
 
@@ -30,6 +30,8 @@ The B-3's spread beyond Smith ran along four channels, all traceable to his temp
 - Wiki pages referenced but not yet created: none outstanding — Jack McDuff ([[jack-mcduff]]), [[wild-bill-davis]] and [[joey-defrancesco|Joey DeFrancesco]] all exist.
 - The acid-jazz/revival wave (channel 3) is now covered: [[james-taylor-quartet]], [[link-quartet]], [[paolo-negri]], [[men-from-spectre]], [[leslie-overdrive]] — see the [[hammondbeat]] roster section for acts still page-less (Phat Fred, Sven Hammond Soul, The Dansettes…).
 - The gospel lineage now has its own query page: [[hammond-gospel-lineage]] (2026-11-02). The clonewheel transition now has its own query page too: [[clonewheel-transition]] (2026-11-09).
+
+- [[larry-young]] has a page (2026-11-16: Wikipedia + AllMusic pass) — the modal/fusion counter-branch of the soul-jazz legion.
 
 ## Related
 - [[jimmy-smith]] — the starting point of every channel above

@@ -221,3 +221,14 @@
 
 ## [2026-11-09] lint | 0 issues
 - scripts/lint.py: clean; 85 pages. Pre-existing LANG false-positives only (die/le/les/un/la/der inside English prose).
+
+## [2026-11-16] ingest | Larry Young (2 new sources)
+- raw/articles/wikipedia-larry-young.md (sha256 fbadf502d9424663…)
+- raw/articles/allmusic-larry-young.md (sha256 930e3202a868687a…; Ron Wynn biography section only, extracted from the AllMusic artist page)
+
+## [2026-11-16] create | Larry Young
+- entities/players/larry-young.md — closes the biggest remaining gap in the soul-jazz legion (named in b3-beyond-jimmy-smith since the first pass). Born 1940-10-07 Newark, died 1978-03-30 NYC (Wikipedia + AllMusic agree); Prestige soul-jazz start, Coltrane-influenced Blue Note run (Into Somethin' 1964/65, Unity), Tony Williams Lifetime + Bitches Brew fusion, cause of death noted as unclear. confidence: high for dates/bio spine.
+- Files updated: queries/b3-beyond-jimmy-smith.md (larry-young wikilink in channel 1 + open-threads note; updated date bumped), index.md (Players +1, count 85 → 86).
+
+## [2026-11-16] lint | 0 issues
+- scripts/lint.py: clean; 86 pages. Pre-existing LANG false-positives only.

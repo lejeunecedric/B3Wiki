@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-11-09 | Total pages: 85
+> Last updated: 2026-11-16 | Total pages: 86
 
 ## Entities
 
@@ -40,6 +40,7 @@
 - [[players/don-patterson|Don Patterson]] — Post-Smith Prestige-label soul-jazz organist; Don Patterson Trio, Satisfaction! (1965).
 - [[players/richard-groove-holmes|Richard "Groove" Holmes]] — Soul-jazz organist who converted Jimmy McGriff to the organ; Groove Merchant veteran.
 - [[players/charles-earland|Charles Earland]] — Philadelphia soul-jazz organist (1941–1999), "The Mighty Burner"; saxophonist-turned-organist from McGriff's combo, Prestige run and 1978 disco hit.
+- [[players/larry-young|Larry Young]] — Newark modal innovator (1940–1978); the Coltrane-of-the-organ counter-branch of the soul-jazz legion, Blue Note's *Unity* and Tony Williams Lifetime.
 
 ### Bands
 <!-- Organ-led bands (acid-jazz/revival scene and beyond). -->
