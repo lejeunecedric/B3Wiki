@@ -1,4 +1,8 @@
 ---
+type: Source
+title: '[vinyldiscovery](https://vinyldiscovery.blogspot.com/)'
+resource: https://vinyldiscovery.blogspot.com/2023/05/the-hammond-organ-soul-jazz-and-black.html
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://vinyldiscovery.blogspot.com/2023/05/the-hammond-organ-soul-jazz-and-black.html
 ingested: 2026-10-20
 sha256: 15d1020e651cf0e095c18a6a6fd01ed05efa444e6eeb6704b84d8f2815d970c7

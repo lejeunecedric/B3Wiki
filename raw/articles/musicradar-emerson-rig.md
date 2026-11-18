@@ -1,4 +1,8 @@
 ---
+type: Source
+title: musicradar-emerson-rig
+resource: https://www.musicradar.com/news/rememebering-keith-emerson-ELP-emerson-lake-palmer-moog
+timestamp: '2026-10-26T00:00:00Z'
 source_url: https://www.musicradar.com/news/rememebering-keith-emerson-ELP-emerson-lake-palmer-moog
 ingested: 2026-10-26
 sha256: 10414112339fa28765bb00e9481097bea679fece3de6cea5b657ec7f31f62f7f

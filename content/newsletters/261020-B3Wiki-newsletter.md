@@ -1,3 +1,12 @@
+---
+type: Newsletter
+title: The Organ Donor
+timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
+---
+
 # The Organ Donor
 
 *Vol. 43 — week of 2026-10-19 to 2026-10-25*

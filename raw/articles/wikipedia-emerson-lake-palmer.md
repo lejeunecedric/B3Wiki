@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Emerson, Lake & Palmer
+resource: https://en.wikipedia.org/wiki/Emerson,_Lake_%26_Palmer
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Emerson,_Lake_%26_Palmer
 ingested: 2026-10-20
 sha256: 7e80f7d6d446b1d06adf99de54bb2454401a2ad8c61d68c986881c0be529b131

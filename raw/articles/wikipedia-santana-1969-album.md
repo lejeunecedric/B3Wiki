@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Santana (1969 album)
+resource: https://en.wikipedia.org/wiki/Santana_(1969_album)
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Santana_(1969_album)
 ingested: 2026-10-20
 sha256: a6b46e1fe32cd1a952225b5596c3dda3792d3c1cae5dd98e30531968a2fe1981

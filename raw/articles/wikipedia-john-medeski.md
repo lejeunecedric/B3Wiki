@@ -1,4 +1,8 @@
 ---
+type: Source
+title: wikipedia-john-medeski
+resource: https://en.wikipedia.org/wiki/John_Medeski
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/John_Medeski
 ingested: 2026-10-20
 sha256: b677aef0ee23adf6eee37a608c6379c1247c951b2fa7eed7e05a9780f461c4f7

@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Keith Emerson
+resource: https://en.wikipedia.org/wiki/Keith_Emerson
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Keith_Emerson
 ingested: 2026-10-20
 sha256: 04d01bdf5538667cf2c6a4e13fabd07cd5160550dd2e432833890911ec00b6dd

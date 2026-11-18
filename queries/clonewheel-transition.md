@@ -1,10 +1,31 @@
 ---
+type: Query
 title: How did clonewheels take over from the tonewheel Hammond?
+description: 'How digital organs displaced the tonewheel: analog clones (1979), DSP modeling (2001), and the touch/key-feel race (2002–2016).'
+tags:
+- query
+- technology
+- modern
+- history
+timestamp: '2026-11-09T00:00:00Z'
+sources:
+- resource: /raw/articles/sos-korg-cx3-2001.md
+  id: sos-korg-cx3-2001
+  last_modified: '2026-11-09T00:00:00Z'
+- resource: /raw/articles/sos-hammond-xk-5-2018.md
+  id: sos-hammond-xk-5-2018
+  last_modified: '2026-11-09T00:00:00Z'
+- resource: /raw/articles/wikipedia-clonewheel-organ.md
+  id: wikipedia-clonewheel-organ
+  last_modified: '2026-10-20T00:00:00Z'
+- resource: /raw/articles/wikipedia-hammond-organ.md
+  id: wikipedia-hammond-organ
+  last_modified: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-11-09T00:00:00Z'
 created: 2026-11-09
 updated: 2026-11-09
-type: query
-tags: [query, technology, modern, history]
-sources: [raw/articles/sos-korg-cx3-2001.md, raw/articles/sos-hammond-xk-5-2018.md, raw/articles/wikipedia-clonewheel-organ.md, raw/articles/wikipedia-hammond-organ.md]
 confidence: medium
 ---
 
@@ -14,33 +35,40 @@ confidence: medium
 
 ## Answer in one line
 
-The transition happened in three waves — analog approximations (1979–80s), affordable DSP modeling (1990s–2001), and full-fidelity modeling + touch (2002–2016) — driven less by sound than by logistics: a B-3 weighs 140 kg and production stopped in 1974.^[raw/articles/sos-hammond-xk-5-2018.md]
+The transition happened in three waves — analog approximations (1979–80s), affordable DSP modeling (1990s–2001), and full-fidelity modeling + touch (2002–2016) — driven less by sound than by logistics: a B-3 weighs 140 kg and production stopped in 1974.[1]
 
 ## Wave 1: analog approximations (1979–1984)
 
-Korg's CX-3/BX-3 (1979/1980) were the first clones to credibly imitate a tonewheel Hammond — Gordon Reid judged them "a cut above" the Roland VK-1/VK-9 and Yamaha combo voices of the day, and by 2001 a good used BX-3 cost more than a real Hammond L-100 or M-100. But they were analog compromises, not models of the machine.^[raw/articles/sos-korg-cx3-2001.md] By 1985 the [[hammond-organ-company|Hammond Organ Company]] itself had abandoned tonewheels for integrated circuits, failed commercially, and folded; the name went to Noel Crabbe's Hammond Organ Australia and then to [[suzuki-musical-instrument|Suzuki]].^[raw/articles/wikipedia-hammond-organ.md]
+Korg's CX-3/BX-3 (1979/1980) were the first clones to credibly imitate a tonewheel Hammond — Gordon Reid judged them "a cut above" the Roland VK-1/VK-9 and Yamaha combo voices of the day, and by 2001 a good used BX-3 cost more than a real Hammond L-100 or M-100. But they were analog compromises, not models of the machine.[2] By 1985 the [Hammond Organ Company](/entities/manufacturers/hammond-organ-company.md) itself had abandoned tonewheels for integrated circuits, failed commercially, and folded; the name went to Noel Crabbe's Hammond Organ Australia and then to [Suzuki](/entities/manufacturers/suzuki-musical-instrument.md).[3]
 
 ## Wave 2: DSP modeling reaches credibility (1986–2001)
 
-Hammond-Suzuki's first digital Hammond was the "Super B" (1986), developed through the XB-series into the 1990s. The decisive moment was Korg's 2001 re-release of the CX-3 as a *physical-modeling* instrument: Reid, reviewing it for *Sound on Sound*, called it "the best emulation of the Hammond C3 I've yet heard," praising in particular its emulation of key-click "spit" and the subtle touch-sensitivity of the vintage key contacts — the exact details previous emulators got wrong.^[raw/articles/sos-korg-cx3-2001.md] Its limits (no Leslie output, no spring reverb, bitimbral-only) also mapped out what the next generation had to fix. Hammond-Suzuki answered with the [[hammond-xk-3|XK-3]] (2004) and the flagship "New B-3" (2003, VASE III engine).^[raw/articles/sos-hammond-xk-5-2018.md]
+Hammond-Suzuki's first digital Hammond was the "Super B" (1986), developed through the XB-series into the 1990s. The decisive moment was Korg's 2001 re-release of the CX-3 as a *physical-modeling* instrument: Reid, reviewing it for *Sound on Sound*, called it "the best emulation of the Hammond C3 I've yet heard," praising in particular its emulation of key-click "spit" and the subtle touch-sensitivity of the vintage key contacts — the exact details previous emulators got wrong.[2] Its limits (no Leslie output, no spring reverb, bitimbral-only) also mapped out what the next generation had to fix. Hammond-Suzuki answered with the [XK-3](/entities/instruments/hammond-xk-3.md) (2004) and the flagship "New B-3" (2003, VASE III engine).[1]
 
 ## Wave 3: touch, not sound (2002–2016)
 
-By the mid-2000s the *sound* was effectively solved; reviewers comparing Hammond-Suzuki's VASE III organs directly against a vintage A-100/Leslie 122RV found the emulation "remarkably faithful." What separated clones from the real thing was keyboard feel — the multi-busbar contact behavior behind glissandos, palm slides and partially-pressed notes. The [[hammond-xk-5|XK-5]] (2016) closed that gap with an in-house keybed and a three-contact system emulating nine staggered busbar contacts, plus per-tonewheel customization (leakage, filtering) down to sampling specific serial-numbered vintage organs. The reviewer's verdict: it became "arguably the best clonewheel money can buy."^[raw/articles/sos-hammond-xk-5-2018.md]
+By the mid-2000s the *sound* was effectively solved; reviewers comparing Hammond-Suzuki's VASE III organs directly against a vintage A-100/Leslie 122RV found the emulation "remarkably faithful." What separated clones from the real thing was keyboard feel — the multi-busbar contact behavior behind glissandos, palm slides and partially-pressed notes. The [XK-5](/entities/instruments/hammond-xk-5.md) (2016) closed that gap with an in-house keybed and a three-contact system emulating nine staggered busbar contacts, plus per-tonewheel customization (leakage, filtering) down to sampling specific serial-numbered vintage organs. The reviewer's verdict: it became "arguably the best clonewheel money can buy."[1]
 
 ## What drove it
 
-1. **Logistics**: 140 kg consoles, no production since 1974, and instruments "too precious, delicate, and valuable" to gig.^[raw/articles/sos-hammond-xk-5-2018.md]
-2. **The effects chain mattered as much as the organ**: every credible clone had to model the Leslie, the vibrato/chorus scanner, tube preamp distortion and spring reverb, not just the drawbars — which is why [[leslie-speaker|Leslie]] emulation is the benchmark in every review.^[raw/articles/sos-korg-cx3-2001.md]
-3. **Manufacturer pressure from both sides**: Suzuki owned the Hammond and Leslie brands and moved them digital, while Korg, Roland and Clavia competed from outside.^[raw/articles/wikipedia-clonewheel-organ.md]
+1. **Logistics**: 140 kg consoles, no production since 1974, and instruments "too precious, delicate, and valuable" to gig.[1]
+2. **The effects chain mattered as much as the organ**: every credible clone had to model the Leslie, the vibrato/chorus scanner, tube preamp distortion and spring reverb, not just the drawbars — which is why [Leslie](/entities/instruments/leslie-speaker.md) emulation is the benchmark in every review.[2]
+3. **Manufacturer pressure from both sides**: Suzuki owned the Hammond and Leslie brands and moved them digital, while Korg, Roland and Clavia competed from outside.[4]
 
 ## What was NOT lost
 
-Firmware evolution shows the transition remains alive: the XK-5 launched as a purist console-Hammond-only instrument in 2016, and only added Vox/Farfisa/pipe voices with firmware 3.0 in April 2018 — evidence that the multi-voice "Swiss-army" stage keyboard (the SK series) and the purist single-purpose clone are now distinct product philosophies rather than a quality gap.^[raw/articles/sos-hammond-xk-5-2018.md]
+Firmware evolution shows the transition remains alive: the XK-5 launched as a purist console-Hammond-only instrument in 2016, and only added Vox/Farfisa/pipe voices with firmware 3.0 in April 2018 — evidence that the multi-voice "Swiss-army" stage keyboard (the SK series) and the purist single-purpose clone are now distinct product philosophies rather than a quality gap.[1]
 
 ## Related
-- [[clonewheel-organ]] — the instrument category
-- [[korg-cx-3]] — wave 1 and wave 2 landmark
-- [[hammond-xk-3]] / [[hammond-xk-5]] — Hammond-Suzuki's answers
-- [[comparisons/b3-vs-clonewheels]] — the point-by-point comparison
-- [[hammond-organ-company]] — the collapse that started the transition
+- [Clonewheel Organ](/concepts/clonewheel-organ.md) — the instrument category
+- [Korg CX-3](/entities/instruments/korg-cx-3.md) — wave 1 and wave 2 landmark
+- [Hammond-Suzuki XK-3](/entities/instruments/hammond-xk-3.md) / [Hammond XK-5](/entities/instruments/hammond-xk-5.md) — Hammond-Suzuki's answers
+- [B-3 vs Clonewheels](/comparisons/b3-vs-clonewheels.md) — the point-by-point comparison
+- [Hammond Organ Company](/entities/manufacturers/hammond-organ-company.md) — the collapse that started the transition
+
+# Citations
+
+[1] [Hammond XK-5](/raw/articles/sos-hammond-xk-5-2018.md)
+[2] [Korg CX3](/raw/articles/sos-korg-cx3-2001.md)
+[3] [Hammond organ](/raw/articles/wikipedia-hammond-organ.md)
+[4] [wikipedia-clonewheel-organ](/raw/articles/wikipedia-clonewheel-organ.md)

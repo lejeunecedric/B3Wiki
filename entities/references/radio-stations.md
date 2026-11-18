@@ -1,10 +1,17 @@
 ---
+type: Reference
 title: Jazz & Organ Radio Stations
+description: WBGO, WKCR, KCSM, TSF Jazz, Jazz24 — sessions and organ-trio programming.
+tags:
+- source
+- music
+- history
+timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 created: 2026-10-20
 updated: 2026-10-20
-type: entity
-tags: [source, music, history]
-sources: []
 ---
 
 # Jazz & Organ Radio Stations
@@ -26,8 +33,8 @@ for artist sessions, new releases and the soul-jazz canon.
 
 ## Use in this wiki
 
-Station sessions and interviews support player pages such as [[joey-defrancesco]] and
-[[barbara-dennerlein]], and document the spread of the [[hammond-b3]] trio format.
+Station sessions and interviews support player pages such as [Joey DeFrancesco](/entities/players/joey-defrancesco.md) and
+[Barbara Dennerlein](/entities/players/barbara-dennerlein.md), and document the spread of the [Hammond B-3](/entities/instruments/hammond-b3.md) trio format.
 Ingest program pages or transcripts verbatim into `raw/articles/` per SCHEMA.
 
 ## External links

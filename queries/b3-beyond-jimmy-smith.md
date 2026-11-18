@@ -1,39 +1,72 @@
 ---
+type: Query
 title: Who carried the B-3 beyond Jimmy Smith?
+description: 'Four channels of spread: soul-jazz legion, British rock, revival labels, gospel/modern trio mainstream.'
+tags:
+- query
+- music
+- history
+- modern
+timestamp: '2026-11-16T00:00:00Z'
+sources:
+- resource: /raw/articles/npr-blogsupreme-hammond-b3.md
+  id: npr-blogsupreme-hammond-b3
+  last_modified: '2026-10-20T00:00:00Z'
+- resource: /raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md
+  id: vinyldiscovery-organ-jazz-soul-jazz
+  last_modified: '2026-10-20T00:00:00Z'
+- resource: /raw/forums/organissimo-bft66-hammond-b3.md
+  id: organissimo-bft66-hammond-b3
+- resource: /raw/articles/wikipedia-jon-lord.md
+  id: wikipedia-jon-lord
+  last_modified: '2026-10-20T00:00:00Z'
+- resource: /raw/articles/wikipedia-hammondbeat.md
+  id: wikipedia-hammondbeat
+  last_modified: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 created: 2026-10-20
 updated: 2026-11-16
-type: query
-tags: [query, music, history, modern]
-sources: [raw/articles/npr-blogsupreme-hammond-b3.md, raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md, raw/forums/organissimo-bft66-hammond-b3.md, raw/articles/wikipedia-jon-lord.md, raw/articles/wikipedia-hammondbeat.md]
 confidence: medium
 ---
 
 # Query: Who carried the B-3 beyond Jimmy Smith — and where did it go?
 
-> **Question filed:** After [[jimmy-smith|Jimmy Smith]] defined the modern B-3 style, who took the [[hammond-b3|Hammond B-3]] into new genres, and what does the instrument's map look like today?
+> **Question filed:** After [Jimmy Smith](/entities/players/jimmy-smith.md) defined the modern B-3 style, who took the [Hammond B-3](/entities/instruments/hammond-b3.md) into new genres, and what does the instrument's map look like today?
 
 ## Answer
 
-**1. The soul-jazz legion (jazz's mainstream, 1960s–70s).** Smith's impact was compared to Charlie Christian on guitar or Charlie Parker on sax: a legion of younger players — Charles Earland, Richard "Groove" Holmes, Jack McDuff, Don Patterson, "Big" John Patton, Sonny Phillips, Freddie Roach, Shirley Scott, Johnny "Hammond" Smith, Lonnie Smith, Reuben Wilson, [[larry-young|Larry Young]], [[jimmy-mcgriff|Jimmy McGriff]] — created a golden age of soul jazz, hard bop seasoned with blues, gospel and R&B.^[raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md]^[raw/articles/wikipedia-dr-lonnie-smith.md] Collector and forum discussion (organissimo BFT-66 blindfold test, see raw/forums/organissimo-bft66-hammond-b3.md) stresses the deep bench beyond the famous names — e.g. Charles Kynard's Pacific Jazz dates, and modern organ-trio players like Craig Kastelnik deliberately avoiding soul-jazz clichés.^[raw/forums/organissimo-bft66-hammond-b3.md]
+**1. The soul-jazz legion (jazz's mainstream, 1960s–70s).** Smith's impact was compared to Charlie Christian on guitar or Charlie Parker on sax: a legion of younger players — Charles Earland, Richard "Groove" Holmes, Jack McDuff, Don Patterson, "Big" John Patton, Sonny Phillips, Freddie Roach, Shirley Scott, Johnny "Hammond" Smith, Lonnie Smith, Reuben Wilson, [Larry Young](/entities/players/larry-young.md), [Jimmy McGriff](/entities/players/jimmy-mcgriff.md) — created a golden age of soul jazz, hard bop seasoned with blues, gospel and R&B.[1][2] Collector and forum discussion (organissimo BFT-66 blindfold test, see raw/forums/organissimo-bft66-hammond-b3.md) stresses the deep bench beyond the famous names — e.g. Charles Kynard's Pacific Jazz dates, and modern organ-trio players like Craig Kastelnik deliberately avoiding soul-jazz clichés.[3]
 
-**2. Rock (British wing, late 1960s).** [[jon-lord|Jon Lord]] absorbed the same American R&B-organ records (Wild Bill Davis, Smith, McGriff's "All About My Girl", McDuff's "Rock Candy") through the B-3/C-3 + [[leslie-speaker|Leslie]] rig and pushed it into hard rock and proto-heavy-metal with Deep Purple, while fusing it with his classical training.^[raw/articles/wikipedia-jon-lord.md] [[brian-auger|Brian Auger]] took the same instrument into jazz-rock, soul-rock and fusion.^[raw/articles/wikipedia-brian-auger.md]
+**2. Rock (British wing, late 1960s).** [Jon Lord](/entities/players/jon-lord.md) absorbed the same American R&B-organ records (Wild Bill Davis, Smith, McGriff's "All About My Girl", McDuff's "Rock Candy") through the B-3/C-3 + [Leslie](/entities/instruments/leslie-speaker.md) rig and pushed it into hard rock and proto-heavy-metal with Deep Purple, while fusing it with his classical training.[4] [Brian Auger](/entities/players/brian-auger.md) took the same instrument into jazz-rock, soul-rock and fusion.[5]
 
-**3. The revival infrastructure (1990s–2000s).** The acid-jazz scene that treats Smith as its "father" produced dedicated institutions like [[hammondbeat|Hammondbeat Records]] (2002), a label organized not by genre but by the organ sound itself, spanning dozens of next-generation organ bands — [[james-taylor-quartet|the James Taylor Quartet]] (whose fan site became the label), Italy's [[link-quartet|Link Quartet]] with [[paolo-negri|Paolo 'Apollo' Negri]], and roster acts across Europe (see the label page's roster section).^[raw/articles/wikipedia-hammondbeat.md] In France, the same lineage runs through [[eddy-louiss|Eddy Louiss]] (1941–2015), the country's beloved jazz organist.
+**3. The revival infrastructure (1990s–2000s).** The acid-jazz scene that treats Smith as its "father" produced dedicated institutions like [Hammondbeat Records](/entities/labels/hammondbeat.md) (2002), a label organized not by genre but by the organ sound itself, spanning dozens of next-generation organ bands — [the James Taylor Quartet](/entities/bands/james-taylor-quartet.md) (whose fan site became the label), Italy's [Link Quartet](/entities/bands/link-quartet.md) with [Paolo 'Apollo' Negri](/entities/players/paolo-negri.md), and roster acts across Europe (see the label page's roster section).[6] In France, the same lineage runs through [Eddy Louiss](/entities/players/eddy-louiss.md) (1941–2015), the country's beloved jazz organist.
 
-**4. Today's working tradition (gospel + modern jazz trio).** Organist Larry Goldings, touring the standard organ-trio format (Peter Bernstein/Bill Stewart), frames the current landscape: B-3 playing remains rooted in gospel (he recommends listening to gospel organ above almost anything), drawbars function "like the first synthesizer," and the 888000000-plus-[[harmonic-percussion|percussion]] formula is still the reference sound. He also notes the practical limits — the instrument weighs ~425 lbs and is usually rented via the venue rider — which is exactly the gap clonewheel instruments and retro labels now fill.^[raw/articles/npr-blogsupreme-hammond-b3.md]
+**4. Today's working tradition (gospel + modern jazz trio).** Organist Larry Goldings, touring the standard organ-trio format (Peter Bernstein/Bill Stewart), frames the current landscape: B-3 playing remains rooted in gospel (he recommends listening to gospel organ above almost anything), drawbars function "like the first synthesizer," and the 888000000-plus-[percussion](/concepts/harmonic-percussion.md) formula is still the reference sound. He also notes the practical limits — the instrument weighs ~425 lbs and is usually rented via the venue rider — which is exactly the gap clonewheel instruments and retro labels now fill.[7]
 
 ## Synthesis
 The B-3's spread beyond Smith ran along four channels, all traceable to his template: (a) within jazz, as soul-jazz organ trios; (b) across the Atlantic into rock (Lord, Auger); (c) into a self-conscious revival scene with its own labels (Hammondbeat); and (d) into gospel and the modern trio mainstream that NPR documents. Every channel keeps the same core recipe: drawbars, percussion, Leslie.
 
 ## Open threads
-- [[dr-lonnie-smith]] has now had a dedicated source pass (2026-11-02: NPR obituary, legacy section). [[charles-earland]] has a page (2026-10-26).
-- Wiki pages referenced but not yet created: none outstanding — Jack McDuff ([[jack-mcduff]]), [[wild-bill-davis]] and [[joey-defrancesco|Joey DeFrancesco]] all exist.
-- The acid-jazz/revival wave (channel 3) is now covered: [[james-taylor-quartet]], [[link-quartet]], [[paolo-negri]], [[men-from-spectre]], [[leslie-overdrive]] — see the [[hammondbeat]] roster section for acts still page-less (Phat Fred, Sven Hammond Soul, The Dansettes…).
-- The gospel lineage now has its own query page: [[hammond-gospel-lineage]] (2026-11-02). The clonewheel transition now has its own query page too: [[clonewheel-transition]] (2026-11-09).
+- [Dr. Lonnie Smith](/entities/players/dr-lonnie-smith.md) has now had a dedicated source pass (2026-11-02: NPR obituary, legacy section). [Charles Earland](/entities/players/charles-earland.md) has a page (2026-10-26).
+- Wiki pages referenced but not yet created: none outstanding — Jack McDuff (["Brother" Jack McDuff](/entities/players/jack-mcduff.md)), [Wild Bill Davis](/entities/players/wild-bill-davis.md) and [Joey DeFrancesco](/entities/players/joey-defrancesco.md) all exist.
+- The acid-jazz/revival wave (channel 3) is now covered: [James Taylor Quartet](/entities/bands/james-taylor-quartet.md), [The Link Quartet](/entities/bands/link-quartet.md), [Paolo 'Apollo' Negri](/entities/players/paolo-negri.md), [The Men From S.P.E.C.T.R.E.](/entities/bands/men-from-spectre.md), [Leslie Overdrive](/entities/bands/leslie-overdrive.md) — see the [Hammondbeat Records](/entities/labels/hammondbeat.md) roster section for acts still page-less (Phat Fred, Sven Hammond Soul, The Dansettes…).
+- The gospel lineage now has its own query page: [The Gospel Lineage of the Hammond Organ](/queries/hammond-gospel-lineage.md) (2026-11-02). The clonewheel transition now has its own query page too: [How did clonewheels take over from the tonewheel Hammond?](/queries/clonewheel-transition.md) (2026-11-09).
 
-- [[larry-young]] has a page (2026-11-16: Wikipedia + AllMusic pass) — the modal/fusion counter-branch of the soul-jazz legion.
+- [Larry Young](/entities/players/larry-young.md) has a page (2026-11-16: Wikipedia + AllMusic pass) — the modal/fusion counter-branch of the soul-jazz legion.
 
 ## Related
-- [[jimmy-smith]] — the starting point of every channel above
-- [[hammond-b3]] — the instrument at the center
-- [[hammondbeat]] — revival-era label case study
+- [Jimmy Smith](/entities/players/jimmy-smith.md) — the starting point of every channel above
+- [Hammond B-3](/entities/instruments/hammond-b3.md) — the instrument at the center
+- [Hammondbeat Records](/entities/labels/hammondbeat.md) — revival-era label case study
+
+# Citations
+
+[1] [[vinyldiscovery](https://vinyldiscovery.blogspot.com/)](/raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md)
+[2] [wikipedia-dr-lonnie-smith](/raw/articles/wikipedia-dr-lonnie-smith.md)
+[3] [organissimo-bft66-hammond-b3](/raw/forums/organissimo-bft66-hammond-b3.md)
+[4] [wikipedia-jon-lord](/raw/articles/wikipedia-jon-lord.md)
+[5] [wikipedia-brian-auger](/raw/articles/wikipedia-brian-auger.md)
+[6] [Hammondbeat](/raw/articles/wikipedia-hammondbeat.md)
+[7] [Soul From A Console: Jazz On The Hammond B-3 Organ](/raw/articles/npr-blogsupreme-hammond-b3.md)

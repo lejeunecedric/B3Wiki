@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Back at the Chicken Shack
+resource: https://en.wikipedia.org/wiki/Back_at_the_Chicken_Shack
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Back_at_the_Chicken_Shack
 ingested: 2026-10-20
 sha256: 6b8ec9de18ade82b479073a04b85f2721d6f1db4ba223f33f43c898bd48d901d

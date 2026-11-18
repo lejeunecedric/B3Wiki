@@ -1,4 +1,8 @@
 ---
+type: Source
+title: doctormix-rarest-hammond
+resource: https://doctormix.com/blog/the-rarest-hammond-on-earth
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://doctormix.com/blog/the-rarest-hammond-on-earth
 ingested: 2026-10-20
 sha256: a3e7e26566ec8f79d3eaa94af04d21795fbbb9efbf5145a7b77db65df0a9a2f4

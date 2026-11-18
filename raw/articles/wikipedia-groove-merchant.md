@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Groove Merchant
+resource: https://en.wikipedia.org/wiki/Groove_Merchant
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Groove_Merchant
 ingested: 2026-10-20
 sha256: 2c199588148f4f2a770275c164d2648538ba246e3e8889d2d4aac9fd824c4528

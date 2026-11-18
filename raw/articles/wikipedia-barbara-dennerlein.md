@@ -1,4 +1,8 @@
 ---
+type: Source
+title: wikipedia-barbara-dennerlein
+resource: https://en.wikipedia.org/wiki/Barbara_Dennerlein
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Barbara_Dennerlein
 ingested: 2026-10-20
 sha256: 99998ed8bd9b300d6869f0efd36dd0b96c3fea011ab778f719af1ef98164506b

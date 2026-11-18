@@ -1,3 +1,8 @@
+---
+type: Newsletter
+title: new-releases
+---
+
 Friday is Colemine day. Three records out October 23 from the Loveland, Ohio
 label, and this column takes its Hammond where it can find it.
 

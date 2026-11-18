@@ -1,4 +1,8 @@
 ---
+type: Source
+title: wikipedia-jimmy-mcgriff
+resource: https://en.wikipedia.org/wiki/Jimmy_McGriff
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Jimmy_McGriff
 ingested: 2026-10-20
 sha256: 9a6081fa223074f58f5b97b6e7ba5f51d7be50999bfa6f9a3911c9d46b55dcf4

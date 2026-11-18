@@ -1,4 +1,8 @@
 ---
+type: Source
+title: '[Rockasteria](http://rockasteria.blogspot.com/)'
+resource: http://rockasteria.blogspot.com/2013/08/mother-earth-living-with-animals-1968.html
+timestamp: '2026-10-20T00:00:00Z'
 source_url: http://rockasteria.blogspot.com/2013/08/mother-earth-living-with-animals-1968.html
 ingested: 2026-10-20
 sha256: 91e96e4fb311dbba62f21776e368c0412236d521c29fc1b7ef8f08a87cc97ef7

@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Brain Salad Surgery
+resource: https://en.wikipedia.org/wiki/Brain_Salad_Surgery
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Brain_Salad_Surgery
 ingested: 2026-10-20
 sha256: 35f118da0e6962cb328604bc2d870eb973e12cf962ad8b4443be52e00522847e

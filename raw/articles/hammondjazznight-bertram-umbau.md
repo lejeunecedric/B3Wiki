@@ -1,4 +1,8 @@
 ---
+type: Source
+title: hammondjazznight-bertram-umbau
+resource: http://www.hammondjazznight.de/styled-3/index.html
+timestamp: '2026-10-20T00:00:00Z'
 source_url: http://www.hammondjazznight.de/styled-3/index.html
 ingested: 2026-10-20
 sha256: 707f59c4d153d715fdf9daf68691174d62a93f708de42f5849c98abd5eec89d4

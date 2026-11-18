@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Verve Records
+resource: https://en.wikipedia.org/wiki/Verve_Records
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Verve_Records
 ingested: 2026-10-20
 sha256: 2194f4cafa159fe86bdac2ced5ce0734feaa7f0ae0fc29fdaf475ad70fb4fb28

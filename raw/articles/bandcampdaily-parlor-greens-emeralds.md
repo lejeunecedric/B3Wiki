@@ -1,4 +1,8 @@
 ---
+type: Source
+title: bandcampdaily-parlor-greens-emeralds
+resource: https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://daily.bandcamp.com/album-of-the-day/parlor-greens-emeralds-review
 ingested: 2026-10-20
 sha256: 5641a7739b59a70ed6790903de4d5ead344a7be06adff5565867a717bf092ec9

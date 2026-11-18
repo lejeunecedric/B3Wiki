@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Abraxas (album)
+resource: https://en.wikipedia.org/wiki/Abraxas_(album)
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Abraxas_(album)
 ingested: 2026-10-20
 sha256: 356edd68c5a069a86ad89d2e06053aa3db3f71ecae46cce1cc6022cf482f5b4a

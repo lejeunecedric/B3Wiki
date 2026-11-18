@@ -1,3 +1,8 @@
+---
+type: Agent Guide
+title: AGENTS.md — instructions for AI agents working on B3Wiki
+---
+
 # AGENTS.md — instructions for AI agents working on B3Wiki
 
 You are picking up maintenance of **B3Wiki**, an English-language llm-wiki about the

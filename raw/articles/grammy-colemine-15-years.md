@@ -1,4 +1,8 @@
 ---
+type: Source
+title: grammy-colemine-15-years
+resource: https://grammy.com/news/colemine-records-essentials-15-year-anniversary-durand-jones-and-the-indications-monophonics-delvon-lamarr-organ-trio
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://grammy.com/news/colemine-records-essentials-15-year-anniversary-durand-jones-and-the-indications-monophonics-delvon-lamarr-organ-trio
 ingested: 2026-10-20
 sha256: 2a1ee6b7ee86437ef9abcbf64aa68d12ffe8912b6e485c112eae6379534b2da2

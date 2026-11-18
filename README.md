@@ -1,3 +1,8 @@
+---
+type: Readme
+title: B3Wiki
+---
+
 <p align="center"><img src="assets/b3-museum.jpg" alt="A Hammond B-3 console, Museum of Making Music" width="720"></p>
 
 # B3Wiki

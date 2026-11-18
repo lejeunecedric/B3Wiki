@@ -1,4 +1,8 @@
 ---
+type: Source
+title: wikipedia-jimmy-smith
+resource: https://en.wikipedia.org/wiki/Jimmy_Smith_(musician)
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Jimmy_Smith_(musician)
 ingested: 2026-10-20
 sha256: 51a22385a6b1174839513a978992f644f51d1e92f973f03066d12dbf62537d0a

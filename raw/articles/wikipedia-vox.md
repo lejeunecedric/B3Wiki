@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Vox (company)
+resource: https://en.wikipedia.org/wiki/Vox_%28company%29
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Vox_%28company%29
 ingested: 2026-10-20
 sha256: 857cde2b97d1923dc7fbe42ee1a7c22d4f2d0bc250afd75c49a41815fb83b0bb

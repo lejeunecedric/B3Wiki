@@ -1,10 +1,30 @@
 ---
+type: Player
 title: Keith Emerson
+description: The Nice/ELP keyboardist (1944–2016) who made the abused Hammond a rock lead instrument; born of Jack McDuff's "Rock Candy".
+tags:
+- person
+- music
+- history
+timestamp: '2026-10-26T00:00:00Z'
+sources:
+- resource: /raw/articles/wikipedia-keith-emerson.md
+  id: wikipedia-keith-emerson
+  last_modified: '2026-10-20T00:00:00Z'
+- resource: /raw/articles/doctormix-rarest-hammond.md
+  id: doctormix-rarest-hammond
+  last_modified: '2026-10-20T00:00:00Z'
+- resource: /raw/articles/hammondorganco-hammond-story.md
+  id: hammondorganco-hammond-story
+  last_modified: '2026-10-20T00:00:00Z'
+- resource: /raw/articles/musicradar-emerson-rig.md
+  id: musicradar-emerson-rig
+  last_modified: '2026-10-26T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 created: 2026-10-20
 updated: 2026-10-26
-type: entity
-tags: [person, music, history]
-sources: [raw/articles/wikipedia-keith-emerson.md, raw/articles/doctormix-rarest-hammond.md, raw/articles/hammondorganco-hammond-story.md, raw/articles/musicradar-emerson-rig.md]
 confidence: high
 born: 1944-11-02
 died: 2016-03-11
@@ -12,25 +32,31 @@ died: 2016-03-11
 
 # Keith Emerson (1944–2016)
 
-**Keith Noel Emerson** (2 November 1944, Todmorden, Yorkshire – 11 March 2016, Santa Monica, California), English keyboardist and composer, co-founder of The Nice and of [[albums/brain-salad-surgery|Emerson, Lake & Palmer]] (ELP). One of the first rock keyboardists to treat the [[hammond-b3|Hammond organ]] as a full lead instrument — flipped, abused and pyrotechnic — alongside the Moog synthesizer.^[raw/articles/wikipedia-keith-emerson.md]
+**Keith Noel Emerson** (2 November 1944, Todmorden, Yorkshire – 11 March 2016, Santa Monica, California), English keyboardist and composer, co-founder of The Nice and of [Emerson, Lake & Palmer](/entities/albums/brain-salad-surgery.md) (ELP). One of the first rock keyboardists to treat the [Hammond organ](/entities/instruments/hammond-b3.md) as a full lead instrument — flipped, abused and pyrotechnic — alongside the Moog synthesizer.[1]
 
 ## The Hammond story
-- Converted to the organ after hearing jazz organist [[jack-mcduff|Jack McDuff]] perform "Rock Candy"; the Hammond became his instrument of choice from the late 1960s.^[raw/articles/wikipedia-keith-emerson.md]
-- His first Hammond was an **[[hammond-l-100|L-100]]** model, bought at age 15–16 on hire purchase plus a loan from his father — an instrument he famously abused on stage (knives in the keys, feedback, dragging), with the modded "wailing" switch trick and a burned-out survivor now at EMEAPP.^[raw/articles/wikipedia-keith-emerson.md]^[raw/articles/musicradar-emerson-rig.md]
-- In his Hammond playing he partly recreated the sound of jazz-blues organists; the classic [[hammond-b3|Hammond]] + [[leslie-speaker|Leslie]] pairing sat at the center of The Nice's and ELP's sound, with the L-100/C-3 played hard through overdriven amps.^[raw/articles/wikipedia-keith-emerson.md]^[raw/articles/hammondorganco-hammond-story.md]
+- Converted to the organ after hearing jazz organist [Jack McDuff](/entities/players/jack-mcduff.md) perform "Rock Candy"; the Hammond became his instrument of choice from the late 1960s.[1]
+- His first Hammond was an **[L-100](/entities/instruments/hammond-l-100.md)** model, bought at age 15–16 on hire purchase plus a loan from his father — an instrument he famously abused on stage (knives in the keys, feedback, dragging), with the modded "wailing" switch trick and a burned-out survivor now at EMEAPP.[1][2]
+- In his Hammond playing he partly recreated the sound of jazz-blues organists; the classic [Hammond](/entities/instruments/hammond-b3.md) + [Leslie](/entities/instruments/leslie-speaker.md) pairing sat at the center of The Nice's and ELP's sound, with the L-100/C-3 played hard through overdriven amps.[1][3]
 
 ## Career milestones
 - The Nice (1967–1970): R&B/classical hybrid built on the Hammond; "Rondo" and "America" as organ-led showpieces.
-- Emerson, Lake & Palmer (1970–1979, reunions 1991–1998): _Brain Salad Surgery_ (1973) is the landmark [[hammond-b3|Hammond]]-and-Moog record — see [[albums/brain-salad-surgery]].
-- Both Emerson and Greg Lake died in 2016, leaving Carl Palmer as ELP's only surviving member.^[raw/articles/wikipedia-keith-emerson.md]
-- His full Hammond rig (Tarkus C-3, L-100s, twin Leslie 122s) is preserved at EMEAPP; organ tech Al Goff documented the mods.^[raw/articles/musicradar-emerson-rig.md]
+- Emerson, Lake & Palmer (1970–1979, reunions 1991–1998): _Brain Salad Surgery_ (1973) is the landmark [Hammond](/entities/instruments/hammond-b3.md)-and-Moog record — see [Brain Salad Surgery](/entities/albums/brain-salad-surgery.md).
+- Both Emerson and Greg Lake died in 2016, leaving Carl Palmer as ELP's only surviving member.[1]
+- His full Hammond rig (Tarkus C-3, L-100s, twin Leslie 122s) is preserved at EMEAPP; organ tech Al Goff documented the mods.[2]
 
 ## Related
-- [[jack-mcduff]] — the jazz organist who turned him on to the Hammond
-- [[albums/brain-salad-surgery]] — his Hammond/Moog landmark album
-- [[jon-lord]] — British rock peer making the Hammond heavy
+- ["Brother" Jack McDuff](/entities/players/jack-mcduff.md) — the jazz organist who turned him on to the Hammond
+- [Brain Salad Surgery](/entities/albums/brain-salad-surgery.md) — his Hammond/Moog landmark album
+- [Jon Lord](/entities/players/jon-lord.md) — British rock peer making the Hammond heavy
 
 ## External links
 - [Keith Emerson — Wikipedia](https://en.wikipedia.org/wiki/Keith_Emerson)
 - [Emerson, Lake & Palmer — Wikipedia](https://en.wikipedia.org/wiki/Emerson,_Lake_%26_Palmer)
 - [Keith Emerson — AllMusic](https://www.allmusic.com/artist/keith-emerson-mn0000788272)
+
+# Citations
+
+[1] [Keith Emerson](/raw/articles/wikipedia-keith-emerson.md)
+[2] [musicradar-emerson-rig](/raw/articles/musicradar-emerson-rig.md)
+[3] [THE HAMMOND STORY](/raw/articles/hammondorganco-hammond-story.md)

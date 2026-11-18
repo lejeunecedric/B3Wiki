@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Rocky Mount Instruments
+resource: https://en.wikipedia.org/wiki/Rocky_Mount_Instruments
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Rocky_Mount_Instruments
 ingested: 2026-10-20
 sha256: ccf7b0902172e426fe6344ec52ff004f69cc8253c7baad86a797db97aa67fa84

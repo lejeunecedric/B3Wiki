@@ -1,10 +1,17 @@
 ---
+type: Reference
 title: Hammond & Organ Blogs and Communities
+description: organissimo.org, JazzWax, JazzFuel, Vinyldiscovery, Sound On Sound — ingestion sources.
+tags:
+- source
+- music
+- modern
+timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 created: 2026-10-20
 updated: 2026-10-20
-type: entity
-tags: [source, music, modern]
-sources: []
 ---
 
 # Hammond & Organ Blogs and Communities
@@ -29,8 +36,8 @@ organ — from playing technique to collecting. Frequent ingestion targets for
 
 ## Use in this wiki
 
-Forum threads and blog interviews support pages such as [[jimmy-mcgriff]],
-[[dr-lonnie-smith]] and [[korg-cx-3]], and document the [[tonewheel-generator]] technology.
+Forum threads and blog interviews support pages such as [Jimmy McGriff](/entities/players/jimmy-mcgriff.md),
+[Dr. Lonnie Smith](/entities/players/dr-lonnie-smith.md) and [Korg CX-3](/entities/instruments/korg-cx-3.md), and document the [Tonewheel Generator](/concepts/tonewheel-generator.md) technology.
 Ingest verbatim into `raw/articles/` (or `raw/forums/`) with provenance frontmatter.
 
 - **TheatreOrgans.com Hammond FAQ** — the vintage-Hammond community's service-shop directory

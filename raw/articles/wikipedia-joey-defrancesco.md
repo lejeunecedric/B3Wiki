@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Joey DeFrancesco
+resource: https://en.wikipedia.org/wiki/Joey_DeFrancesco
+timestamp: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Joey_DeFrancesco
 ingested: 2026-10-20
 sha256: 8fd6ca0da7da716510ccaf553f211c0c0cbd5a37b920f74b07e3f7c5633210d7

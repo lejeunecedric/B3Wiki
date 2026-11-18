@@ -1,4 +1,13 @@
+---
+type: Schema
+title: B3Wiki Schema
+---
+
 # B3Wiki Schema
+
+> **Format note:** this branch stores the wiki in OKF v0.2 (see
+> [OKF-MAPPING.md](/OKF-MAPPING.md)); the conventions below describe the
+> original llm-wiki house style and are pending an OKF rewrite.
 
 ## Domain
 A knowledge base about the **Hammond organ** — its history, technology (tonewheels, drawbars, vibrato/chorus, percussion), the Leslie speaker ecosystem, key players (Laurens Hammond, Donald Leslie), iconic artists (Jimmy Smith and the jazz organ tradition), and the modern clonewheel era. English-language wiki.

@@ -1,10 +1,16 @@
 ---
+type: Reference
 title: Hammond & Organ Magazines
+description: DownBeat, JazzTimes, Keyboard, Living Blues, Record Collector — interviews and gear features.
+tags:
+- source
+- music
+timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 created: 2026-10-20
 updated: 2026-10-20
-type: entity
-tags: [source, music]
-sources: []
 ---
 
 # Hammond & Organ Magazines
@@ -28,8 +34,8 @@ sources for ingestion into `raw/articles/`.
 
 ## Use in this wiki
 
-Magazine features support player pages such as [[jimmy-smith]] and [[booker-t-jones]],
-instrument pages like [[hammond-b3]] and [[leslie-speaker]], and album pages. Ingest
+Magazine features support player pages such as [Jimmy Smith](/entities/players/jimmy-smith.md) and [Booker T. Jones](/entities/players/booker-t-jones.md),
+instrument pages like [Hammond B-3](/entities/instruments/hammond-b3.md) and [Leslie Speaker](/entities/instruments/leslie-speaker.md), and album pages. Ingest
 articles verbatim into `raw/articles/` per SCHEMA.
 
 ## External links

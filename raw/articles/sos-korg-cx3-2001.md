@@ -1,4 +1,8 @@
 ---
+type: Source
+title: Korg CX3
+resource: https://www.soundonsound.com/reviews/korg-cx3
+timestamp: '2026-11-09T00:00:00Z'
 source_url: https://www.soundonsound.com/reviews/korg-cx3
 ingested: 2026-11-09
 sha256: a56a7c3cec37a84587acc98eea433ce2bc0469c9623a8717152609576137c12d

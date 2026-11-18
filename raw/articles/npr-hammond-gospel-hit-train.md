@@ -1,4 +1,8 @@
 ---
+type: Source
+title: npr-hammond-gospel-hit-train
+resource: https://www.npr.org/2016/01/03/461818544/how-the-hammond-organ-sound-laid-the-tracks-for-gospels-hit-train
+timestamp: '2026-11-02T00:00:00Z'
 source_url: https://www.npr.org/2016/01/03/461818544/how-the-hammond-organ-sound-laid-the-tracks-for-gospels-hit-train
 ingested: 2026-11-02
 sha256: f71a85d016193a72fc61f7c2735b820089065f314f667603642a87be8e478fc7
