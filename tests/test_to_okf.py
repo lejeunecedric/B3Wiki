@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Tests for to_okf.py — llm-wiki → OKF v0.2 mapping (stdlib unittest)."""
 import os
+import re
 import sys
 import tempfile
 import unittest
@@ -126,6 +127,16 @@ class TestLog(unittest.TestCase):
         self.assertIn("* **Ingest**: Wikipedia: Leslie", out)
         self.assertIn("## 2026-10-21", out)
         self.assertNotIn("[2026", out)
+
+    def test_newest_first(self):
+        md = (
+            "## [2026-10-20] create | First\n\n"
+            "## [2026-10-22] ingest | Middle\n\n"
+            "## [2026-10-21] lint | Last written\n"
+        )
+        out = to_okf.reformat_log(md)
+        dates = re.findall(r"^## (\d{4}-\d{2}-\d{2})$", out, re.M)
+        self.assertEqual(dates, ["2026-10-22", "2026-10-21", "2026-10-20"])
 
 
 class TestDescriptions(unittest.TestCase):

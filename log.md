@@ -1,8 +1,64 @@
 # B3Wiki Log
 
-> Chronological record of all wiki actions. Append-only.
+> Reverse-chronological record of all wiki actions (newest first).
 > Format: `## YYYY-MM-DD` headings, most recent first (OKF §7).
 
+
+## 2026-11-16
+
+* **Ingest**: Larry Young (2 new sources)
+  - raw/articles/wikipedia-larry-young.md (sha256 fbadf502d9424663…)
+  - raw/articles/allmusic-larry-young.md (sha256 930e3202a868687a…; Ron Wynn biography section only, extracted from the AllMusic artist page)
+* **Create**: Larry Young
+  - entities/players/larry-young.md — closes the biggest remaining gap in the soul-jazz legion (named in b3-beyond-jimmy-smith since the first pass). Born 1940-10-07 Newark, died 1978-03-30 NYC (Wikipedia + AllMusic agree); Prestige soul-jazz start, Coltrane-influenced Blue Note run (Into Somethin' 1964/65, Unity), Tony Williams Lifetime + Bitches Brew fusion, cause of death noted as unclear. confidence: high for dates/bio spine.
+  - Files updated: queries/b3-beyond-jimmy-smith.md (larry-young wikilink in channel 1 + open-threads note; updated date bumped), index.md (Players +1, count 85 → 86).
+* **Lint**: 0 issues
+  - scripts/lint.py: clean; 86 pages. Pre-existing LANG false-positives only.
+
+## 2026-11-09
+
+* **Ingest**: clonewheel transition (2 new sources)
+  - raw/articles/sos-korg-cx3-2001.md (sha256 a56a7c3cec37a845…; Gordon Reid's Sound on Sound review, Jan 2001)
+  - raw/articles/sos-hammond-xk-5-2018.md (sha256 cbe8649c99946ffd…; Hugh Robjohns' Sound on Sound review, Jan 2018)
+* **Create**: queries/clonewheel-transition.md + Hammond XK-5
+  - queries/clonewheel-transition.md — resolves the last open thread from b3-beyond-jimmy-smith: three-wave transition story (analog clones 1979 → DSP modeling 2001 → touch/key-feel race 2002–2016). confidence: medium (two journalistic reviews + Wikipedia background).
+  - entities/instruments/hammond-xk-5.md — new page (released: 2016, year-only; MTW I engine, bespoke keybed/3-contact system, full drawbars, Heritage system, FW 3.0 April 2018).
+  - entities/instruments/korg-cx-3.md updated: New CX-3 2001 physical-modeling section from the SoS review; source + updated date bumped.
+  - entities/instruments/hammond-xk-3.md updated: XK-3C year flagged (SoS says 2007 vs Wikipedia-derived 2008, ±1 uncertainty noted); successor wikilink; External links section added.
+  - queries/b3-beyond-jimmy-smith.md: clonewheel-transition thread marked done. index.md +2 entries, count 83 → 85.
+* **Lint**: 0 issues
+  - scripts/lint.py: clean; 85 pages. Pre-existing LANG false-positives only (die/le/les/un/la/der inside English prose).
+
+## 2026-11-02
+
+* **Ingest**: gospel lineage + Dr. Lonnie Smith source pass (2 new sources)
+  - raw/articles/npr-hammond-gospel-hit-train.md (sha256 f71a85d016193a72…; NPR Weekend Edition, Anne Ford, Jan 2016 — First Church of Deliverance, Clarence Cobbs 1939, Jerry Welch parts inventory)
+  - raw/articles/nprillinois-dr-lonnie-smith-obituary.md (sha256 ff9ca85bbda455cd…; NPR, Sept 29 2021 — obituary, Blue Note run, A Tribe Called Quest sampling)
+* **Create**: queries/hammond-gospel-lineage.md
+  - Resolves the "gospel lineage warrants its own query page" open thread. Chicago 1939 entry point via radio pastor Clarence Cobbs; church→jazz pipeline (Wild Bill Davis, Jimmy Smith); modern continuation (Cory Henry); retreat + Jerry Welch parts-story. confidence: medium (journalistic sources, no scholarly backup yet).
+  - entities/players/dr-lonnie-smith.md updated: Legacy section (death, hip-hop sampling), obituary source, External links added; updated date bumped. Resolves the "Dr. Lonnie Smith source pass" thread.
+  - queries/b3-beyond-jimmy-smith.md: open threads updated (Lonnie done, gospel done; clonewheel-transition query still open). index.md +1 entry, count 82 → 83.
+  - Note: attempted hammondorganco.com Hall of Fame page for Lonnie Smith — URL 404, skipped.
+
+## 2026-10-26
+
+* **Ingest**: Charles Earland + Emerson's L-100 rig (2 new sources)
+  - raw/articles/wikipedia-charles-earland.md (sha256 63428e013a748775…)
+  - raw/articles/musicradar-emerson-rig.md (sha256 10414112339fa287…; Geary Yelton's MusicRadar/EMEAPP feature with Al Goff interview)
+* **Create**: Charles Earland + Hammond L-100
+  - entities/players/charles-earland.md — resolves the long-standing open thread ("Earland has no page yet"); born 1941-05-24, died 1999-12-11; McGriff combo, Lou Donaldson, Prestige run, "Let The Music Play".
+  - entities/instruments/hammond-l-100.md — resolves the candidate mark from the entity-extraction pass (2nd source found); economy spinet with M-100, no verified launch year in sources so no released: field; Emerson's stunt organ, wailing switch mod, burned Boston survivor at EMEAPP.
+  - Files updated: entities/players/keith-emerson.md (L-100 wikilink + EMEAPP line + source; loaner corrected grandmother→father per sources), entities/players/jimmy-mcgriff.md (Earland wikilink), queries/b3-beyond-jimmy-smith.md (open threads updated: Earland done, McDuff stale note cleared), index.md (2 entries, count 80 → 82).
+
+## 2026-10-21
+
+* **Newsletter**: external new releases
+  - NEW RELEASES = actual records released this week, curated from the reference outlets (Colemine, out Oct 23) into content/newsletters/new-releases.md; script includes it verbatim
+  - Masthead configurable via WIKI_TITLE env
+  - Regenerated 261021 issue
+* **Newsletter**: this week, long ago
+  - Section renamed to "This week, long ago"; now includes album release anniversaries (full dates in frontmatter, current week, last 60 years)
+  - No verified in-window album this week; near-misses noted (Head Hunters 26 Oct 1973, Shaft chart entry 16 Oct 1971, Caravanserai 11 Oct 1972)
 
 ## 2026-10-20
 
@@ -152,59 +208,3 @@
   - NEW RELEASES = records newly found in the references of the week (album pages updated this week), written up from the album pages
   - Removed Back pages section entirely (no wiki housekeeping in an external newsletter)
   - Regenerated 261020 issue
-
-## 2026-10-21
-
-* **Newsletter**: external new releases
-  - NEW RELEASES = actual records released this week, curated from the reference outlets (Colemine, out Oct 23) into content/newsletters/new-releases.md; script includes it verbatim
-  - Masthead configurable via WIKI_TITLE env
-  - Regenerated 261021 issue
-* **Newsletter**: this week, long ago
-  - Section renamed to "This week, long ago"; now includes album release anniversaries (full dates in frontmatter, current week, last 60 years)
-  - No verified in-window album this week; near-misses noted (Head Hunters 26 Oct 1973, Shaft chart entry 16 Oct 1971, Caravanserai 11 Oct 1972)
-
-## 2026-10-26
-
-* **Ingest**: Charles Earland + Emerson's L-100 rig (2 new sources)
-  - raw/articles/wikipedia-charles-earland.md (sha256 63428e013a748775…)
-  - raw/articles/musicradar-emerson-rig.md (sha256 10414112339fa287…; Geary Yelton's MusicRadar/EMEAPP feature with Al Goff interview)
-* **Create**: Charles Earland + Hammond L-100
-  - entities/players/charles-earland.md — resolves the long-standing open thread ("Earland has no page yet"); born 1941-05-24, died 1999-12-11; McGriff combo, Lou Donaldson, Prestige run, "Let The Music Play".
-  - entities/instruments/hammond-l-100.md — resolves the candidate mark from the entity-extraction pass (2nd source found); economy spinet with M-100, no verified launch year in sources so no released: field; Emerson's stunt organ, wailing switch mod, burned Boston survivor at EMEAPP.
-  - Files updated: entities/players/keith-emerson.md (L-100 wikilink + EMEAPP line + source; loaner corrected grandmother→father per sources), entities/players/jimmy-mcgriff.md (Earland wikilink), queries/b3-beyond-jimmy-smith.md (open threads updated: Earland done, McDuff stale note cleared), index.md (2 entries, count 80 → 82).
-
-## 2026-11-02
-
-* **Ingest**: gospel lineage + Dr. Lonnie Smith source pass (2 new sources)
-  - raw/articles/npr-hammond-gospel-hit-train.md (sha256 f71a85d016193a72…; NPR Weekend Edition, Anne Ford, Jan 2016 — First Church of Deliverance, Clarence Cobbs 1939, Jerry Welch parts inventory)
-  - raw/articles/nprillinois-dr-lonnie-smith-obituary.md (sha256 ff9ca85bbda455cd…; NPR, Sept 29 2021 — obituary, Blue Note run, A Tribe Called Quest sampling)
-* **Create**: queries/hammond-gospel-lineage.md
-  - Resolves the "gospel lineage warrants its own query page" open thread. Chicago 1939 entry point via radio pastor Clarence Cobbs; church→jazz pipeline (Wild Bill Davis, Jimmy Smith); modern continuation (Cory Henry); retreat + Jerry Welch parts-story. confidence: medium (journalistic sources, no scholarly backup yet).
-  - entities/players/dr-lonnie-smith.md updated: Legacy section (death, hip-hop sampling), obituary source, External links added; updated date bumped. Resolves the "Dr. Lonnie Smith source pass" thread.
-  - queries/b3-beyond-jimmy-smith.md: open threads updated (Lonnie done, gospel done; clonewheel-transition query still open). index.md +1 entry, count 82 → 83.
-  - Note: attempted hammondorganco.com Hall of Fame page for Lonnie Smith — URL 404, skipped.
-
-## 2026-11-09
-
-* **Ingest**: clonewheel transition (2 new sources)
-  - raw/articles/sos-korg-cx3-2001.md (sha256 a56a7c3cec37a845…; Gordon Reid's Sound on Sound review, Jan 2001)
-  - raw/articles/sos-hammond-xk-5-2018.md (sha256 cbe8649c99946ffd…; Hugh Robjohns' Sound on Sound review, Jan 2018)
-* **Create**: queries/clonewheel-transition.md + Hammond XK-5
-  - queries/clonewheel-transition.md — resolves the last open thread from b3-beyond-jimmy-smith: three-wave transition story (analog clones 1979 → DSP modeling 2001 → touch/key-feel race 2002–2016). confidence: medium (two journalistic reviews + Wikipedia background).
-  - entities/instruments/hammond-xk-5.md — new page (released: 2016, year-only; MTW I engine, bespoke keybed/3-contact system, full drawbars, Heritage system, FW 3.0 April 2018).
-  - entities/instruments/korg-cx-3.md updated: New CX-3 2001 physical-modeling section from the SoS review; source + updated date bumped.
-  - entities/instruments/hammond-xk-3.md updated: XK-3C year flagged (SoS says 2007 vs Wikipedia-derived 2008, ±1 uncertainty noted); successor wikilink; External links section added.
-  - queries/b3-beyond-jimmy-smith.md: clonewheel-transition thread marked done. index.md +2 entries, count 83 → 85.
-* **Lint**: 0 issues
-  - scripts/lint.py: clean; 85 pages. Pre-existing LANG false-positives only (die/le/les/un/la/der inside English prose).
-
-## 2026-11-16
-
-* **Ingest**: Larry Young (2 new sources)
-  - raw/articles/wikipedia-larry-young.md (sha256 fbadf502d9424663…)
-  - raw/articles/allmusic-larry-young.md (sha256 930e3202a868687a…; Ron Wynn biography section only, extracted from the AllMusic artist page)
-* **Create**: Larry Young
-  - entities/players/larry-young.md — closes the biggest remaining gap in the soul-jazz legion (named in b3-beyond-jimmy-smith since the first pass). Born 1940-10-07 Newark, died 1978-03-30 NYC (Wikipedia + AllMusic agree); Prestige soul-jazz start, Coltrane-influenced Blue Note run (Into Somethin' 1964/65, Unity), Tony Williams Lifetime + Bitches Brew fusion, cause of death noted as unclear. confidence: high for dates/bio spine.
-  - Files updated: queries/b3-beyond-jimmy-smith.md (larry-young wikilink in channel 1 + open-threads note; updated date bumped), index.md (Players +1, count 85 → 86).
-* **Lint**: 0 issues
-  - scripts/lint.py: clean; 86 pages. Pre-existing LANG false-positives only.

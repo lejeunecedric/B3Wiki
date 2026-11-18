@@ -290,6 +290,8 @@ def reformat_log(md: str) -> str:
     head = [
         "> Format: `## YYYY-MM-DD` headings, most recent first (OKF §7)."
         if l.startswith("> Format:")
+        else "> Reverse-chronological record of all wiki actions (newest first)."
+        if l.startswith("> Chronological record")
         else l
         for l in head
     ]
@@ -308,7 +310,8 @@ def reformat_log(md: str) -> str:
     for e in entries:
         groups.setdefault(e["date"], []).append(e)
     out = head + [""]
-    for date, es in groups.items():
+    for date in sorted(groups, reverse=True):  # antichronological (OKF §7)
+        es = groups[date]
         out += [f"## {date}", ""]
         for e in es:
             act = e["action"].capitalize()
