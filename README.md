@@ -11,6 +11,17 @@ title: B3Wiki
 
 ---
 
+## 🆕 What's new
+
+* **2026-11-16** — Ingest: Larry Young (2 new sources)
+* **2026-11-09** — Ingest: clonewheel transition (2 new sources)
+* **2026-11-02** — Ingest: gospel lineage + Dr. Lonnie Smith source pass (2 new sources)
+* **2026-10-26** — Ingest: Charles Earland + Emerson's L-100 rig (2 new sources)
+
+Full history: [log.md](/log.md).
+
+---
+
 ## ✨ The magic of the Hammond
 
 In 1935, a clockmaker named **Laurens Hammond** shipped an organ built from **spinning metal wheels and telephone-era electromagnets**. It was meant to be a cheap pipe organ for churches. It ended up rewriting American music.
