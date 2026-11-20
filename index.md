@@ -1,5 +1,8 @@
 ---
-okf_version: '0.2'
+okf_version: '0.3'
+title: B3Wiki
+description: An OKF knowledge bundle about the Hammond organ, born as a Karpathy-style llm-wiki.
+license: CC-BY-SA-4.0
 ---
 
 # B3Wiki Index

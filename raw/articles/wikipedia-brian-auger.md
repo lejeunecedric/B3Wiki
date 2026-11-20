@@ -2,7 +2,9 @@
 type: Source
 title: wikipedia-brian-auger
 resource: https://en.wikipedia.org/wiki/Brian_Auger
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Brian_Auger
 ingested: 2026-10-20
 sha256: 64d37447823c5dea57119e6fc03d1c7a021a096a87994ecad41c06b7d9c64318

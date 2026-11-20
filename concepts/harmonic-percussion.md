@@ -5,7 +5,6 @@ description: B-3's decaying 2nd/3rd-harmonic "click" on the upper manual; the so
 tags:
 - technology
 - music
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-hammond-organ.md
   id: wikipedia-hammond-organ
@@ -28,13 +27,11 @@ The B-3/C-3's 1954 addition, advertised as **"Touch-Response Percussion Control"
 - Important trap: engaging percussion **removes the 1′ drawbar** from the upper manual's normal voice (the two share circuitry).
 
 ## Why it matters
-That "bong"-like attack lets the organ imitate plucked/bowed articulation — [Jimmy Smith](/entities/players/jimmy-smith.md) built his horn-like phrasing on it. Combined with a [Leslie](/entities/instruments/leslie-speaker.md) on tremolo, it is the definitive Hammond jazz voice.[1]
+That "bong"-like attack lets the organ imitate plucked/bowed articulation — [Jimmy Smith](/entities/players/jimmy-smith.md) built his horn-like phrasing on it. Combined with a [Leslie](/entities/instruments/leslie-speaker.md) on tremolo, it is the definitive Hammond jazz voice.[^wikipedia-hammond-organ]
 
 ## Related
 - [Hammond B-3](/entities/instruments/hammond-b3.md) — where it debuted
 - [Drawbars & Additive Synthesis](/concepts/drawbars.md) — interaction with the 1′ drawbar
 - [Vibrato/Chorus Scanner](/concepts/vibrato-chorus.md) — percussion bypasses the scanner (percussion is post-vibrato on the 9th harmonic line)
 
-# Citations
-
-[1] [Hammond organ](/raw/articles/wikipedia-hammond-organ.md)
+[^wikipedia-hammond-organ]: Hammond organ

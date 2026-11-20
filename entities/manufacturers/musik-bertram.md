@@ -6,13 +6,15 @@ tags:
 - company
 - history
 - music
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/theatreorgans-europe-shops.md
   id: theatreorgans-europe-shops
   last_modified: '2026-10-20T00:00:00Z'
 - resource: /raw/articles/hammondjazznight-bertram-umbau.md
   id: hammondjazznight-bertram-umbau
+  last_modified: '2026-10-20T00:00:00Z'
+- resource: /raw/articles/doctormix-rarest-hammond.md
+  id: doctormix-rarest-hammond
   last_modified: '2026-10-20T00:00:00Z'
 generated:
   by: process:b3wiki-agent
@@ -27,7 +29,7 @@ confidence: medium
 German Hammond dealer and chop-shop based in **Freiburg im Breisgau** (postal address
 D-79011 Freiburg, Postfach 1153; tel +49 (761) 27-30-90). Listed on the TheatreOrgans.com
 Hammond FAQ Europe service-shops page (entry last updated Dec 1994) as "Hammond dealer,
-builder of MIDI-Kit for Bass Pedals".[1]
+builder of MIDI-Kit for Bass Pedals".[^theatreorgans-europe-shops]
 
 ## The "Bertram-Umbau" (Bertram conversion)
 
@@ -36,11 +38,11 @@ wooden-console Hammonds (B-3, C-3, RT-3, A-100) into a purpose-built **transport
 With dismountable bass pedals the converted organ weighs roughly **100 kg, versus ~250 kg
 for the original console** — the portability problem that chopping solves. A Hammond RT-3
 (c. 1961) in "Bertram-Umbau", with a two-octave bass pedal and an original 22H Leslie (1953),
-has been heard at the Freiburg-based Hammond Jazz Night event.[2]
+has been heard at the Freiburg-based Hammond Jazz Night event.[^hammondjazznight-bertram-umbau]
 
 Second-hand classified listings (Facebook Hammond groups) document A-100 consoles chopped to
 220 V / 50 Hz by Bertram music — the 220 V/50 Hz adaptation being the European counterpart of
-the American chop tradition.[3]
+the American chop tradition.[^doctormix-rarest-hammond]
 
 ## Relationship to the chop tradition
 
@@ -64,8 +66,6 @@ conversion kept the full instrument but re-cased it for transport — related to
 - http://www.hammondjazznight.de/styled-3/index.html (Bertram-Umbau; site parked at time of writing)
 - https://www.facebook.com/groups/1351369898349726/posts/3141671265986238/ (chopped A-100 listing)
 
-# Citations
-
-[1] [theatreorgans-europe-shops](/raw/articles/theatreorgans-europe-shops.md)
-[2] [hammondjazznight-bertram-umbau](/raw/articles/hammondjazznight-bertram-umbau.md)
-[3] [doctormix-rarest-hammond](/raw/articles/doctormix-rarest-hammond.md)
+[^theatreorgans-europe-shops]: theatreorgans-europe-shops
+[^hammondjazznight-bertram-umbau]: hammondjazznight-bertram-umbau
+[^doctormix-rarest-hammond]: doctormix-rarest-hammond

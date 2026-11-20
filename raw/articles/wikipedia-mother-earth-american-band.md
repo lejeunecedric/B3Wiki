@@ -2,7 +2,9 @@
 type: Source
 title: Mother Earth (American band)
 resource: https://en.wikipedia.org/wiki/Mother_Earth_(American_band)
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Mother_Earth_(American_band)
 ingested: 2026-10-20
 sha256: 2ad08ff95718bf160d963b286a241a6a790978192135a8ccc2c0f78aa59fd375

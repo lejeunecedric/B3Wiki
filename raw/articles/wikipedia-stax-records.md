@@ -2,7 +2,9 @@
 type: Source
 title: Stax Records
 resource: https://en.wikipedia.org/wiki/Stax_Records
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Stax_Records
 ingested: 2026-10-20
 sha256: eb2824827b50f82e35cf1dcc8ab78813aa4f9a8b22d95c7f03f8413b37509da1

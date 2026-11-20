@@ -2,7 +2,9 @@
 type: Source
 title: wikipedia-charles-earland
 resource: https://en.wikipedia.org/wiki/Charles_Earland
-timestamp: '2026-10-26T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-26T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Charles_Earland
 ingested: 2026-10-26
 sha256: 63428e013a7487758869aba6d3667caff0b56b35ff8eba95468080cc09e27807

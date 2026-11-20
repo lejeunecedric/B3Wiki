@@ -6,7 +6,6 @@ tags:
 - person
 - music
 - technology
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-barbara-dennerlein.md
   id: wikipedia-barbara-dennerlein
@@ -24,17 +23,17 @@ confidence: medium
 
 # Barbara Dennerlein (b. 1964)
 
-German jazz organist, born 25 September 1964 in Munich. Critic Ron Wynn called her "the most interesting jazz organist to emerge during the 1980s."[1]
+German jazz organist, born 25 September 1964 in Munich. Critic Ron Wynn called her "the most interesting jazz organist to emerge during the 1980s."[^wikipedia-barbara-dennerlein]
 
 ## Career
-- Started organ at 11 on a small Hohner; took two years of lessons from Paul Greisl, who owned a [Hammond B-3](/entities/instruments/hammond-b3.md) — the pedalboard (missing from the Hohner) was what hooked her. Found her own Hammond at 13; gigging at 14.[1]
-- First TV appearances 1982 earned her the nickname "Organ Tornado from Munich".[1]
-- Founded her own label (Bebab, 1985) and managed herself, partly because Hammond wanted to promote new digital models rather than the B-3 she played. Two German Record Critics' Awards (_Tribute to Charlie_, 1987; _Take Off!_, 1995).[1]
-- Later recordings for Enja and Verve with Ray Anderson, Randy Brecker, Dennis Chambers, Roy Hargrove, Jeff "Tain" Watts.[1]
-- From 1994 also plays the pipe organ; since 2003 develops jazz projects with symphony orchestras, including the Berlin Philharmonic on a Karl Schuke organ.[1]
+- Started organ at 11 on a small Hohner; took two years of lessons from Paul Greisl, who owned a [Hammond B-3](/entities/instruments/hammond-b3.md) — the pedalboard (missing from the Hohner) was what hooked her. Found her own Hammond at 13; gigging at 14.[^wikipedia-barbara-dennerlein]
+- First TV appearances 1982 earned her the nickname "Organ Tornado from Munich".[^wikipedia-barbara-dennerlein]
+- Founded her own label (Bebab, 1985) and managed herself, partly because Hammond wanted to promote new digital models rather than the B-3 she played. Two German Record Critics' Awards (_Tribute to Charlie_, 1987; _Take Off!_, 1995).[^wikipedia-barbara-dennerlein]
+- Later recordings for Enja and Verve with Ray Anderson, Randy Brecker, Dennis Chambers, Roy Hargrove, Jeff "Tain" Watts.[^wikipedia-barbara-dennerlein]
+- From 1994 also plays the pipe organ; since 2003 develops jazz projects with symphony orchestras, including the Berlin Philharmonic on a Karl Schuke organ.[^wikipedia-barbara-dennerlein]
 
 ## Gear-modifier as well as player
-Dennerlein is notable for modifying the instrument itself: she fitted her Hammond's pedalboard to trigger **samples of an acoustic bass**, then extended the same idea to the manuals — MIDI triggers in pedals and manuals driving synthesizers and samplers ([hybrid electro-acoustic rig](/concepts/clonewheel-organ.md) predating the clonewheel wave).[1] Her fast bass-pedal footwork is a signature of both her standards and her own compositions.[1]
+Dennerlein is notable for modifying the instrument itself: she fitted her Hammond's pedalboard to trigger **samples of an acoustic bass**, then extended the same idea to the manuals — MIDI triggers in pedals and manuals driving synthesizers and samplers ([hybrid electro-acoustic rig](/concepts/clonewheel-organ.md) predating the clonewheel wave).[^wikipedia-barbara-dennerlein] Her fast bass-pedal footwork is a signature of both her standards and her own compositions.[^wikipedia-barbara-dennerlein]
 
 ## Related
 - [Hammond B-3](/entities/instruments/hammond-b3.md) — her core instrument
@@ -46,6 +45,4 @@ Dennerlein is notable for modifying the instrument itself: she fitted her Hammon
 - [barbaradennerlein.com](http://barbaradennerlein.com/)
 - [All About Jazz: Barbara Dennerlein](https://www.allaboutjazz.com/musicians/barbara-dennerlein)
 
-# Citations
-
-[1] [wikipedia-barbara-dennerlein](/raw/articles/wikipedia-barbara-dennerlein.md)
+[^wikipedia-barbara-dennerlein]: wikipedia-barbara-dennerlein

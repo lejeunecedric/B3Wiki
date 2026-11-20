@@ -6,7 +6,6 @@ tags:
 - instrument
 - music
 - history
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-hammond-organ.md
   id: wikipedia-hammond-organ
@@ -34,9 +33,9 @@ The most popular Hammond organ ever, in continuous production from 1954 to early
 - Nearly always paired with a [Leslie 122](/entities/instruments/leslie-speaker.md).
 
 ## Cultural weight
-The B-3 became the centerpiece of the **organ trio** (organ, drums, guitar or sax) — cheaper for jazz clubs than a big band. [Jimmy Smith](/entities/players/jimmy-smith.md)'s playing (the classic "888000000" drawbar setting) inspired a generation, and the instrument spread through R&B, rock (esp. prog rock), gospel, and reggae in the 1960s–70s.[1]
+The B-3 became the centerpiece of the **organ trio** (organ, drums, guitar or sax) — cheaper for jazz clubs than a big band. [Jimmy Smith](/entities/players/jimmy-smith.md)'s playing (the classic "888000000" drawbar setting) inspired a generation, and the instrument spread through R&B, rock (esp. prog rock), gospel, and reggae in the 1960s–70s.[^wikipedia-hammond-organ]
 
-The last units were assembled from leftover parts and are considered inferior to earlier builds.[1]
+The last units were assembled from leftover parts and are considered inferior to earlier builds.[^wikipedia-hammond-organ]
 
 ## Related
 - [Hammond Organ Company](/entities/manufacturers/hammond-organ-company.md) — maker
@@ -45,6 +44,4 @@ The last units were assembled from leftover parts and are considered inferior to
 - See also: [B-3 vs C-3](/comparisons/b3-vs-c3.md) — same organ in different furniture
 - See also: [B-3 vs A-100](/comparisons/b3-vs-a100.md) — same organ with built-in amp/speakers
 
-# Citations
-
-[1] [Hammond organ](/raw/articles/wikipedia-hammond-organ.md)
+[^wikipedia-hammond-organ]: Hammond organ

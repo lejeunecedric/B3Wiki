@@ -2,7 +2,9 @@
 type: Source
 title: ziprecords-nl-about
 resource: http://ziprecords.nl/new-page
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: http://ziprecords.nl/new-page
 ingested: 2026-10-20
 sha256: 2459162dd571086b200697df946c8bb7caeafeb3ee0636e7f03610cbb5bf300c

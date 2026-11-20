@@ -2,7 +2,9 @@
 type: Source
 title: sfjazz-cory-henry-funk-apostles
 resource: https://athome.sfjazz.org/videos/cory-henry-the-funk-apostles-brings-the-groove-with-just-got-paid
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://athome.sfjazz.org/videos/cory-henry-the-funk-apostles-brings-the-groove-with-just-got-paid
 ingested: 2026-10-20
 sha256: c3c1b6830ad7792a5e36c195e3576d61cef6d478e8e05c1b655be5655e995e2a

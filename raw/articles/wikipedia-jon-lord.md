@@ -2,7 +2,9 @@
 type: Source
 title: wikipedia-jon-lord
 resource: https://en.wikipedia.org/wiki/Jon_Lord
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Jon_Lord
 ingested: 2026-10-20
 sha256: 383eb34f6a46e0734072d35072c7038bff08024240080d6b157197ef68a4792f

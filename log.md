@@ -1,8 +1,14 @@
 # B3Wiki Log
 
 > Reverse-chronological record of all wiki actions (newest first).
-> Format: `## YYYY-MM-DD` headings, most recent first (OKF §7).
+> Format: `## YYYY-MM-DD` headings, most recent first (OKF §9).
 
+
+## 2026-11-20
+
+* **Update**: OKF v0.3 conformance pass (full bundle re-conversion)
+  - `scripts/to_okf.py` + `scripts/okflint.py` upgraded to spec v0.3: `^[raw/…]` markers now emit `[^id]` footnotes keyed to `sources[].id` (§5.1, replacing the v0.1-style numbered `# Citations`); legacy `timestamp` key dropped (`updated` → `generated.at`, §5.2); root `index.md` gains §8.1 bundle metadata (`title`, `description`, `license: CC-BY-SA-4.0`); `okf_version: "0.3"`.
+  - Result: 169 files, 0 errors, 0 warnings. Decision record: OKF-MAPPING.md.
 
 ## 2026-11-16
 

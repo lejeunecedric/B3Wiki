@@ -6,7 +6,6 @@ tags:
 - source
 - music
 - modern
-timestamp: '2026-10-20T00:00:00Z'
 generated:
   by: process:b3wiki-agent
   at: '2026-10-20T00:00:00Z'

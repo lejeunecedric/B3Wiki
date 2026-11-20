@@ -2,7 +2,9 @@
 type: Source
 title: Hammondbeat
 resource: https://en.wikipedia.org/wiki/Hammondbeat
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Hammondbeat
 ingested: 2026-10-20
 sha256: a6a9a8669603952091bf7765f66515f10f7870a0bad544f6f7bdeee2ddbc35c8

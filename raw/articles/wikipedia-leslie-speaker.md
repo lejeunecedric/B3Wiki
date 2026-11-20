@@ -2,7 +2,9 @@
 type: Source
 title: wikipedia-leslie-speaker
 resource: https://en.wikipedia.org/wiki/Leslie_speaker
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Leslie_speaker
 ingested: 2026-10-20
 sha256: 0c0b4be20ea4bcbb010885ee7ba1318fb9e216a859219a38f54a81728997e30b

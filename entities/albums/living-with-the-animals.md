@@ -5,7 +5,6 @@ description: Mother Earth (US) (1968, Mercury); blues-rock organ-in-support behi
 tags:
 - album
 - music
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/rockasteria-mother-earth-living-with-animals.md
   id: rockasteria-mother-earth-living-with-animals
@@ -24,12 +23,12 @@ released: 1968
 
 # Living with the Animals
 
-_Living with the Animals_ (1968, Mercury Records) — the debut album of the American blues-rock band [Mother Earth](/entities/bands/mother-earth.md), fronted by Tracy Nelson. A landmark of the blues-rock **Hammond-in-support** idiom: organ as pads, fills and groove behind a powerful blues voice rather than as a lead instrument.[1]
+_Living with the Animals_ (1968, Mercury Records) — the debut album of the American blues-rock band [Mother Earth](/entities/bands/mother-earth.md), fronted by Tracy Nelson. A landmark of the blues-rock **Hammond-in-support** idiom: organ as pads, fills and groove behind a powerful blues voice rather than as a lead instrument.[^wikipedia-mother-earth-american-band]
 
 ## The organ role
-- Often remembered as Nelson's vehicle, but a true group effort: tight R&B-derived playing, Mike Bloomfield's guest guitar, and sardonic Powell St. John songs ("Living with the Animals", "Marvel Set").[2]
-- Keyboard chair: **[Mark Naftalin](/entities/people/mark-naftalin.md)** (ex-Paul Butterfield Blues Band) on piano, organ and keyboards, with session organ by Barry Goldberg — in the church-and-Chicago supporting tradition.[2]
-- Listed in [the landmark Hammond albums query](/queries/hammond-landmark-albums.md) as the blues-rock counterpoint to the lead-organ records of [Jon Lord](/entities/players/jon-lord.md) ([Machine Head](/entities/albums/machine-head.md)) and [Gregg Rolie's Santana work](/entities/albums/abraxas.md).[1]
+- Often remembered as Nelson's vehicle, but a true group effort: tight R&B-derived playing, Mike Bloomfield's guest guitar, and sardonic Powell St. John songs ("Living with the Animals", "Marvel Set").[^rockasteria-mother-earth-living-with-animals]
+- Keyboard chair: **[Mark Naftalin](/entities/people/mark-naftalin.md)** (ex-Paul Butterfield Blues Band) on piano, organ and keyboards, with session organ by Barry Goldberg — in the church-and-Chicago supporting tradition.[^rockasteria-mother-earth-living-with-animals]
+- Listed in [the landmark Hammond albums query](/queries/hammond-landmark-albums.md) as the blues-rock counterpoint to the lead-organ records of [Jon Lord](/entities/players/jon-lord.md) ([Machine Head](/entities/albums/machine-head.md)) and [Gregg Rolie's Santana work](/entities/albums/abraxas.md).[^wikipedia-mother-earth-american-band]
 
 ## Related
 - [Mother Earth (US band)](/entities/bands/mother-earth.md) — the band
@@ -40,7 +39,5 @@ _Living with the Animals_ (1968, Mercury Records) — the debut album of the Ame
 - [Mother Earth (American band) — Wikipedia](https://en.wikipedia.org/wiki/Mother_Earth_(American_band))
 - [Album review — Rockasteria](http://rockasteria.blogspot.com/2013/08/mother-earth-living-with-animals-1968.html)
 
-# Citations
-
-[1] [Mother Earth (American band)](/raw/articles/wikipedia-mother-earth-american-band.md)
-[2] [[Rockasteria](http://rockasteria.blogspot.com/)](/raw/articles/rockasteria-mother-earth-living-with-animals.md)
+[^wikipedia-mother-earth-american-band]: Mother Earth (American band)
+[^rockasteria-mother-earth-living-with-animals]: [Rockasteria](http://rockasteria.blogspot.com/)

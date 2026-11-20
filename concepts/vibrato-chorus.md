@@ -4,7 +4,6 @@ title: Vibrato/Chorus Scanner
 description: Delay-line scanner giving the Hammond its signature shimmer (C-3/V/CV models onward).
 tags:
 - technology
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-hammond-organ.md
   id: wikipedia-hammond-organ
@@ -19,7 +18,7 @@ confidence: medium
 
 # Vibrato/Chorus Scanner
 
-The Hammond's internal modulation effect, developed in the early 1940s and put into production right after WWII (models BV/CV = vibrato only; BCV/DV = vibrato + chorus).[1]
+The Hammond's internal modulation effect, developed in the early 1940s and put into production right after WWII (models BV/CV = vibrato only; BCV/DV = vibrato + chorus).[^wikipedia-hammond-organ]
 
 ## How it works
 A **scanning delay line**: a capacitor bank is scanned electronically in sequence, so the signal passes through a continuously varying delay — a phase-modulation vibrato. The **chorus** setting mixes the delayed (modulated) signal with the dry signal, producing a shimmering doubling effect.
@@ -32,6 +31,4 @@ A **scanning delay line**: a capacitor bank is scanned electronically in sequenc
 - [Hammond B-3](/entities/instruments/hammond-b3.md) — flagship implementation
 - [Tonewheel Generator](/concepts/tonewheel-generator.md) — the signal being scanned
 
-# Citations
-
-[1] [Hammond organ](/raw/articles/wikipedia-hammond-organ.md)
+[^wikipedia-hammond-organ]: Hammond organ

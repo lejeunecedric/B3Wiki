@@ -5,7 +5,6 @@ description: Maker of the 1980 CX-3 / BX-3 analog clonewheels.
 tags:
 - company
 - modern
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-clonewheel-organ.md
   id: wikipedia-clonewheel-organ
@@ -20,17 +19,15 @@ confidence: high
 
 # Korg
 
-Japanese electronic-instrument maker; producer of the [CX-3](/entities/instruments/korg-cx-3.md) (1980), the first major analog clonewheel that approached a real Hammond B-3 sound.[1]
+Japanese electronic-instrument maker; producer of the [CX-3](/entities/instruments/korg-cx-3.md) (1980), the first major analog clonewheel that approached a real Hammond B-3 sound.[^wikipedia-clonewheel-organ]
 
 ## Clonewheel lineage
 - **CX-3 / BX-3** (1980) — analog originals.
-- **New CX-3 / New BX-3** (2000) — re-released in the modeling era.[1]
+- **New CX-3 / New BX-3** (2000) — re-released in the modeling era.[^wikipedia-clonewheel-organ]
 
 ## Related
 - [Korg CX-3](/entities/instruments/korg-cx-3.md) — flagship instrument
 - [Clonewheel Organ](/concepts/clonewheel-organ.md) — the category
 - [Hammond B-3](/entities/instruments/hammond-b3.md) — the original being cloned
 
-# Citations
-
-[1] [wikipedia-clonewheel-organ](/raw/articles/wikipedia-clonewheel-organ.md)
+[^wikipedia-clonewheel-organ]: wikipedia-clonewheel-organ

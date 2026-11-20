@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for to_okf.py — llm-wiki → OKF v0.2 mapping (stdlib unittest)."""
+"""Tests for to_okf.py — llm-wiki → OKF v0.3 mapping (stdlib unittest)."""
 import os
 import re
 import sys
@@ -51,25 +51,52 @@ class TestWikilinks(unittest.TestCase):
         self.assertEqual(out, "see [refunds](/refunds.md)")
 
 
-class TestCitations(unittest.TestCase):
-    def test_markers_numbered_and_deduped(self):
-        body = "A.^[raw/articles/a.md] B.^[raw/articles/b.md] C.^[raw/articles/a.md]"
-        new, order = to_okf.extract_citations(body)
-        self.assertEqual(new, "A.[1] B.[2] C.[1]")
-        self.assertEqual(order, ["raw/articles/a.md", "raw/articles/b.md"])
+class TestSources(unittest.TestCase):
+    """v0.3 §5.1: sources[] with stable ids, footnotes keyed by id."""
 
-    def test_citations_section(self):
-        text = to_okf.citations_section(
-            ["raw/articles/a.md"], {"raw/articles/a.md": "Wikipedia: A"}
+    def setUp(self):
+        self.raw_meta = {
+            "raw/articles/a.md": {"ingested": "2026-10-20", "source_url": "https://x/a"},
+            "raw/articles/b.md": {"ingested": "2026-10-21", "source_url": "https://x/b"},
+        }
+
+    def test_build_sources_dedupes_fm_and_markers(self):
+        entries, id_of = to_okf.build_sources(
+            ["raw/articles/a.md", "https://en.wikipedia.org/wiki/Jimmy_Smith"],
+            ["raw/articles/a.md", "raw/articles/b.md"],
+            self.raw_meta,
         )
-        self.assertIn("# Citations", text)
-        self.assertIn("[1] [Wikipedia: A](/raw/articles/a.md)", text)
+        # frontmatter order first, then body-only markers; a.md not duplicated
+        self.assertEqual([e["resource"] for e in entries],
+                         ["/raw/articles/a.md",
+                          "https://en.wikipedia.org/wiki/Jimmy_Smith",
+                          "/raw/articles/b.md"])
+        self.assertEqual(id_of["raw/articles/a.md"], entries[0]["id"])
+        self.assertEqual(entries[0]["last_modified"], "2026-10-20T00:00:00Z")
+        self.assertEqual(len({e["id"] for e in entries}), 3)
+
+    def test_attribute_footnotes(self):
+        entries, id_of = to_okf.build_sources(
+            ["raw/articles/a.md"], ["raw/articles/a.md", "raw/articles/b.md"], self.raw_meta)
+        body = "A.^[raw/articles/a.md] B.^[raw/articles/b.md] C.^[raw/articles/a.md]"
+        new = to_okf.attribute_footnotes(body, id_of,
+                                         {"raw/articles/a.md": "Wikipedia: A",
+                                          "raw/articles/b.md": "AllMusic: B"})
+        self.assertIn("A.[^a] B.[^b] C.[^a]", new)
+        self.assertIn("[^a]: Wikipedia: A", new)
+        self.assertIn("[^b]: AllMusic: B", new)
+        self.assertNotIn("# Citations", new)  # v0.1 body form superseded (§13.1/B.1)
+
+    def test_no_markers_no_footnotes(self):
+        entries, id_of = to_okf.build_sources(["raw/articles/a.md"], [], self.raw_meta)
+        new = to_okf.attribute_footnotes("plain body", id_of, {})
+        self.assertEqual(new, "plain body")
 
 
 class TestFrontmatter(unittest.TestCase):
     def test_page_mapping(self):
         fm = {
-            "title": "Jimmy Smith", "created": "2026-10-20", "updated": "2026-10-20",
+            "title": "Jimmy Smith", "created": "2026-10-20", "updated": "2026-10-28",
             "type": "entity", "tags": ["person", "music"],
             "sources": ["raw/articles/wikipedia-jimmy-smith.md",
                         "https://en.wikipedia.org/wiki/Jimmy_Smith"],
@@ -77,12 +104,14 @@ class TestFrontmatter(unittest.TestCase):
         }
         raw_meta = {"raw/articles/wikipedia-jimmy-smith.md":
                     {"ingested": "2026-10-20", "source_url": "https://x/y"}}
-        out = to_okf.map_page_frontmatter(fm, "Player", "Jazz organist.", raw_meta)
+        entries, _ = to_okf.build_sources(fm["sources"], [], raw_meta)
+        out = to_okf.map_page_frontmatter(fm, "Player", "Jazz organist.", entries)
         self.assertEqual(out["type"], "Player")
         self.assertEqual(out["description"], "Jazz organist.")
-        self.assertEqual(out["timestamp"], "2026-10-20T00:00:00Z")
+        # v0.3: no legacy `timestamp` key; generated.at = last meaningful change
+        self.assertNotIn("timestamp", out)
         self.assertEqual(out["generated"],
-                         {"by": "process:b3wiki-agent", "at": "2026-10-20T00:00:00Z"})
+                         {"by": "process:b3wiki-agent", "at": "2026-10-28T00:00:00Z"})
         s0, s1 = out["sources"]
         self.assertEqual(s0["resource"], "/raw/articles/wikipedia-jimmy-smith.md")
         self.assertEqual(s0["last_modified"], "2026-10-20T00:00:00Z")
@@ -97,11 +126,14 @@ class TestFrontmatter(unittest.TestCase):
         out = to_okf.map_raw_frontmatter(fm, "Hammond organ")
         self.assertEqual(out["type"], "Source")
         self.assertEqual(out["resource"], "https://en.wikipedia.org/wiki/Hammond_organ")
-        self.assertEqual(out["timestamp"], "2026-10-20T00:00:00Z")
+        self.assertNotIn("timestamp", out)
+        self.assertEqual(out["generated"],
+                         {"by": "process:b3wiki-agent", "at": "2026-10-20T00:00:00Z"})
         self.assertEqual(out["sha256"], "abc")
 
     def test_serialize_roundtrip(self):
-        fm = {"type": "Player", "title": "X", "timestamp": "2026-10-20T00:00:00Z",
+        fm = {"type": "Player", "title": "X",
+              "generated": {"by": "process:b3wiki-agent", "at": "2026-10-20T00:00:00Z"},
               "sources": [{"resource": "/raw/a.md", "id": "a"}]}
         page = to_okf.serialize(fm, "# X\n\nbody\n")
         import yaml
@@ -164,7 +196,9 @@ class TestNewsletter(unittest.TestCase):
         out = to_okf.map_newsletter_frontmatter("# The Organ Donor\n\n*Vol. 43*", "261021-B3Wiki-newsletter")
         self.assertEqual(out["type"], "Newsletter")
         self.assertEqual(out["title"], "The Organ Donor")
-        self.assertEqual(out["timestamp"], "2026-10-21T00:00:00Z")
+        self.assertNotIn("timestamp", out)
+        self.assertEqual(out["generated"],
+                         {"by": "process:b3wiki-agent", "at": "2026-10-21T00:00:00Z"})
 
 
 class TestConvertEndToEnd(unittest.TestCase):
@@ -175,7 +209,7 @@ class TestConvertEndToEnd(unittest.TestCase):
                       "## [2026-10-20] create | Wiki initialized\n- Domain: x\n",
             "index.md": "# Index\n\n- [[players/a|A]] — A page.\n",
             "entities/players/a.md": "---\ntitle: A\ntype: entity\ntags: [person]\n"
-                                     "sources: [raw/articles/r.md]\n---\n\nSee [[r]].\n",
+                                     "sources: [raw/articles/r.md]\n---\n\nSee [[r]].^[raw/articles/r.md]\n",
             "raw/articles/r.md": "---\nsource_url: https://x.org\ningested: 2026-10-19\n"
                                  "sha256: abc\n---\n\n# R source\n",
         }
@@ -190,9 +224,12 @@ class TestConvertEndToEnd(unittest.TestCase):
         page = open(os.path.join(root, "entities/players/a.md")).read()
         self.assertIn("type: Player", page)
         self.assertIn("[R source](/raw/articles/r.md)", page)
-        self.assertIn("# Citations", page)
+        self.assertIn("[^r]", page)                  # per-claim footnote keyed to sources[].id
+        self.assertIn("[^r]: R source", page)
+        self.assertNotIn("# Citations", page)        # v0.1 body form superseded
+        self.assertNotIn("timestamp:", page)         # legacy v0.1 key dropped
         root_index = open(os.path.join(root, "index.md")).read()
-        self.assertIn("okf_version: '0.2'", root_index)
+        self.assertIn("okf_version: '0.3'", root_index)
 
 
 if __name__ == "__main__":

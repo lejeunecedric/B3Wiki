@@ -2,7 +2,9 @@
 type: Source
 title: allmusic-larry-young
 resource: https://www.allmusic.com/artist/larry-young-mn0000134393
-timestamp: '2026-11-16T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-11-16T00:00:00Z'
 source_url: https://www.allmusic.com/artist/larry-young-mn0000134393
 ingested: 2026-11-16
 sha256: 930e3202a868687a4f05656dfacd23d32a4b7c6667142df720945d71a315e97b

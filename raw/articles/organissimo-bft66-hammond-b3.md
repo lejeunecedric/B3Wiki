@@ -2,7 +2,9 @@
 type: Source
 title: BFT 66 - the Hammond B3 revealed
 resource: https://www.organissimo.org/forum/topic/53546-bft-66-the-hammond-b3-revealed/
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://www.organissimo.org/forum/topic/53546-bft-66-the-hammond-b3-revealed/
 ingested: 2026-10-20
 sha256: 74bc48ef983d853ccb969c17e3862213e287c9c273dbdf2497958b18174f9612

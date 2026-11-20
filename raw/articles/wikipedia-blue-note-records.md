@@ -2,7 +2,9 @@
 type: Source
 title: Blue Note Records
 resource: https://en.wikipedia.org/wiki/Blue_Note_Records
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Blue_Note_Records
 ingested: 2026-10-20
 sha256: 3c4b5d2763db51e40db035d0157953f78bb4bb30fe2c3f5e74a734abd43d01cd

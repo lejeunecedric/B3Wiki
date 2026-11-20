@@ -2,7 +2,9 @@
 type: Source
 title: theatreorgans-europe-shops
 resource: http://theatreorgans.com/hammond/faq/shopservman/europe_-_select_shop.htm
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: http://theatreorgans.com/hammond/faq/shopservman/europe_-_select_shop.htm
 ingested: 2026-10-20
 sha256: debf24a6af5c6060a49a08a00d5c541967c55ce8b822a8383c9e78a29655249f

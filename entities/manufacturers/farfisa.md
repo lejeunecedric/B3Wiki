@@ -7,7 +7,6 @@ tags:
 - instrument
 - history
 - music
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-farfisa.md
   id: wikipedia-farfisa
@@ -26,16 +25,16 @@ founded: 1946
 
 # Farfisa
 
-**Farfisa** (Fabbriche Italiane Fisarmoniche — "Italian accordion factories") is an Italian musical-instrument company formed by the merger of three accordion manufacturers; it moved into electronic instruments in the late 1950s and introduced its combo organs in the early 1960s as an answer to the [Vox Continental](/entities/manufacturers/vox.md).[1]
+**Farfisa** (Fabbriche Italiane Fisarmoniche — "Italian accordion factories") is an Italian musical-instrument company formed by the merger of three accordion manufacturers; it moved into electronic instruments in the late 1950s and introduced its combo organs in the early 1960s as an answer to the [Vox Continental](/entities/manufacturers/vox.md).[^wikipedia-farfisa]
 
 ## The combo-organ rival
 
-Farfisa is the Hammond story's great *counter-example*: cheap, transistorized, portable organs that took the sound of the electric keyboard to bands the B-3 could never reach — on price alone.[1] Key points:
+Farfisa is the Hammond story's great *counter-example*: cheap, transistorized, portable organs that took the sound of the electric keyboard to bands the B-3 could never reach — on price alone.[^wikipedia-farfisa] Key points:
 
-- The **Compact** line was introduced in **1964**, produced at Aspio Terme; cheap Italian labour let Farfisa undercut the competition, which drove its commercial success.[1]
+- The **Compact** line was introduced in **1964**, produced at Aspio Terme; cheap Italian labour let Farfisa undercut the competition, which drove its commercial success.[^wikipedia-farfisa]
 - Popular ranges: the Compact series, the **Professional**, the **FAST** and the **VIP**.
-- Users spanned Pink Floyd, Sam the Sham, Country Joe and the Fish, Sly Stone, Elton John, Blondie, Suicide, the B-52s and Philip Glass.[1]
-- As the Hammond's popularity *rose* in 1970s rock groups, Farfisa declined — and responded with Hammond-emulating models, electronic pianos and synthesisers; a brief new-wave revival in the late 1970s ended with final models in the early 1980s. The company survives as a consumer-electronics maker.[1]
+- Users spanned Pink Floyd, Sam the Sham, Country Joe and the Fish, Sly Stone, Elton John, Blondie, Suicide, the B-52s and Philip Glass.[^wikipedia-farfisa]
+- As the Hammond's popularity *rose* in 1970s rock groups, Farfisa declined — and responded with Hammond-emulating models, electronic pianos and synthesisers; a brief new-wave revival in the late 1970s ended with final models in the early 1980s. The company survives as a consumer-electronics maker.[^wikipedia-farfisa]
 
 The contrast is laid out in [B-3 vs Combo Organs](/comparisons/b3-vs-combo-organs.md): portability and price vs depth of tone.
 
@@ -45,6 +44,4 @@ The contrast is laid out in [B-3 vs Combo Organs](/comparisons/b3-vs-combo-organ
 - [Farfisa official (Farfisa SpA)](https://www.farfisa.com)
 - [Combo organ gallery, matrixsynth / combo-organ sites](https://en.wikipedia.org/wiki/Combo_organ)
 
-# Citations
-
-[1] [Farfisa](/raw/articles/wikipedia-farfisa.md)
+[^wikipedia-farfisa]: Farfisa

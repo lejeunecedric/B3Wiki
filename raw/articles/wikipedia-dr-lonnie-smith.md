@@ -2,7 +2,9 @@
 type: Source
 title: wikipedia-dr-lonnie-smith
 resource: https://en.wikipedia.org/wiki/Dr._Lonnie_Smith
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Dr._Lonnie_Smith
 ingested: 2026-10-20
 sha256: 24837d664d8899eb2fe1f6082a0eb3af8b092712ded27470068f4c079ad5a402

@@ -2,7 +2,9 @@
 type: Source
 title: wikipedia-clonewheel-organ
 resource: https://en.wikipedia.org/wiki/Clonewheel_organ
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Clonewheel_organ
 ingested: 2026-10-20
 sha256: 4a24731e96e24121c33543899920ea1e4c7b29df266bbe8e5580a9d7ae9021b2

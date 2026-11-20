@@ -2,7 +2,9 @@
 type: Source
 title: Marshall Amplification
 resource: https://en.wikipedia.org/wiki/Marshall_Amplification
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Marshall_Amplification
 ingested: 2026-10-20
 sha256: 1b8687b843e40c2824c756e85870a3c87768dd8a1af360cb0584b24609c26081

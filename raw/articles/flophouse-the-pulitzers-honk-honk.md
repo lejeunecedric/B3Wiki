@@ -2,7 +2,9 @@
 type: Source
 title: The Pulitzers *Honk Honk* (Zip Records 2023)
 resource: https://flophousemagazine.com/2023/11/22/the-pulitzers-honk-honk-zip-records-2023/
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://flophousemagazine.com/2023/11/22/the-pulitzers-honk-honk-zip-records-2023/
 ingested: 2026-10-20
 sha256: 63aa33545207e32f32e33dcc01d35fa37d3c239568e2504de3f924c02aae04db

@@ -5,7 +5,6 @@ description: Sliders mixing pipe-organ footages (16'-1') to shape timbre in real
 tags:
 - technology
 - music
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-hammond-organ.md
   id: wikipedia-hammond-organ
@@ -27,7 +26,7 @@ Labels come from pipe-organ **stops** (physical pipe length ↔ pitch):
 - **16′** one octave below the fundamental, **8′** the fundamental, **4′ / 2′ / 1′** one, two, three octaves above
 - **5⅓′** the quint (2nd harmonic), plus other mixture-style harmonics/subharmonics
 
-Each individual drawbar sounds flute-pure; timbre comes from **mixing** them — the Hammond is a real-time **additive synthesizer** you play with your fingertips while performing.[1]
+Each individual drawbar sounds flute-pure; timbre comes from **mixing** them — the Hammond is a real-time **additive synthesizer** you play with your fingertips while performing.[^wikipedia-hammond-organ]
 
 ## Culture
 - From 1969 onward the footage numbers were engraved on drawbar ends.
@@ -39,6 +38,4 @@ Each individual drawbar sounds flute-pure; timbre comes from **mixing** them —
 - [Harmonic Percussion](/concepts/harmonic-percussion.md) — the extra attack component added on B-3/C-3
 - [Hammond B-3](/entities/instruments/hammond-b3.md) — the flagship using them
 
-# Citations
-
-[1] [Hammond organ](/raw/articles/wikipedia-hammond-organ.md)
+[^wikipedia-hammond-organ]: Hammond organ

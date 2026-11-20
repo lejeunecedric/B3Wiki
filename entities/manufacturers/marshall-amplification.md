@@ -7,7 +7,6 @@ tags:
 - gear
 - history
 - music
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-marshall-amplification.md
   id: wikipedia-marshall-amplification
@@ -26,11 +25,11 @@ founded: 1962
 
 # Marshall Amplification
 
-**Marshall Amplification** is a British manufacturer of guitar amplifiers, speaker cabinets and effects pedals, **founded in London in 1962 by shop owner and drummer Jim Marshall** (his Hanwell drum shop launched the business); based in Bletchley, Milton Keynes, its Bluesbreaker/JTM-era amps of 1962–65 and the JCM800 series (1981) became the archetypes of British rock loudness.[1]
+**Marshall Amplification** is a British manufacturer of guitar amplifiers, speaker cabinets and effects pedals, **founded in London in 1962 by shop owner and drummer Jim Marshall** (his Hanwell drum shop launched the business); based in Bletchley, Milton Keynes, its Bluesbreaker/JTM-era amps of 1962–65 and the JCM800 series (1981) became the archetypes of British rock loudness.[^wikipedia-marshall-amplification]
 
 ## Why it matters to the Hammond story
 
-Marshall matters here in a paradoxical way: the most famous distorted Hammond sound of all time is a **Hammond organ plugged into Marshall amplifiers**. Jon Lord drove his Hammond B-3/C-3's Leslie output into overdriven Marshall stacks, deliberately distorting the organ to match Ritchie Blackmore's guitar attack — a "growling, heavy, mechanical" tone that let the tonewheel organ stand as a full rock lead voice.[2]
+Marshall matters here in a paradoxical way: the most famous distorted Hammond sound of all time is a **Hammond organ plugged into Marshall amplifiers**. Jon Lord drove his Hammond B-3/C-3's Leslie output into overdriven Marshall stacks, deliberately distorting the organ to match Ritchie Blackmore's guitar attack — a "growling, heavy, mechanical" tone that let the tonewheel organ stand as a full rock lead voice.[^wikipedia-jon-lord]
 
 That rig decision, more than any circuit design, defined hard rock's organ sound (see [Landmark Hammond albums](/queries/hammond-landmark-albums.md) for what it produced on *Machine Head*). Marshall is not an organ maker — but in the Hammond rock canon it is the amplification that made the organ heavy.
 
@@ -40,7 +39,5 @@ That rig decision, more than any circuit design, defined hard rock's organ sound
 - [Official site](https://marshall.com)
 - [Jon Lord's rig — organ through Marshalls](https://en.wikipedia.org/wiki/Jon_Lord)
 
-# Citations
-
-[1] [Marshall Amplification](/raw/articles/wikipedia-marshall-amplification.md)
-[2] [wikipedia-jon-lord](/raw/articles/wikipedia-jon-lord.md)
+[^wikipedia-marshall-amplification]: Marshall Amplification
+[^wikipedia-jon-lord]: wikipedia-jon-lord

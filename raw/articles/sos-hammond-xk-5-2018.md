@@ -2,7 +2,9 @@
 type: Source
 title: Hammond XK-5
 resource: https://www.soundonsound.com/reviews/hammond-xk-5
-timestamp: '2026-11-09T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-11-09T00:00:00Z'
 source_url: https://www.soundonsound.com/reviews/hammond-xk-5
 ingested: 2026-11-09
 sha256: cbe8649c99946ffddc6bbe09dc4fdac59335289d6b5ac88d69a7b1ab56e6f01e

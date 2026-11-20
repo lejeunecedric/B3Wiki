@@ -6,7 +6,6 @@ tags:
 - music
 - modern
 - band
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-delvon-lamarr-organ-trio.md
   id: wikipedia-delvon-lamarr-organ-trio
@@ -24,11 +23,11 @@ confidence: high
 
 # Delvon Lamarr Organ Trio (DLO3)
 
-Seattle soul-jazz organ trio founded in 2015, the breakout act of the 2010s-2020s soul-jazz revival. Manager Amy Novo (Lamarr's wife) built it from the Seattle scene into a worldwide touring act with Billboard-charting albums, all on Colemine Records (Karma Chief family). Their sound is deliberately retro — 1960s organ jazz à la [Jimmy Smith](/entities/players/jimmy-smith.md) and Baby Face Willette, the strut of Booker T. & the M.G.'s and The Meters — executed with modern production and YouTube/KEXP-era reach.[1]
+Seattle soul-jazz organ trio founded in 2015, the breakout act of the 2010s-2020s soul-jazz revival. Manager Amy Novo (Lamarr's wife) built it from the Seattle scene into a worldwide touring act with Billboard-charting albums, all on Colemine Records (Karma Chief family). Their sound is deliberately retro — 1960s organ jazz à la [Jimmy Smith](/entities/players/jimmy-smith.md) and Baby Face Willette, the strut of Booker T. & the M.G.'s and The Meters — executed with modern production and YouTube/KEXP-era reach.[^wikipedia-delvon-lamarr-organ-trio]
 
 ## Lineup history
 
-The only constant is Lamarr on Hammond B-3. Guitar: Colin Higgins (2015), then [Jimmy James](/entities/people/jimmy-james.md) (2015–2022) whose seven-year stint defined the band's sound, Miles "Smiles" Harris (2023–2025), Brice Calvin (2025–). Drums rotated even faster: David McGraw (2015–2018), Doug Octa Port (2018–2021), Dan "Vanilla" Weiss of The Sextones (2021–2022), Julian "Thunderfoot" MacDonough (2022–2025), Ashley Ickes (2025–).[1] (The 2025 press listing of drummer Grant Schroff of Polyrhythmics on the "Chicken Leg" single suggests further fluidity; confidence: medium.)
+The only constant is Lamarr on Hammond B-3. Guitar: Colin Higgins (2015), then [Jimmy James](/entities/people/jimmy-james.md) (2015–2022) whose seven-year stint defined the band's sound, Miles "Smiles" Harris (2023–2025), Brice Calvin (2025–). Drums rotated even faster: David McGraw (2015–2018), Doug Octa Port (2018–2021), Dan "Vanilla" Weiss of The Sextones (2021–2022), Julian "Thunderfoot" MacDonough (2022–2025), Ashley Ickes (2025–).[^wikipedia-delvon-lamarr-organ-trio] (The 2025 press listing of drummer Grant Schroff of Polyrhythmics on the "Chicken Leg" single suggests further fluidity; confidence: medium.)
 
 ## Discography
 
@@ -37,7 +36,7 @@ The only constant is Lamarr on Hammond B-3. Guitar: Colin Higgins (2015), then [
 - *I Told You So* (Colemine, 2021) — #1 Contemporary Jazz, #3 Jazz Albums
 - *Cold As Weiss* (Colemine, 2022)
 - *Live In Loveland!* (2022, recorded 2018)
-- "Chicken Leg" / "If I Could" single (2025, from the *I Told You So* sessions)[1]
+- "Chicken Leg" / "If I Could" single (2025, from the *I Told You So* sessions)[^wikipedia-delvon-lamarr-organ-trio]
 
 The often-repeated claim of a 2019 album *Close Your Eyes* is not supported by the band's discography; the sophomore studio album was *I Told You So* (2021). Confidence: high on the discography above.
 
@@ -51,6 +50,4 @@ Jimmy James left in 2022 to form [Parlor Greens](/entities/bands/parlor-greens.m
 - [Colemine Records](https://coleminerecords.bandcamp.com/)
 - [Live at KEXP (YouTube)](https://www.youtube.com/watch?v=5Y8NfY0R6xI) — confidence: low on exact video ID; search "Delvon Lamarr KEXP"
 
-# Citations
-
-[1] [Infobox](/raw/articles/wikipedia-delvon-lamarr-organ-trio.md)
+[^wikipedia-delvon-lamarr-organ-trio]: Infobox

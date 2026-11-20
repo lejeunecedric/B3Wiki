@@ -7,7 +7,6 @@ tags:
 - music
 - history
 - modern
-timestamp: '2026-11-16T00:00:00Z'
 sources:
 - resource: /raw/articles/npr-blogsupreme-hammond-b3.md
   id: npr-blogsupreme-hammond-b3
@@ -23,9 +22,15 @@ sources:
 - resource: /raw/articles/wikipedia-hammondbeat.md
   id: wikipedia-hammondbeat
   last_modified: '2026-10-20T00:00:00Z'
+- resource: /raw/articles/wikipedia-dr-lonnie-smith.md
+  id: wikipedia-dr-lonnie-smith
+  last_modified: '2026-10-20T00:00:00Z'
+- resource: /raw/articles/wikipedia-brian-auger.md
+  id: wikipedia-brian-auger
+  last_modified: '2026-10-20T00:00:00Z'
 generated:
   by: process:b3wiki-agent
-  at: '2026-10-20T00:00:00Z'
+  at: '2026-11-16T00:00:00Z'
 created: 2026-10-20
 updated: 2026-11-16
 confidence: medium
@@ -37,13 +42,13 @@ confidence: medium
 
 ## Answer
 
-**1. The soul-jazz legion (jazz's mainstream, 1960s–70s).** Smith's impact was compared to Charlie Christian on guitar or Charlie Parker on sax: a legion of younger players — Charles Earland, Richard "Groove" Holmes, Jack McDuff, Don Patterson, "Big" John Patton, Sonny Phillips, Freddie Roach, Shirley Scott, Johnny "Hammond" Smith, Lonnie Smith, Reuben Wilson, [Larry Young](/entities/players/larry-young.md), [Jimmy McGriff](/entities/players/jimmy-mcgriff.md) — created a golden age of soul jazz, hard bop seasoned with blues, gospel and R&B.[1][2] Collector and forum discussion (organissimo BFT-66 blindfold test, see raw/forums/organissimo-bft66-hammond-b3.md) stresses the deep bench beyond the famous names — e.g. Charles Kynard's Pacific Jazz dates, and modern organ-trio players like Craig Kastelnik deliberately avoiding soul-jazz clichés.[3]
+**1. The soul-jazz legion (jazz's mainstream, 1960s–70s).** Smith's impact was compared to Charlie Christian on guitar or Charlie Parker on sax: a legion of younger players — Charles Earland, Richard "Groove" Holmes, Jack McDuff, Don Patterson, "Big" John Patton, Sonny Phillips, Freddie Roach, Shirley Scott, Johnny "Hammond" Smith, Lonnie Smith, Reuben Wilson, [Larry Young](/entities/players/larry-young.md), [Jimmy McGriff](/entities/players/jimmy-mcgriff.md) — created a golden age of soul jazz, hard bop seasoned with blues, gospel and R&B.[^vinyldiscovery-organ-jazz-soul-jazz][^wikipedia-dr-lonnie-smith] Collector and forum discussion (organissimo BFT-66 blindfold test, see raw/forums/organissimo-bft66-hammond-b3.md) stresses the deep bench beyond the famous names — e.g. Charles Kynard's Pacific Jazz dates, and modern organ-trio players like Craig Kastelnik deliberately avoiding soul-jazz clichés.[^organissimo-bft66-hammond-b3]
 
-**2. Rock (British wing, late 1960s).** [Jon Lord](/entities/players/jon-lord.md) absorbed the same American R&B-organ records (Wild Bill Davis, Smith, McGriff's "All About My Girl", McDuff's "Rock Candy") through the B-3/C-3 + [Leslie](/entities/instruments/leslie-speaker.md) rig and pushed it into hard rock and proto-heavy-metal with Deep Purple, while fusing it with his classical training.[4] [Brian Auger](/entities/players/brian-auger.md) took the same instrument into jazz-rock, soul-rock and fusion.[5]
+**2. Rock (British wing, late 1960s).** [Jon Lord](/entities/players/jon-lord.md) absorbed the same American R&B-organ records (Wild Bill Davis, Smith, McGriff's "All About My Girl", McDuff's "Rock Candy") through the B-3/C-3 + [Leslie](/entities/instruments/leslie-speaker.md) rig and pushed it into hard rock and proto-heavy-metal with Deep Purple, while fusing it with his classical training.[^wikipedia-jon-lord] [Brian Auger](/entities/players/brian-auger.md) took the same instrument into jazz-rock, soul-rock and fusion.[^wikipedia-brian-auger]
 
-**3. The revival infrastructure (1990s–2000s).** The acid-jazz scene that treats Smith as its "father" produced dedicated institutions like [Hammondbeat Records](/entities/labels/hammondbeat.md) (2002), a label organized not by genre but by the organ sound itself, spanning dozens of next-generation organ bands — [the James Taylor Quartet](/entities/bands/james-taylor-quartet.md) (whose fan site became the label), Italy's [Link Quartet](/entities/bands/link-quartet.md) with [Paolo 'Apollo' Negri](/entities/players/paolo-negri.md), and roster acts across Europe (see the label page's roster section).[6] In France, the same lineage runs through [Eddy Louiss](/entities/players/eddy-louiss.md) (1941–2015), the country's beloved jazz organist.
+**3. The revival infrastructure (1990s–2000s).** The acid-jazz scene that treats Smith as its "father" produced dedicated institutions like [Hammondbeat Records](/entities/labels/hammondbeat.md) (2002), a label organized not by genre but by the organ sound itself, spanning dozens of next-generation organ bands — [the James Taylor Quartet](/entities/bands/james-taylor-quartet.md) (whose fan site became the label), Italy's [Link Quartet](/entities/bands/link-quartet.md) with [Paolo 'Apollo' Negri](/entities/players/paolo-negri.md), and roster acts across Europe (see the label page's roster section).[^wikipedia-hammondbeat] In France, the same lineage runs through [Eddy Louiss](/entities/players/eddy-louiss.md) (1941–2015), the country's beloved jazz organist.
 
-**4. Today's working tradition (gospel + modern jazz trio).** Organist Larry Goldings, touring the standard organ-trio format (Peter Bernstein/Bill Stewart), frames the current landscape: B-3 playing remains rooted in gospel (he recommends listening to gospel organ above almost anything), drawbars function "like the first synthesizer," and the 888000000-plus-[percussion](/concepts/harmonic-percussion.md) formula is still the reference sound. He also notes the practical limits — the instrument weighs ~425 lbs and is usually rented via the venue rider — which is exactly the gap clonewheel instruments and retro labels now fill.[7]
+**4. Today's working tradition (gospel + modern jazz trio).** Organist Larry Goldings, touring the standard organ-trio format (Peter Bernstein/Bill Stewart), frames the current landscape: B-3 playing remains rooted in gospel (he recommends listening to gospel organ above almost anything), drawbars function "like the first synthesizer," and the 888000000-plus-[percussion](/concepts/harmonic-percussion.md) formula is still the reference sound. He also notes the practical limits — the instrument weighs ~425 lbs and is usually rented via the venue rider — which is exactly the gap clonewheel instruments and retro labels now fill.[^npr-blogsupreme-hammond-b3]
 
 ## Synthesis
 The B-3's spread beyond Smith ran along four channels, all traceable to his template: (a) within jazz, as soul-jazz organ trios; (b) across the Atlantic into rock (Lord, Auger); (c) into a self-conscious revival scene with its own labels (Hammondbeat); and (d) into gospel and the modern trio mainstream that NPR documents. Every channel keeps the same core recipe: drawbars, percussion, Leslie.
@@ -61,12 +66,10 @@ The B-3's spread beyond Smith ran along four channels, all traceable to his temp
 - [Hammond B-3](/entities/instruments/hammond-b3.md) — the instrument at the center
 - [Hammondbeat Records](/entities/labels/hammondbeat.md) — revival-era label case study
 
-# Citations
-
-[1] [[vinyldiscovery](https://vinyldiscovery.blogspot.com/)](/raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md)
-[2] [wikipedia-dr-lonnie-smith](/raw/articles/wikipedia-dr-lonnie-smith.md)
-[3] [organissimo-bft66-hammond-b3](/raw/forums/organissimo-bft66-hammond-b3.md)
-[4] [wikipedia-jon-lord](/raw/articles/wikipedia-jon-lord.md)
-[5] [wikipedia-brian-auger](/raw/articles/wikipedia-brian-auger.md)
-[6] [Hammondbeat](/raw/articles/wikipedia-hammondbeat.md)
-[7] [Soul From A Console: Jazz On The Hammond B-3 Organ](/raw/articles/npr-blogsupreme-hammond-b3.md)
+[^vinyldiscovery-organ-jazz-soul-jazz]: [vinyldiscovery](https://vinyldiscovery.blogspot.com/)
+[^wikipedia-dr-lonnie-smith]: wikipedia-dr-lonnie-smith
+[^organissimo-bft66-hammond-b3]: organissimo-bft66-hammond-b3
+[^wikipedia-jon-lord]: wikipedia-jon-lord
+[^wikipedia-brian-auger]: wikipedia-brian-auger
+[^wikipedia-hammondbeat]: Hammondbeat
+[^npr-blogsupreme-hammond-b3]: Soul From A Console: Jazz On The Hammond B-3 Organ

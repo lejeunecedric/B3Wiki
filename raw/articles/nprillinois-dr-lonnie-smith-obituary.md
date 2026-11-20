@@ -2,7 +2,9 @@
 type: Source
 title: nprillinois-dr-lonnie-smith-obituary
 resource: https://www.nprillinois.org/2021-09-29/influential-organ-player-dr-lonnie-smith-has-died-at-age-79
-timestamp: '2026-11-02T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-11-02T00:00:00Z'
 source_url: https://www.nprillinois.org/2021-09-29/influential-organ-player-dr-lonnie-smith-has-died-at-age-79
 ingested: 2026-11-02
 sha256: ff9ca85bbda455cdcfc977d5f743600a5ee910d263b43c6bdfd12696853a8c49

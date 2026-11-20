@@ -5,7 +5,6 @@ description: Organ-sound record label (2002), grown from the JTQgroove acid-jazz
 tags:
 - music
 - modern
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-hammondbeat.md
   id: wikipedia-hammondbeat
@@ -32,12 +31,12 @@ confidence: high
 
 # Hammondbeat Records (founded 2002)
 
-American record label **dedicated to bands and fans of the organ sound** — not a genre label in the traditional sense, but one embracing every genre the organ has influenced. Also functions as an online community connecting fans to hundreds of organ bands and the indie labels that support them (discographies, downloads, web radio, forum).[1]
+American record label **dedicated to bands and fans of the organ sound** — not a genre label in the traditional sense, but one embracing every genre the organ has influenced. Also functions as an online community connecting fans to hundreds of organ bands and the indie labels that support them (discographies, downloads, web radio, forum).[^wikipedia-hammondbeat]
 
 ## Origin
-- Began in 1997 as **JTQgroove**, a fan website for the Hammond-led acid-jazz band the James Taylor Quartet (JTQ).[1]
-- The fan collective outgrew one artist and attracted next-generation organ-centric bands, leading to a recording project with The Link Quartet (Piacenza, Italy) — JTQ-influenced veterans with Paolo 'Apollo' Negri on keys.[1]
-- Business model: controls most of its catalog for both entertainment and marketing/synchronization licensing.[1]
+- Began in 1997 as **JTQgroove**, a fan website for the Hammond-led acid-jazz band the James Taylor Quartet (JTQ).[^wikipedia-hammondbeat]
+- The fan collective outgrew one artist and attracted next-generation organ-centric bands, leading to a recording project with The Link Quartet (Piacenza, Italy) — JTQ-influenced veterans with Paolo 'Apollo' Negri on keys.[^wikipedia-hammondbeat]
+- Business model: controls most of its catalog for both entertainment and marketing/synchronization licensing.[^wikipedia-hammondbeat]
 
 ## Catalog highlights
 - 2002 HBR-001: _Beat.it_ — The Link Quartet (the label's first title)
@@ -59,6 +58,4 @@ Next-generation organ bands and artists on the label (pages for those with dedic
 - [Hammond B-3](/entities/instruments/hammond-b3.md) — the sound the label is organized around
 - [Jimmy Smith](/entities/players/jimmy-smith.md) — widely called the father of the acid-jazz scene Hammondbeat grew from
 
-# Citations
-
-[1] [Hammondbeat](/raw/articles/wikipedia-hammondbeat.md)
+[^wikipedia-hammondbeat]: Hammondbeat

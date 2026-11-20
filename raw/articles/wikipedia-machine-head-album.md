@@ -2,7 +2,9 @@
 type: Source
 title: Machine Head (album)
 resource: https://en.wikipedia.org/wiki/Machine_Head_(album)
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Machine_Head_(album)
 ingested: 2026-10-20
 sha256: 252897b242dce97c8656fbff2bc80e0f57b0405e78f761d0b3a5f1cb56bd6ef9

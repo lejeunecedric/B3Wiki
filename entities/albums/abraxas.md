@@ -6,7 +6,6 @@ tags:
 - album
 - music
 - history
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-abraxas-album.md
   id: wikipedia-abraxas-album
@@ -28,13 +27,13 @@ released: 1970-09-23
 
 # Abraxas
 
-**Abraxas** is the second studio album by **Santana**, **released 23 September 1970**; a fusion of Latin rock, blues and jazz that topped the Billboard chart.[1]
+**Abraxas** is the second studio album by **Santana**, **released 23 September 1970**; a fusion of Latin rock, blues and jazz that topped the Billboard chart.[^wikipedia-abraxas-album]
 
 ## The Hammond in it
 
-Founding keyboardist/vocalist **Gregg Rolie** plays the Hammond B-3 as the band's harmonic glue: organ pads and answer phrases under Carlos Santana's lead guitar on "Black Magic Woman" and "Oye Cómo Va", with the organ-vs-guitar call-and-response forming the album's core texture.[1] On "Incident at Neshabur" Rolie's keyboards are deliberately contrasted with guest pianist Alberto Gianquinto's jazz-influenced style.[1]
+Founding keyboardist/vocalist **Gregg Rolie** plays the Hammond B-3 as the band's harmonic glue: organ pads and answer phrases under Carlos Santana's lead guitar on "Black Magic Woman" and "Oye Cómo Va", with the organ-vs-guitar call-and-response forming the album's core texture.[^wikipedia-abraxas-album] On "Incident at Neshabur" Rolie's keyboards are deliberately contrasted with guest pianist Alberto Gianquinto's jazz-influenced style.[^wikipedia-abraxas-album]
 
-Rolie's approach — jazz-chord vocabulary inside percussion-driven grooves, the organ as a *conversational partner* rather than the solo star — extends the soul-jazz organ tradition into Latin rock (see [Landmark albums with great Hammond organ — Deep Purple, ELP, Mother Earth, Santana](/queries/hammond-landmark-albums.md)).[2]
+Rolie's approach — jazz-chord vocabulary inside percussion-driven grooves, the organ as a *conversational partner* rather than the solo star — extends the soul-jazz organ tradition into Latin rock (see [Landmark albums with great Hammond organ — Deep Purple, ELP, Mother Earth, Santana](/queries/hammond-landmark-albums.md)).[^wikipedia-gregg-rolie]
 
 ## External links
 
@@ -42,7 +41,5 @@ Rolie's approach — jazz-chord vocabulary inside percussion-driven grooves, the
 - [Black Magic Woman](https://en.wikipedia.org/wiki/Black_Magic_Woman)
 - [Gregg Rolie official](https://www.greggrolie.com)
 
-# Citations
-
-[1] [Abraxas (album)](/raw/articles/wikipedia-abraxas-album.md)
-[2] [Gregg Rolie](/raw/articles/wikipedia-gregg-rolie.md)
+[^wikipedia-abraxas-album]: Abraxas (album)
+[^wikipedia-gregg-rolie]: Gregg Rolie

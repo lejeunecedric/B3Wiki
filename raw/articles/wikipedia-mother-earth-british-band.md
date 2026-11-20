@@ -2,7 +2,9 @@
 type: Source
 title: Mother Earth (British band)
 resource: https://en.wikipedia.org/wiki/Mother_Earth_(British_band)
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Mother_Earth_(British_band)
 ingested: 2026-10-20
 sha256: 3900a3b3196c8ac25f72d1096a595784fbf666cce1dd730825444b4a896c70ca

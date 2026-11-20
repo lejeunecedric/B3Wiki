@@ -2,7 +2,9 @@
 type: Source
 title: Farfisa
 resource: https://en.wikipedia.org/wiki/Farfisa
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Farfisa
 ingested: 2026-10-20
 sha256: a52ef5e85c994e8953f4fd5534c3a05e23087ff98765864866a0259062fc8450

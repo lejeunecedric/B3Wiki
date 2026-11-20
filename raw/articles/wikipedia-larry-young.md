@@ -2,7 +2,9 @@
 type: Source
 title: Larry Young (musician)
 resource: https://en.wikipedia.org/wiki/Larry_Young_(musician)
-timestamp: '2026-11-16T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-11-16T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Larry_Young_(musician)
 ingested: 2026-11-16
 sha256: fbadf502d94246637a6b2c50d896bf15e60e2743d062f80dfe381aad0df56114

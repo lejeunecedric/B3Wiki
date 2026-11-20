@@ -2,7 +2,9 @@
 type: Source
 title: Infobox
 resource: https://en.wikipedia.org/wiki/Delvon_Lamarr_Organ_Trio
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Delvon_Lamarr_Organ_Trio
 ingested: 2026-10-20
 sha256: 8d50b28a3b9c5cdbc2d347a30289c2eb42293645a473ab2c4fd853fbfb6f01d0

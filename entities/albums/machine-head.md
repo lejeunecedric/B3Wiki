@@ -6,7 +6,6 @@ tags:
 - album
 - music
 - history
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-machine-head-album.md
   id: wikipedia-machine-head-album
@@ -25,13 +24,13 @@ released: 1972-03-30
 
 # Machine Head
 
-**Machine Head** is the sixth studio album by **Deep Purple** (Mark II), **released 30 March 1972**.[1] It is the band's best-selling record and one of hard rock's foundational albums.
+**Machine Head** is the sixth studio album by **Deep Purple** (Mark II), **released 30 March 1972**.[^wikipedia-machine-head-album] It is the band's best-selling record and one of hard rock's foundational albums.
 
 ## The Hammond in it
 
-[Jon Lord](/entities/players/jon-lord.md)'s Hammond B-3/C-3 — driven into overdriven Marshall stacks and swirling Leslie — is the album's second lead instrument: rhythmic underpinning on "Smoke on the Water" and full organ solos on "Highway Star", "Pictures of Home" and "Lazy".[1][2] Lord later named his "Lazy" solo among his own favourites.[2]
+[Jon Lord](/entities/players/jon-lord.md)'s Hammond B-3/C-3 — driven into overdriven Marshall stacks and swirling Leslie — is the album's second lead instrument: rhythmic underpinning on "Smoke on the Water" and full organ solos on "Highway Star", "Pictures of Home" and "Lazy".[^wikipedia-machine-head-album][^wikipedia-jon-lord] Lord later named his "Lazy" solo among his own favourites.[^wikipedia-jon-lord]
 
-The album is the canonical proof that the tonewheel engine could carry hard rock's volume war: drawbar settings pushed to an aggressive reedy voice, percussion turned on, distortion treated as tone (see [B-3 vs Combo Organs (Vox Continental, Farfisa)](/comparisons/b3-vs-combo-organs.md) for what the combo-organ rivals could not do here).[2]
+The album is the canonical proof that the tonewheel engine could carry hard rock's volume war: drawbar settings pushed to an aggressive reedy voice, percussion turned on, distortion treated as tone (see [B-3 vs Combo Organs (Vox Continental, Farfisa)](/comparisons/b3-vs-combo-organs.md) for what the combo-organ rivals could not do here).[^wikipedia-jon-lord]
 
 ## External links
 
@@ -39,7 +38,5 @@ The album is the canonical proof that the tonewheel engine could carry hard rock
 - [Jon Lord official](https://www.jonlord.org)
 - [Smoke on the Water](https://en.wikipedia.org/wiki/Smoke_on_the_Water)
 
-# Citations
-
-[1] [Machine Head (album)](/raw/articles/wikipedia-machine-head-album.md)
-[2] [wikipedia-jon-lord](/raw/articles/wikipedia-jon-lord.md)
+[^wikipedia-machine-head-album]: Machine Head (album)
+[^wikipedia-jon-lord]: wikipedia-jon-lord

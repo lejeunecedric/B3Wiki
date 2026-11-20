@@ -2,7 +2,9 @@
 type: Source
 title: THE HAMMOND STORY
 resource: https://hammondorganco.com/the-hammond-story
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://hammondorganco.com/the-hammond-story
 ingested: 2026-10-20
 sha256: 22e6f1c73177313e71fe922dac67fd570a1f0ce5d172c0dbfa760983c430ee5f

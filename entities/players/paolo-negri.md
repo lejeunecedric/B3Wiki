@@ -6,7 +6,6 @@ tags:
 - person
 - music
 - modern
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/linkquartet-lastfm-apollonegri.md
   id: linkquartet-lastfm-apollonegri
@@ -24,13 +23,13 @@ confidence: medium
 
 # Paolo "Apollo" Negri (b. 1979)
 
-Italian Hammond organist, keyboardist and songwriter from Piacenza — the organist and principal songwriter of [The Link Quartet](/entities/bands/link-quartet.md) since 1997 and the most prolific solo artist on the [Hammondbeat](/entities/labels/hammondbeat.md) roster (four catalog albums under his own name).[1][2]
+Italian Hammond organist, keyboardist and songwriter from Piacenza — the organist and principal songwriter of [The Link Quartet](/entities/bands/link-quartet.md) since 1997 and the most prolific solo artist on the [Hammondbeat](/entities/labels/hammondbeat.md) roster (four catalog albums under his own name).[^linkquartet-lastfm-apollonegri][^wikipedia-hammondbeat]
 
 ## Career
-- Born 1979; at 16 founded his first band, the psychedelic-prog trio **Nice Price** (influences: The Nice, Quatermass, Arthur Brown). Joined The Link Quartet in 1997 after it split.[1]
-- His style "reminds Brian Auger, The Mohawks, and in a certain way Booker T, but keeps always a strong personality" (IAJO); [Booker T](/entities/players/booker-t-jones.md)-style groove with [Auger](/entities/players/brian-auger.md)-style aggression.[1]
-- With Link Quartet: support tours for [JTQ](/entities/bands/james-taylor-quartet.md), Brian Auger's Oblivion Express, Manu Chao; albums *Episode 1*, *Beat.it*, *4*, *Hotel Constellation*.[1]
-- Central member and songwriter of the hard-prog band **Wicked Minds** (2000–2013). Session work on 300+ albums; also played with Black Widow, Ray Daytona & Googoobombos, Low Fidelity Jet-Set Orchestra, Fred Leslie's Missing Link.[1]
+- Born 1979; at 16 founded his first band, the psychedelic-prog trio **Nice Price** (influences: The Nice, Quatermass, Arthur Brown). Joined The Link Quartet in 1997 after it split.[^linkquartet-lastfm-apollonegri]
+- His style "reminds Brian Auger, The Mohawks, and in a certain way Booker T, but keeps always a strong personality" (IAJO); [Booker T](/entities/players/booker-t-jones.md)-style groove with [Auger](/entities/players/brian-auger.md)-style aggression.[^linkquartet-lastfm-apollonegri]
+- With Link Quartet: support tours for [JTQ](/entities/bands/james-taylor-quartet.md), Brian Auger's Oblivion Express, Manu Chao; albums *Episode 1*, *Beat.it*, *4*, *Hotel Constellation*.[^linkquartet-lastfm-apollonegri]
+- Central member and songwriter of the hard-prog band **Wicked Minds** (2000–2013). Session work on 300+ albums; also played with Black Widow, Ray Daytona & Googoobombos, Low Fidelity Jet-Set Orchestra, Fred Leslie's Missing Link.[^linkquartet-lastfm-apollonegri]
 
 ## Hammondbeat solo discography
 - *A Bigger Tomorrow* (HBR-009, 2007) — a collaborative album inviting 20+ guests from the worldwide Hammond community (New Mastersounds, Diplomats of Solid Sound, Phat Fred, Nick Rossi Set members…), recorded on Hammond A-102 with pedalboard, Rhodes, synths and Mellotron
@@ -45,7 +44,5 @@ Within the revival scene he is the clearest through-line from the [Jimmy Smith](
 - [IAJO — the jazz organ scene in Italy (Negri entry)](https://iajo.org/iajo04/italy/negri.htm)
 - [Paolo "Apollo" Negri at Discogs](https://www.discogs.com/artist/398242-Paolo-Apollo-Negri)
 
-# Citations
-
-[1] [The Link Quartet](/raw/articles/linkquartet-lastfm-apollonegri.md)
-[2] [Hammondbeat](/raw/articles/wikipedia-hammondbeat.md)
+[^linkquartet-lastfm-apollonegri]: The Link Quartet
+[^wikipedia-hammondbeat]: Hammondbeat

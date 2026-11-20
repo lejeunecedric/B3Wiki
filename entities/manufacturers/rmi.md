@@ -7,7 +7,6 @@ tags:
 - instrument
 - history
 - music
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-rocky-mount-instruments.md
   id: wikipedia-rocky-mount-instruments
@@ -29,15 +28,15 @@ founded: 1966
 
 # RMI (Rocky Mount Instruments)
 
-**Rocky Mount Instruments (RMI)** was a subsidiary of the **Allen Organ Company** based in Rocky Mount, North Carolina, **active 1966–1982**, formed to produce portable electronic keyboards: electric pianos, harpsichords and, most famously, the **Electra-piano** (1967) — a four-octave instrument with a dedicated LC oscillator per key and a "flying hammer" mechanism, retailing around $695–845 for the companion Explorer models.[1]
+**Rocky Mount Instruments (RMI)** was a subsidiary of the **Allen Organ Company** based in Rocky Mount, North Carolina, **active 1966–1982**, formed to produce portable electronic keyboards: electric pianos, harpsichords and, most famously, the **Electra-piano** (1967) — a four-octave instrument with a dedicated LC oscillator per key and a "flying hammer" mechanism, retailing around $695–845 for the companion Explorer models.[^wikipedia-rocky-mount-instruments]
 
 ## Why it matters to the Hammond story
 
 RMI's Electra-piano and harpsichord models became the standard *second* keyboard bolted next to the Hammond in late-1960s/70s rock rigs — portable, loud and cutting where a second tonewheel organ was neither:
 
-- **Jon Lord** of Deep Purple kept an RMI Electra-piano-plus-harpsichord in his Hammond-and-Marshall arsenal; it is featured on Fireball ("Demon's Eye") and across the Mark II Purple years[1][2]
-- [Brian Auger](/entities/players/brian-auger.md) used RMI keyboards alongside his Hammond in the Trinity years[3]
-- Other players: Todd Rundgren, Steve Winwood, Rick Wright, Herbie Hancock, Ray Manzarek[1]
+- **Jon Lord** of Deep Purple kept an RMI Electra-piano-plus-harpsichord in his Hammond-and-Marshall arsenal; it is featured on Fireball ("Demon's Eye") and across the Mark II Purple years[^wikipedia-rocky-mount-instruments][^wikipedia-jon-lord]
+- [Brian Auger](/entities/players/brian-auger.md) used RMI keyboards alongside his Hammond in the Trinity years[^wikipedia-brian-auger]
+- Other players: Todd Rundgren, Steve Winwood, Rick Wright, Herbie Hancock, Ray Manzarek[^wikipedia-rocky-mount-instruments]
 
 The portable-keyboard problem RMI solved for organists is the same thread explored in [Portable Hammonds](/concepts/portable-hammonds.md).
 
@@ -47,8 +46,6 @@ The portable-keyboard problem RMI solved for organists is the same thread explor
 - [RMI Keyboards reference site](http://www.rmikeyboards.com)
 - [Jon Lord's equipment](https://en.wikipedia.org/wiki/Jon_Lord)
 
-# Citations
-
-[1] [Rocky Mount Instruments](/raw/articles/wikipedia-rocky-mount-instruments.md)
-[2] [wikipedia-jon-lord](/raw/articles/wikipedia-jon-lord.md)
-[3] [wikipedia-brian-auger](/raw/articles/wikipedia-brian-auger.md)
+[^wikipedia-rocky-mount-instruments]: Rocky Mount Instruments
+[^wikipedia-jon-lord]: wikipedia-jon-lord
+[^wikipedia-brian-auger]: wikipedia-brian-auger

@@ -2,7 +2,9 @@
 type: Source
 title: Booker T. Jones
 resource: https://en.wikipedia.org/wiki/Booker_T._Jones
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Booker_T._Jones
 ingested: 2026-10-20
 sha256: b65ebe26b33c78f196d18ffa12c23aae0a04f71bbce3f43e5266825195c730db

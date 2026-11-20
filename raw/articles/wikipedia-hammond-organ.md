@@ -2,7 +2,9 @@
 type: Source
 title: Hammond organ
 resource: https://en.wikipedia.org/wiki/Hammond_organ
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Hammond_organ
 ingested: 2026-10-20
 sha256: 6f07d336b8e008f75e02f625f459b846ba05d1d6a145dfe5c46331b3734ce6fb

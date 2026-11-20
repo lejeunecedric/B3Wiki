@@ -6,7 +6,6 @@ tags:
 - company
 - modern
 - history
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-clonewheel-organ.md
   id: wikipedia-clonewheel-organ
@@ -32,7 +31,7 @@ Japanese musical-instrument conglomerate that acquired the [Hammond](/entities/m
 - **XM-1 / XMc-1** (1997), **XM-2 / XMc-2** (2006) — sound modules.
 - **XK-2** (1999), **XK-3 / XLK-3** (2004), **XK-3c** (2008), **XK-1** (2006) — prosumer models.
 - **New B-3 / New B-3 mk2 / XH-272 Elegante** — high-end consoles ($10,000+).
-- **SK1 / SK2** (2011) — stage / home keyboards.[1]
+- **SK1 / SK2** (2011) — stage / home keyboards.[^wikipedia-clonewheel-organ]
 
 Also the maker of the new line of Leslie speakers that ships with the XK-series organs.
 
@@ -42,6 +41,4 @@ Also the maker of the new line of Leslie speakers that ships with the XK-series 
 - [Leslie Speaker](/entities/instruments/leslie-speaker.md) — also produced under this brand
 - [Clonewheel Organ](/concepts/clonewheel-organ.md) — category
 
-# Citations
-
-[1] [wikipedia-clonewheel-organ](/raw/articles/wikipedia-clonewheel-organ.md)
+[^wikipedia-clonewheel-organ]: wikipedia-clonewheel-organ

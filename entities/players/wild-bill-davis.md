@@ -6,7 +6,6 @@ tags:
 - person
 - music
 - history
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-jimmy-smith.md
   id: wikipedia-jimmy-smith
@@ -28,11 +27,11 @@ confidence: medium
 
 # Wild Bill Davis
 
-American jazz organist — important bridge figure in the chain that runs from Fats Waller and Count Basie to [Jimmy Smith](/entities/players/jimmy-smith.md) and the modern jazz-organ trio tradition.[1]
+American jazz organist — important bridge figure in the chain that runs from Fats Waller and Count Basie to [Jimmy Smith](/entities/players/jimmy-smith.md) and the modern jazz-organ trio tradition.[^wikipedia-jimmy-smith]
 
 ## Why he matters here
-- Part of the gospel-organ to jazz-organ pipeline that grew out of Chicago First Church of Deliverance tradition.[2]
-- Hearing him play in 1954 was the catalyst that made [Jimmy Smith](/entities/players/jimmy-smith.md) switch from piano to organ permanently.[1]
+- Part of the gospel-organ to jazz-organ pipeline that grew out of Chicago First Church of Deliverance tradition.[^hammondorganco-hammond-story]
+- Hearing him play in 1954 was the catalyst that made [Jimmy Smith](/entities/players/jimmy-smith.md) switch from piano to organ permanently.[^wikipedia-jimmy-smith]
 
 Confidence: medium — two sources so far but no dedicated biography ingested yet.
 
@@ -40,7 +39,5 @@ Confidence: medium — two sources so far but no dedicated biography ingested ye
 - [Jimmy Smith](/entities/players/jimmy-smith.md) — his direct descendant in the lineage
 - [Hammond B-3](/entities/instruments/hammond-b3.md) — the instrument both played
 
-# Citations
-
-[1] [wikipedia-jimmy-smith](/raw/articles/wikipedia-jimmy-smith.md)
-[2] [THE HAMMOND STORY](/raw/articles/hammondorganco-hammond-story.md)
+[^wikipedia-jimmy-smith]: wikipedia-jimmy-smith
+[^hammondorganco-hammond-story]: THE HAMMOND STORY

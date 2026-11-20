@@ -2,7 +2,9 @@
 type: Source
 title: Gregg Rolie
 resource: https://en.wikipedia.org/wiki/Gregg_Rolie
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Gregg_Rolie
 ingested: 2026-10-20
 sha256: 0f69bcf7f874aec1e35743b6a75ee994ab0125ced716b7953f688ffdfc2ad71f

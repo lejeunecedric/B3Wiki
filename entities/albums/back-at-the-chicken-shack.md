@@ -6,7 +6,6 @@ tags:
 - album
 - music
 - history
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-back-at-the-chicken-shack.md
   id: wikipedia-back-at-the-chicken-shack
@@ -25,13 +24,13 @@ released: 1963
 
 # Back at the Chicken Shack
 
-**Back at the Chicken Shack** is a [Jimmy Smith](/entities/players/jimmy-smith.md) album **recorded in 1960** and **released in 1963** on the **Blue Note** label, from the same sessions as *Midnight Special*; it was later cited in the book *1001 Albums You Must Hear Before You Die*.[1]
+**Back at the Chicken Shack** is a [Jimmy Smith](/entities/players/jimmy-smith.md) album **recorded in 1960** and **released in 1963** on the **Blue Note** label, from the same sessions as *Midnight Special*; it was later cited in the book *1001 Albums You Must Hear Before You Die*.[^wikipedia-back-at-the-chicken-shack]
 
 ## The Hammond in it
 
-The definitive Smith trio-plus format: Smith on organ with **Stanley Turrentine** (tenor sax), **Kenny Burrell** (guitar, tracks 1/4/5) and **Donald Bailey** (drums), produced by **Alfred Lion** and engineered by **Rudy Van Gelder**, with design by Reid Miles.[1]
+The definitive Smith trio-plus format: Smith on organ with **Stanley Turrentine** (tenor sax), **Kenny Burrell** (guitar, tracks 1/4/5) and **Donald Bailey** (drums), produced by **Alfred Lion** and engineered by **Rudy Van Gelder**, with design by Reid Miles.[^wikipedia-back-at-the-chicken-shack]
 
-Musically it is Smith's blues-drenched sideline to his bebop outings — walking bass pedals, drawbar growl and harmonic percussion in service of a slow blues title track that became one of his signature records, and a key document of the [Blue Note](/entities/labels/blue-note-records.md) organ sound (see [Who carried the B-3 beyond Jimmy Smith?](/queries/b3-beyond-jimmy-smith.md)).[2]
+Musically it is Smith's blues-drenched sideline to his bebop outings — walking bass pedals, drawbar growl and harmonic percussion in service of a slow blues title track that became one of his signature records, and a key document of the [Blue Note](/entities/labels/blue-note-records.md) organ sound (see [Who carried the B-3 beyond Jimmy Smith?](/queries/b3-beyond-jimmy-smith.md)).[^wikipedia-jimmy-smith]
 
 ## External links
 
@@ -39,7 +38,5 @@ Musically it is Smith's blues-drenched sideline to his bebop outings — walking
 - [Jimmy Smith official/Blue Note page](https://www.bluenote.com/artist/jimmy-smith)
 - [1001 Albums list context](https://en.wikipedia.org/wiki/1001_Albums_You_Must_Hear_Before_You_Die)
 
-# Citations
-
-[1] [Back at the Chicken Shack](/raw/articles/wikipedia-back-at-the-chicken-shack.md)
-[2] [wikipedia-jimmy-smith](/raw/articles/wikipedia-jimmy-smith.md)
+[^wikipedia-back-at-the-chicken-shack]: Back at the Chicken Shack
+[^wikipedia-jimmy-smith]: wikipedia-jimmy-smith

@@ -2,7 +2,9 @@
 type: Source
 title: Infobox
 resource: https://en.wikipedia.org/wiki/Cookin%27_on_3_Burners
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://en.wikipedia.org/wiki/Cookin%27_on_3_Burners
 ingested: 2026-10-20
 sha256: e61253dd7b1865df358e7d3c79b4b569fcdad0afc756bfd8de441516c5c0c335

@@ -2,7 +2,9 @@
 type: Source
 title: 'Soul From A Console: Jazz On The Hammond B-3 Organ'
 resource: https://www.npr.org/sections/ablogsupreme/2013/11/11/244601650/soul-from-a-console-jazz-on-the-hammond-b-3-organ
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://www.npr.org/sections/ablogsupreme/2013/11/11/244601650/soul-from-a-console-jazz-on-the-hammond-b-3-organ
 ingested: 2026-10-20
 sha256: 1915ed641ce489a63dddeade470c938304a65591ca9b3aa36b6fc15cb93bd795

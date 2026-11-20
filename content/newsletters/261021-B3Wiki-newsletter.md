@@ -1,7 +1,6 @@
 ---
 type: Newsletter
 title: The Organ Donor
-timestamp: '2026-10-21T00:00:00Z'
 generated:
   by: process:b3wiki-agent
   at: '2026-10-21T00:00:00Z'

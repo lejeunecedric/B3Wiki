@@ -5,7 +5,6 @@ description: Soul-jazz organist who converted Jimmy McGriff to the organ; Groove
 tags:
 - person
 - music
-timestamp: '2026-10-20T00:00:00Z'
 sources:
 - resource: /raw/articles/wikipedia-jimmy-smith.md
   id: wikipedia-jimmy-smith
@@ -24,6 +23,9 @@ sources:
   last_modified: '2026-10-20T00:00:00Z'
 - resource: https://en.wikipedia.org/wiki/Richard_Holmes_(organist)
   id: richard-holmes-organist
+- resource: /raw/articles/bandcampdaily-parlor-greens-emeralds.md
+  id: bandcampdaily-parlor-greens-emeralds
+  last_modified: '2026-10-20T00:00:00Z'
 generated:
   by: process:b3wiki-agent
   at: '2026-10-20T00:00:00Z'
@@ -36,14 +38,14 @@ confidence: high
 
 # Richard "Groove" Holmes
 
-**Richard "Groove" Holmes** (1931–1991, dates pending a dedicated source), American soul-jazz organist — the man who converted [Jimmy McGriff](/entities/players/jimmy-mcgriff.md) to the organ and one of the sixties' most-recorded Hammond players.[1]
+**Richard "Groove" Holmes** (1931–1991, dates pending a dedicated source), American soul-jazz organist — the man who converted [Jimmy McGriff](/entities/players/jimmy-mcgriff.md) to the organ and one of the sixties' most-recorded Hammond players.[^wikipedia-jimmy-mcgriff]
 
 ## Why he matters
-- Played at his sister's wedding and entranced young Jimmy McGriff with the organ sound; became McGriff's teacher and friend — the two recorded together on two occasions in 1973 for Groove Merchant.[1]
-- Named by Hammond Organ Co.'s history in the swinging-Sixties soul-jazz legion that swung behind [Jimmy Smith](/entities/players/jimmy-smith.md) as Top Cat.[2]
-- Listed among the "Jimmy Smith disciples" in the Vinyldiscovery soul-jazz survey, alongside [Jack McDuff](/entities/players/jack-mcduff.md) and Don Patterson.[3]
-- Groove Merchant kept him recording late in his career — GM 4402 _Hunk–a–Funk_ compiles his _Night Glider_ and _New Groove_ albums.[4]
-- His later records (_On Basie's Bandstand_) remain Bandcamp staples of the revival scene.[5]
+- Played at his sister's wedding and entranced young Jimmy McGriff with the organ sound; became McGriff's teacher and friend — the two recorded together on two occasions in 1973 for Groove Merchant.[^wikipedia-jimmy-mcgriff]
+- Named by Hammond Organ Co.'s history in the swinging-Sixties soul-jazz legion that swung behind [Jimmy Smith](/entities/players/jimmy-smith.md) as Top Cat.[^hammondorganco-hammond-story]
+- Listed among the "Jimmy Smith disciples" in the Vinyldiscovery soul-jazz survey, alongside [Jack McDuff](/entities/players/jack-mcduff.md) and Don Patterson.[^vinyldiscovery-organ-jazz-soul-jazz]
+- Groove Merchant kept him recording late in his career — GM 4402 _Hunk–a–Funk_ compiles his _Night Glider_ and _New Groove_ albums.[^wikipedia-groove-merchant]
+- His later records (_On Basie's Bandstand_) remain Bandcamp staples of the revival scene.[^bandcampdaily-parlor-greens-emeralds]
 
 ## Related
 - [Jimmy McGriff](/entities/players/jimmy-mcgriff.md) — his most famous pupil
@@ -55,10 +57,8 @@ confidence: high
 - [Richard "Groove" Holmes — AllMusic](https://www.allmusic.com/artist/richard-groove-holmes-mn0000293232)
 - [_On Basie's Bandstand_ — Bandcamp](https://richardgrooveholmes.bandcamp.com/album/on-basies-bandstand)
 
-# Citations
-
-[1] [wikipedia-jimmy-mcgriff](/raw/articles/wikipedia-jimmy-mcgriff.md)
-[2] [THE HAMMOND STORY](/raw/articles/hammondorganco-hammond-story.md)
-[3] [[vinyldiscovery](https://vinyldiscovery.blogspot.com/)](/raw/articles/vinyldiscovery-organ-jazz-soul-jazz.md)
-[4] [Groove Merchant](/raw/articles/wikipedia-groove-merchant.md)
-[5] [bandcampdaily-parlor-greens-emeralds](/raw/articles/bandcampdaily-parlor-greens-emeralds.md)
+[^wikipedia-jimmy-mcgriff]: wikipedia-jimmy-mcgriff
+[^hammondorganco-hammond-story]: THE HAMMOND STORY
+[^vinyldiscovery-organ-jazz-soul-jazz]: [vinyldiscovery](https://vinyldiscovery.blogspot.com/)
+[^wikipedia-groove-merchant]: Groove Merchant
+[^bandcampdaily-parlor-greens-emeralds]: bandcampdaily-parlor-greens-emeralds

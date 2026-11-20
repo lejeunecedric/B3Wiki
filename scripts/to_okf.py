@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
-"""to_okf.py — convert B3Wiki (llm-wiki house style) to OKF v0.2 in place.
+"""to_okf.py — convert B3Wiki (llm-wiki house style) to OKF v0.3 in place.
 
 Mapping (see OKF-MAPPING.md):
   - type: derived from directory (entities/players -> Player, concepts -> Concept, ...)
-  - created/updated -> timestamp (updated) + generated.at (created), ISO 8601 UTC
-  - sources: [paths|urls] -> v0.2 sources: [{resource, id, last_modified}]
-  - ^[raw/...] provenance markers -> numbered [n] + trailing `# Citations` section
-  - [[wikilinks]] -> bundle-relative markdown links [text](/path.md)
-  - _index.md -> index.md; root index.md gains `okf_version: "0.2"`
-  - log.md `## [date] action | subject` -> grouped `## YYYY-MM-DD`
+  - updated -> generated.at (last meaningful change, §5.2); created kept as extra
+  - legacy v0.1 `timestamp` key is NOT emitted (Appendix B fallback only)
+  - sources: [paths|urls] -> v0.3 sources: [{resource, id, last_modified}] (§5.1)
+  - ^[raw/...] provenance markers -> [^id] footnotes keyed to sources[].id (§5.1);
+    no `# Citations` body section (v0.1 form superseded, §13.1)
+  - [[wikilinks]] -> bundle-root markdown links [text](/path.md) (§6)
+  - _index.md -> index.md; root index.md gains `okf_version: "0.3"` (§8.1)
+  - log.md `## [date] action | subject` -> grouped `## YYYY-MM-DD`, newest first (§9)
   - raw/ files gain type: Source + resource: <source_url>
 """
 from __future__ import annotations
@@ -23,6 +25,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from okflint import split_frontmatter  # noqa: E402
 
 SKIP_DIRS = {".git", "scripts", "assets", "tests", "__pycache__"}
+OKF_VERSION = "0.3"
 
 DIR_TYPES = {
     "entities/players": "Player",
@@ -37,7 +40,8 @@ DIR_TYPES = {
     "comparisons": "Comparison",
     "queries": "Query",
 }
-META_TYPES = {"SCHEMA.md": "Schema", "AGENTS.md": "Agent Guide", "README.md": "Readme"}
+META_TYPES = {"SCHEMA.md": "Schema", "AGENTS.md": "Agent Guide", "README.md": "Readme",
+              "OKF-MAPPING.md": "Mapping Doc"}
 
 WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]")
 FOOTNOTE = re.compile(r"\^\[([^\]]+)\]")
@@ -175,38 +179,27 @@ def rewrite_wikilinks(body: str, current_rel: str, slug_map: dict, root: str) ->
         elif target in slug_map:
             path = slug_map[target]["path"]
         if path is None:
-            return f"[{alias or target}](/{target}.md)"  # broken link tolerated (§5.3)
+            return f"[{alias or target}](/{target}.md)"  # broken link tolerated (§6.1)
         text = alias or by_path.get(path) or stem(path)
         return f"[{text}](/{path})"
 
     return WIKILINK.sub(repl, body)
 
 
-def extract_citations(body: str):
-    order: list[str] = []
+def build_sources(fm_sources: list, markers: list, raw_meta: dict):
+    """v0.3 §5.1: unified sources[] with stable ids.
 
-    def repl(m):
-        p = m.group(1)
-        if p not in order:
-            order.append(p)
-        return f"[{order.index(p) + 1}]"
-
-    return FOOTNOTE.sub(repl, body), order
-
-
-def citations_section(cites: list[str], titles: dict) -> str:
-    lines = ["", "# Citations", ""]
-    for i, p in enumerate(cites, 1):
-        lines.append(f"[{i}] [{titles.get(p, stem(p))}](/{p.lstrip('/')})")
-    return "\n".join(lines) + "\n"
-
-
-def sources_v02(items: list, raw_meta: dict) -> list:
-    out, used = [], set()
-    for s in items:
-        s = str(s).strip()
-        if not s:
+    Returns (entries, id_of) where id_of maps each source string (raw path
+    or URL) to its entry id, so body markers can cite [^id] footnotes.
+    Frontmatter `sources` come first, then body-only markers, deduped."""
+    entries, used, id_of = [], set(), {}
+    seen_keys = set()
+    ordered = [str(s).strip() for s in fm_sources]
+    ordered += [str(m).strip() for m in markers]
+    for s in ordered:
+        if not s or s in seen_keys:
             continue
+        seen_keys.add(s)
         if s.startswith("raw/") or s.startswith("/raw/"):
             rel = s.lstrip("/")
             entry = {"resource": "/" + rel, "id": uniq(stem(rel), used)}
@@ -215,14 +208,42 @@ def sources_v02(items: list, raw_meta: dict) -> list:
                 entry["last_modified"] = to_dt(ing)
         else:
             entry = {"resource": s, "id": uniq(url_slug(s), used)}
-        out.append(entry)
-    return out
+        id_of[s] = entry["id"]
+        entries.append(entry)
+    return entries, id_of
+
+
+def attribute_footnotes(body: str, id_of: dict, titles: dict) -> str:
+    """v0.3 §5.1 per-claim attribution: `^[raw/x.md]` markers become
+    [^id] footnotes keyed to sources[].id, with definitions appended at
+    the end (first-appearance order). No `# Citations` section (§13.1)."""
+    used: list[str] = []
+
+    def repl(m):
+        p = m.group(1)
+        fid = id_of.get(p) or id_of.get(p.lstrip("/"))
+        if fid is None:
+            return m.group(0)  # unknown source: leave marker for the linter
+        if fid not in used:
+            used.append(fid)
+        return f"[^{fid}]"
+
+    new = FOOTNOTE.sub(repl, body)
+    if not used:
+        return new
+    new = new.rstrip("\n") + "\n"
+    lines = [""]
+    for fid in used:
+        label = next((k for k, v in id_of.items() if v == fid), fid)
+        lines.append(f"[^{fid}]: {titles.get(label, fid)}")
+    new += "\n".join(lines) + "\n"
+    return new
 
 
 RESERVED_KEYS = {"type", "title", "description", "tags", "timestamp", "sources", "generated"}
 
 
-def map_page_frontmatter(fm: dict, page_type: str, desc: str, raw_meta: dict) -> dict:
+def map_page_frontmatter(fm: dict, page_type: str, desc: str, src_entries: list) -> dict:
     out: dict = {"type": page_type}
     if fm.get("title"):
         out["title"] = fm["title"]
@@ -230,13 +251,10 @@ def map_page_frontmatter(fm: dict, page_type: str, desc: str, raw_meta: dict) ->
         out["description"] = desc
     if fm.get("tags"):
         out["tags"] = fm["tags"]
-    ts = to_dt(fm.get("updated") or fm.get("created") or "")
-    if ts:
-        out["timestamp"] = ts
-    srcs = sources_v02(fm.get("sources") or [], raw_meta)
-    if srcs:
-        out["sources"] = srcs
-    gen_at = to_dt(fm.get("created") or fm.get("updated") or "")
+    if src_entries:
+        out["sources"] = src_entries
+    # §5.2: generated.at = last meaningful change to the content
+    gen_at = to_dt(fm.get("updated") or fm.get("created") or "")
     if gen_at:
         out["generated"] = {"by": GENERATED_BY, "at": gen_at}
     for k, v in fm.items():  # preserve extras (confidence, born, died, ...)
@@ -252,7 +270,7 @@ def map_raw_frontmatter(fm: dict, title: str) -> dict:
     if fm.get("source_url"):
         out["resource"] = fm["source_url"]
     if fm.get("ingested"):
-        out["timestamp"] = to_dt(fm["ingested"])
+        out["generated"] = {"by": GENERATED_BY, "at": to_dt(fm["ingested"])}
     for k in ("source_url", "ingested", "sha256"):
         if k in fm:
             out[k] = fm[k]
@@ -268,7 +286,6 @@ def map_newsletter_frontmatter(body: str, stem_name: str) -> dict:
     m = re.match(r"(\d{2})(\d{2})(\d{2})-", stem_name)
     if m:
         ts = f"20{m.group(1)}-{m.group(2)}-{m.group(3)}T00:00:00Z"
-        out["timestamp"] = ts
         out["generated"] = {"by": GENERATED_BY, "at": ts}
     return out
 
@@ -288,7 +305,7 @@ def reformat_log(md: str) -> str:
         head.append(lines[i])
         i += 1
     head = [
-        "> Format: `## YYYY-MM-DD` headings, most recent first (OKF §7)."
+        "> Format: `## YYYY-MM-DD` headings, most recent first (OKF §9)."
         if l.startswith("> Format:")
         else "> Reverse-chronological record of all wiki actions (newest first)."
         if l.startswith("> Chronological record")
@@ -310,7 +327,7 @@ def reformat_log(md: str) -> str:
     for e in entries:
         groups.setdefault(e["date"], []).append(e)
     out = head + [""]
-    for date in sorted(groups, reverse=True):  # antichronological (OKF §7)
+    for date in sorted(groups, reverse=True):  # antichronological (OKF §9)
         es = groups[date]
         out += [f"## {date}", ""]
         for e in es:
@@ -365,7 +382,13 @@ def convert(root: str):
             elif fn == "index.md":
                 new = rewrite_wikilinks(body, rel, slug_map, root)
                 if rel == "index.md":
-                    new = serialize({"okf_version": "0.2"}, new)
+                    new = serialize({
+                        "okf_version": OKF_VERSION,
+                        "title": "B3Wiki",
+                        "description": ("An OKF knowledge bundle about the Hammond "
+                                        "organ, born as a Karpathy-style llm-wiki."),
+                        "license": "CC-BY-SA-4.0",
+                    }, new)
                 with open(path, "w", encoding="utf-8") as f:
                     f.write(new)
             elif fn == "log.md":
@@ -373,9 +396,13 @@ def convert(root: str):
                 with open(path, "w", encoding="utf-8") as f:
                     f.write(reformat_log(text))
             elif rel in META_TYPES:
-                fm2 = {"type": META_TYPES[rel], "title": first_h1(body) or stem(fn)}
-                with open(path, "w", encoding="utf-8") as f:
-                    f.write(serialize(fm2, body))
+                if str(fm.get("type", "")).strip():
+                    pass  # curated doc frontmatter: keep verbatim (§4 "do not
+                    # re-serialize unchanged values"); docs are not converted
+                else:
+                    fm2 = {"type": META_TYPES[rel], "title": first_h1(body) or stem(fn)}
+                    with open(path, "w", encoding="utf-8") as f:
+                        f.write(serialize(fm2, body))
             elif rel.startswith("raw/"):
                 fm2 = map_raw_frontmatter(fm, first_h1(body) or stem(fn))
                 with open(path, "w", encoding="utf-8") as f:
@@ -386,14 +413,12 @@ def convert(root: str):
                 with open(path, "w", encoding="utf-8") as f:
                     f.write(serialize(fm2, new))
             else:
-                body2, cites = extract_citations(body)
+                markers = [m for m in FOOTNOTE.findall(body)]
+                src_entries, id_of = build_sources(fm.get("sources") or [], markers, raw_meta)
+                body2 = attribute_footnotes(body, id_of, raw_titles)
                 body2 = rewrite_wikilinks(body2, rel, slug_map, root)
-                if not cites:
-                    cites = [s for s in (fm.get("sources") or []) if str(s).startswith("raw/")]
-                if cites:
-                    body2 = body2.rstrip("\n") + "\n" + citations_section(cites, raw_titles)
                 desc = index_desc.get(stem(fn)) or first_sentence(body2)
-                fm2 = map_page_frontmatter(fm, dir_type(rel), desc, raw_meta)
+                fm2 = map_page_frontmatter(fm, dir_type(rel), desc, src_entries)
                 with open(path, "w", encoding="utf-8") as f:
                     f.write(serialize(fm2, body2))
             n += 1

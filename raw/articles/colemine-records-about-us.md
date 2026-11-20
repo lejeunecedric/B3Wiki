@@ -2,7 +2,9 @@
 type: Source
 title: colemine-records-about-us
 resource: https://coleminerecords.com/pages/about-us
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://coleminerecords.com/pages/about-us
 ingested: 2026-10-20
 sha256: 4da7f3699a53e61f3d7a5ea8065d511b05de4fc06f98e9509b231371005af928

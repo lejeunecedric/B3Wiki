@@ -2,7 +2,9 @@
 type: Source
 title: The Men From S.P.E.C.T.R.E.
 resource: https://discogs.com/artist/275292-The-Men-From-SPECTRE
-timestamp: '2026-10-20T00:00:00Z'
+generated:
+  by: process:b3wiki-agent
+  at: '2026-10-20T00:00:00Z'
 source_url: https://discogs.com/artist/275292-The-Men-From-SPECTRE
 ingested: 2026-10-20
 sha256: 40bc5baf6f7cafda7ec0376359a515a127972f91bd69ec25db68dd0eeadd46d3
